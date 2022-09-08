@@ -1,0 +1,12 @@
+{
+    "dialogType":"NPC",
+    "htmlFolder":"npc",
+    
+    "soloTeleports": [],
+    "partyTeleports": [],
+    "commandChannelTeleports": [],
+    
+    "soloTeleportCategories": ["STC_TOWN_AREAS", "STC_CASTLE_AREAS", "STC_NECROPOLIS", "STC_CATACOMBS", "STC_CONQUERABLE_CLAN_HALLS", "STC_WORLD_AREAS_DION", "STC_WORLD_AREAS_GLUDIO", "STC_WORLD_AREAS_ADEN", "STC_WORLD_AREAS_SCHUTTGART", "STC_WORLD_AREAS_GODDARD", "STC_WORLD_AREAS_GIRAN", "STC_WORLD_AREAS_OREN", "STC_WORLD_AREAS_INNADRIL", "STC_WORLD_AREAS_RUNE", "STC_FORTRESS", "STC_INSTANCES", "STC_OTHER_LOCATIONS"],
+    "partyTeleportCategories": [],
+    "commandChannelTeleportCategories": []
+}

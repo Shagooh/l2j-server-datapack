@@ -1,0 +1,1 @@
+ALTER TABLE `siegable_clanhall` CHANGE COLUMN `siegeLenght` `siege_length` INT(10) NULL DEFAULT NULL AFTER `nextSiege`;

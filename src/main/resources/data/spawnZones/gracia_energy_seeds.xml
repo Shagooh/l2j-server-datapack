@@ -1,0 +1,1776 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/spawnZones.xsd">
+    <spawnZones>
+        <!-- Seed of Destructon Zones -->
+        <zone id="101" minZ="-12426" maxZ="-12226">
+            <point x="-242621" y="217288" />
+            <point x="-242610" y="218916" />
+            <point x="-242522" y="219010" />
+            <point x="-241449" y="219006" />
+            <point x="-241342" y="218886" />
+            <point x="-241344" y="217290" />
+            <point x="-241438" y="217179" />
+            <point x="-242520" y="217185" />
+        </zone>
+        <zone id="102" minZ="-12417" maxZ="-12217">
+            <point x="-240207" y="217286" />
+            <point x="-240194" y="218908" />
+            <point x="-240286" y="219009" />
+            <point x="-240788" y="219010" />
+            <point x="-240882" y="218909" />
+            <point x="-240889" y="217315" />
+            <point x="-240778" y="217187" />
+            <point x="-240300" y="217186" />
+        </zone>
+        <zone id="103" minZ="-12676" maxZ="-12476">
+            <point x="-239622" y="216216" />
+            <point x="-239593" y="217191" />
+            <point x="-239466" y="217305" />
+            <point x="-237955" y="217295" />
+            <point x="-237849" y="217192" />
+            <point x="-237863" y="216189" />
+            <point x="-237933" y="216097" />
+            <point x="-239505" y="216094" />
+        </zone>
+        <zone id="104" minZ="-12679" maxZ="-12479">
+            <point x="-237824" y="215035" />
+            <point x="-237817" y="215506" />
+            <point x="-237911" y="215595" />
+            <point x="-239522" y="215604" />
+            <point x="-239609" y="215503" />
+            <point x="-239613" y="215032" />
+            <point x="-239520" y="214937" />
+            <point x="-237927" y="214940" />
+        </zone>
+        <zone id="105" minZ="-12810" maxZ="-12610">
+            <point x="-239636" y="212608" />
+            <point x="-239606" y="213583" />
+            <point x="-239479" y="213697" />
+            <point x="-237968" y="213687" />
+            <point x="-237862" y="213584" />
+            <point x="-237876" y="212581" />
+            <point x="-237947" y="212489" />
+            <point x="-239519" y="212486" />
+        </zone>
+        <zone id="106" minZ="-12813" maxZ="-12613">
+            <point x="-237837" y="211427" />
+            <point x="-237831" y="211898" />
+            <point x="-237924" y="211987" />
+            <point x="-239535" y="211996" />
+            <point x="-239622" y="211895" />
+            <point x="-239626" y="211424" />
+            <point x="-239534" y="211329" />
+            <point x="-237940" y="211332" />
+        </zone>
+        <zone id="107" minZ="-12559" maxZ="-12359">
+            <point x="-243691" y="213504" />
+            <point x="-243661" y="214480" />
+            <point x="-243534" y="214593" />
+            <point x="-242024" y="214583" />
+            <point x="-241917" y="214480" />
+            <point x="-241932" y="213477" />
+            <point x="-242002" y="213386" />
+            <point x="-243574" y="213382" />
+        </zone>
+        <zone id="108" minZ="-12562" maxZ="-12362">
+            <point x="-241892" y="212324" />
+            <point x="-241886" y="212794" />
+            <point x="-241980" y="212883" />
+            <point x="-243590" y="212892" />
+            <point x="-243678" y="212792" />
+            <point x="-243681" y="212320" />
+            <point x="-243589" y="212225" />
+            <point x="-241996" y="212228" />
+        </zone>
+        <zone id="109" minZ="-12681" maxZ="-12481">
+            <point x="-243715" y="209886" />
+            <point x="-243685" y="210861" />
+            <point x="-243558" y="210975" />
+            <point x="-242048" y="210965" />
+            <point x="-241941" y="210861" />
+            <point x="-241956" y="209859" />
+            <point x="-242026" y="209767" />
+            <point x="-243598" y="209764" />
+        </zone>
+        <zone id="110" minZ="-12684" maxZ="-12484">
+            <point x="-241916" y="208705" />
+            <point x="-241910" y="209176" />
+            <point x="-242004" y="209264" />
+            <point x="-243614" y="209273" />
+            <point x="-243702" y="209173" />
+            <point x="-243706" y="208702" />
+            <point x="-243613" y="208607" />
+            <point x="-242020" y="208610" />
+        </zone>
+        <zone id="111" minZ="-12930" maxZ="-12730">
+            <point x="-241343" y="207015" />
+            <point x="-241332" y="208643" />
+            <point x="-241243" y="208737" />
+            <point x="-240171" y="208733" />
+            <point x="-240063" y="208613" />
+            <point x="-240066" y="207017" />
+            <point x="-240159" y="206906" />
+            <point x="-241242" y="206912" />
+        </zone>
+        <zone id="112" minZ="-12921" maxZ="-12721">
+            <point x="-238929" y="207013" />
+            <point x="-238916" y="208635" />
+            <point x="-239007" y="208736" />
+            <point x="-239509" y="208737" />
+            <point x="-239604" y="208636" />
+            <point x="-239610" y="207042" />
+            <point x="-239500" y="206914" />
+            <point x="-239021" y="206913" />
+        </zone>
+        <zone id="113" minZ="-12420" maxZ="-12220">
+            <point x="-246780" y="212112" />
+            <point x="-246751" y="213088" />
+            <point x="-246623" y="213201" />
+            <point x="-245113" y="213191" />
+            <point x="-245007" y="213088" />
+            <point x="-245021" y="212085" />
+            <point x="-245091" y="211994" />
+            <point x="-246663" y="211990" />
+        </zone>
+        <zone id="114" minZ="-12423" maxZ="-12223">
+            <point x="-244981" y="210932" />
+            <point x="-244975" y="211402" />
+            <point x="-245069" y="211491" />
+            <point x="-246679" y="211500" />
+            <point x="-246767" y="211400" />
+            <point x="-246771" y="210928" />
+            <point x="-246678" y="210833" />
+            <point x="-245085" y="210836" />
+        </zone>
+        <zone id="115" minZ="-12562" maxZ="-12362">
+            <point x="-246789" y="208504" />
+            <point x="-246760" y="209480" />
+            <point x="-246632" y="209593" />
+            <point x="-245122" y="209583" />
+            <point x="-245016" y="209480" />
+            <point x="-245030" y="208477" />
+            <point x="-245100" y="208386" />
+            <point x="-246672" y="208382" />
+        </zone>
+        <zone id="116" minZ="-12565" maxZ="-12365">
+            <point x="-244990" y="207324" />
+            <point x="-244984" y="207794" />
+            <point x="-245078" y="207883" />
+            <point x="-246688" y="207892" />
+            <point x="-246776" y="207792" />
+            <point x="-246780" y="207320" />
+            <point x="-246687" y="207225" />
+            <point x="-245094" y="207228" />
+        </zone>
+        <zone id="117" minZ="-12807" maxZ="-12607">
+            <point x="-244430" y="205650" />
+            <point x="-244419" y="207278" />
+            <point x="-244331" y="207371" />
+            <point x="-243259" y="207368" />
+            <point x="-243151" y="207247" />
+            <point x="-243154" y="205652" />
+            <point x="-243247" y="205541" />
+            <point x="-244329" y="205547" />
+        </zone>
+        <zone id="118" minZ="-12798" maxZ="-12598">
+            <point x="-242017" y="205648" />
+            <point x="-242004" y="207270" />
+            <point x="-242095" y="207370" />
+            <point x="-242597" y="207372" />
+            <point x="-242691" y="207271" />
+            <point x="-242698" y="205677" />
+            <point x="-242588" y="205549" />
+            <point x="-242109" y="205548" />
+        </zone>
+        <zone id="119" minZ="-12484" maxZ="-12284">
+            <point x="-249545" y="219269" />
+            <point x="-249534" y="220897" />
+            <point x="-249445" y="220991" />
+            <point x="-248373" y="220987" />
+            <point x="-248265" y="220867" />
+            <point x="-248268" y="219271" />
+            <point x="-248362" y="219160" />
+            <point x="-249444" y="219166" />
+        </zone>
+        <zone id="120" minZ="-12492" maxZ="-12292">
+            <point x="-250008" y="219250" />
+            <point x="-249995" y="220872" />
+            <point x="-250086" y="220973" />
+            <point x="-250588" y="220975" />
+            <point x="-250682" y="220874" />
+            <point x="-250689" y="219280" />
+            <point x="-250579" y="219152" />
+            <point x="-250100" y="219150" />
+        </zone>
+        <zone id="121" minZ="-12335" maxZ="-11935">
+            <point x="-253210" y="217086" />
+            <point x="-249653" y="217077" />
+            <point x="-249648" y="217678" />
+            <point x="-253196" y="217670" />
+        </zone>
+        <zone id="122" minZ="-12299" maxZ="-11899">
+            <point x="-253202" y="216420" />
+            <point x="-252605" y="216424" />
+            <point x="-252600" y="216738" />
+            <point x="-253206" y="216737" />
+        </zone>
+        <zone id="123" minZ="-12292" maxZ="-11892">
+            <point x="-251806" y="216452" />
+            <point x="-251102" y="216450" />
+            <point x="-251106" y="216773" />
+            <point x="-251804" y="216777" />
+        </zone>
+        <zone id="124" minZ="-12290" maxZ="-11890">
+            <point x="-250381" y="216459" />
+            <point x="-249677" y="216457" />
+            <point x="-249681" y="216780" />
+            <point x="-250379" y="216784" />
+        </zone>
+        <zone id="125" minZ="-12261" maxZ="-11861">
+            <point x="-251798" y="215642" />
+            <point x="-251094" y="215639" />
+            <point x="-251098" y="215962" />
+            <point x="-251796" y="215967" />
+        </zone>
+        <zone id="126" minZ="-12273" maxZ="-11873">
+            <point x="-253177" y="215692" />
+            <point x="-252538" y="215689" />
+            <point x="-252542" y="216012" />
+            <point x="-253187" y="216013" />
+        </zone>
+        <zone id="127" minZ="-12274" maxZ="-11874">
+            <point x="-250334" y="215701" />
+            <point x="-249676" y="215698" />
+            <point x="-249680" y="216021" />
+            <point x="-250333" y="216025" />
+        </zone>
+        <!-- Seed of Infinity Zones -->
+        <zone id="201" minZ="-15550" maxZ="-15450">
+            <point x="-178819" y="212427" />
+            <point x="-178819" y="213212" />
+            <point x="-179185" y="213605" />
+            <point x="-179921" y="213603" />
+            <point x="-180314" y="213217" />
+            <point x="-180314" y="212433" />
+            <point x="-179902" y="212045" />
+            <point x="-179242" y="212043" />
+        </zone>
+        <zone id="202" minZ="-15550" maxZ="-15450">
+            <point x="-176050" y="210757" />
+            <point x="-175888" y="211267" />
+            <point x="-176229" y="211880" />
+            <point x="-176744" y="212007" />
+            <point x="-177459" y="211628" />
+            <point x="-177526" y="210986" />
+            <point x="-177313" y="210618" />
+            <point x="-176688" y="210363" />
+        </zone>
+        <zone id="203" minZ="-15550" maxZ="-15450">
+            <point x="-176272" y="207222" />
+            <point x="-175898" y="207841" />
+            <point x="-176051" y="208386" />
+            <point x="-176710" y="208789" />
+            <point x="-177223" y="208666" />
+            <point x="-177608" y="208000" />
+            <point x="-177459" y="207499" />
+            <point x="-176775" y="207113" />
+        </zone>
+        <zone id="204" minZ="-15550" maxZ="-15450">
+            <point x="-178813" y="205936" />
+            <point x="-178815" y="206690" />
+            <point x="-179158" y="207104" />
+            <point x="-179952" y="207105" />
+            <point x="-180269" y="206683" />
+            <point x="-180268" y="205935" />
+            <point x="-179858" y="205503" />
+            <point x="-179222" y="205503" />
+        </zone>
+        <zone id="205" minZ="-15550" maxZ="-15450">
+            <point x="-181657" y="207504" />
+            <point x="-181487" y="208000" />
+            <point x="-181884" y="208679" />
+            <point x="-182408" y="208791" />
+            <point x="-183050" y="208360" />
+            <point x="-183201" y="207811" />
+            <point x="-182867" y="207245" />
+            <point x="-182348" y="207127" />
+        </zone>
+        <zone id="206" minZ="-15550" maxZ="-15450">
+            <point x="-181883" y="210474" />
+            <point x="-181501" y="211134" />
+            <point x="-181652" y="211614" />
+            <point x="-182342" y="212017" />
+            <point x="-182916" y="211866" />
+            <point x="-183220" y="211319" />
+            <point x="-183071" y="210741" />
+            <point x="-182383" y="210365" />
+        </zone>
+        <zone id="207" minZ="-12860" maxZ="-12660">
+            <point x="-179918" y="210722" />
+            <point x="-179395" y="210725" />
+            <point x="-179461" y="211363" />
+            <point x="-179852" y="211363" />
+        </zone>
+        <zone id="208" minZ="-12112" maxZ="-11912">
+            <point x="-179062" y="211047" />
+            <point x="-177776" y="211044" />
+            <point x="-177780" y="212297" />
+            <point x="-179066" y="212290" />
+        </zone>
+        <zone id="209" minZ="-12132" maxZ="-11932">
+            <point x="-179055" y="205880" />
+            <point x="-177787" y="205878" />
+            <point x="-177770" y="207195" />
+            <point x="-179060" y="207178" />
+        </zone>
+        <zone id="210" minZ="-12108" maxZ="-11908">
+            <point x="-181555" y="205901" />
+            <point x="-180256" y="205901" />
+            <point x="-180210" y="207176" />
+            <point x="-181550" y="207196" />
+        </zone>
+        <zone id="211" minZ="-12116" maxZ="-11916">
+            <point x="-181552" y="211012" />
+            <point x="-180262" y="211012" />
+            <point x="-180259" y="212302" />
+            <point x="-181606" y="212286" />
+        </zone>
+        <zone id="212" minZ="-12027" maxZ="-11827">
+            <point x="-176304" y="209293" />
+            <point x="-175395" y="209697" />
+            <point x="-175860" y="210713" />
+            <point x="-176708" y="210363" />
+        </zone>
+        <zone id="213" minZ="-12027" maxZ="-11827">
+            <point x="-176659" y="207801" />
+            <point x="-175812" y="207513" />
+            <point x="-175401" y="208597" />
+            <point x="-176314" y="208925" />
+        </zone>
+        <zone id="214" minZ="-12017" maxZ="-11817">
+            <point x="-183475" y="207498" />
+            <point x="-182689" y="207732" />
+            <point x="-183094" y="208941" />
+            <point x="-183930" y="208568" />
+        </zone>
+        <zone id="215" minZ="-12029" maxZ="-11829">
+            <point x="-183868" y="209471" />
+            <point x="-182962" y="209286" />
+            <point x="-182662" y="210431" />
+            <point x="-183661" y="210627" />
+        </zone>
+        <zone id="216" minZ="-9571" maxZ="-9371">
+            <point x="-186593" y="207997" />
+            <point x="-186045" y="207997" />
+            <point x="-186045" y="208585" />
+            <point x="-186593" y="208585" />
+        </zone>
+        <zone id="217" minZ="-9576" maxZ="-9376">
+            <point x="-184757" y="210866" />
+            <point x="-184209" y="210866" />
+            <point x="-184209" y="211454" />
+            <point x="-184757" y="211454" />
+        </zone>
+        <zone id="218" minZ="-9581" maxZ="-9381">
+            <point x="-183070" y="213607" />
+            <point x="-182522" y="213607" />
+            <point x="-182522" y="214195" />
+            <point x="-183070" y="214195" />
+        </zone>
+        <zone id="219" minZ="-9568" maxZ="-9368">
+            <point x="-181201" y="216483" />
+            <point x="-180653" y="216483" />
+            <point x="-180653" y="217071" />
+            <point x="-181201" y="217071" />
+        </zone>
+        <zone id="220" minZ="-9593" maxZ="-9393">
+            <point x="-177507" y="217560" />
+            <point x="-176959" y="217560" />
+            <point x="-176959" y="218148" />
+            <point x="-177507" y="218148" />
+        </zone>
+        <zone id="221" minZ="-9603" maxZ="-9403">
+            <point x="-173956" y="217823" />
+            <point x="-173408" y="217823" />
+            <point x="-173408" y="218411" />
+            <point x="-173956" y="218411" />
+        </zone>
+        <zone id="222" minZ="-9576" maxZ="-9376">
+            <point x="-187842" y="205628" />
+            <point x="-187642" y="205628" />
+            <point x="-187642" y="205828" />
+            <point x="-187842" y="205828" />
+        </zone>
+        <!-- Seed of Annihilation (Bistakon) Zones -->
+        <zone id="301" minZ="-10206" maxZ="-10106">
+            <point x="-175973" y="175888" />
+            <point x="-173914" y="178503" />
+            <point x="-174611" y="180178" />
+            <point x="-177411" y="178025" />
+        </zone>
+        <zone id="302" minZ="-10384" maxZ="-10284">
+            <point x="-177730" y="181924" />
+            <point x="-177013" y="181814" />
+            <point x="-177984" y="183704" />
+            <point x="-178685" y="183490" />
+        </zone>
+        <zone id="303" minZ="-10277" maxZ="-10177">
+            <point x="-179701" y="179488" />
+            <point x="-178826" y="179254" />
+            <point x="-177566" y="180107" />
+            <point x="-178755" y="180665" />
+        </zone>
+        <zone id="304" minZ="-10324" maxZ="-10224">
+            <point x="-181691" y="178956" />
+            <point x="-180038" y="179797" />
+            <point x="-180437" y="180732" />
+            <point x="-182747" y="180311" />
+        </zone>
+        <zone id="305" minZ="-10033" maxZ="-9933">
+            <point x="-184058" y="175634" />
+            <point x="-183283" y="176075" />
+            <point x="-183586" y="177200" />
+            <point x="-184713" y="176600" />
+        </zone>
+        <zone id="306" minZ="-10181" maxZ="-10081">
+            <point x="-185748" y="177557" />
+            <point x="-183769" y="177854" />
+            <point x="-184627" y="179609" />
+            <point x="-185514" y="179832" />
+        </zone>
+        <zone id="307" minZ="-10264" maxZ="-10164">
+            <point x="-184399" y="180447" />
+            <point x="-183585" y="180316" />
+            <point x="-183587" y="181077" />
+            <point x="-184776" y="181082" />
+        </zone>
+        <zone id="308" minZ="-10270" maxZ="-10170">
+            <point x="-185601" y="181552" />
+            <point x="-184563" y="181249" />
+            <point x="-184480" y="182239" />
+            <point x="-185572" y="182199" />
+        </zone>
+        <zone id="309" minZ="-10330" maxZ="-10230">
+            <point x="-184640" y="182699" />
+            <point x="-182220" y="182659" />
+            <point x="-182557" y="183832" />
+            <point x="-184640" y="183792" />
+        </zone>
+        <!-- Seed of Annihilation (Reptilikon) Zones -->
+        <zone id="401" minZ="-15706" maxZ="-15556">
+            <point x="-177113" y="177217" />
+            <point x="-175895" y="177181" />
+            <point x="-174867" y="178636" />
+            <point x="-177610" y="178574" />
+        </zone>
+        <zone id="402" minZ="-15581" maxZ="-15431">
+            <point x="-176920" y="179012" />
+            <point x="-174726" y="179041" />
+            <point x="-174387" y="180717" />
+            <point x="-175828" y="180830" />
+        </zone>
+        <zone id="403" minZ="-15546" maxZ="-15396">
+            <point x="-176505" y="181256" />
+            <point x="-174350" y="181229" />
+            <point x="-173952" y="182908" />
+            <point x="-176670" y="182761" />
+        </zone>
+        <zone id="404" minZ="-15029" maxZ="-14879">
+            <point x="-181027" y="176943" />
+            <point x="-179948" y="176929" />
+            <point x="-179885" y="178941" />
+            <point x="-181711" y="179087" />
+        </zone>
+        <zone id="405" minZ="-15061" maxZ="-14911">
+            <point x="-182518" y="180112" />
+            <point x="-179880" y="180143" />
+            <point x="-180026" y="180917" />
+            <point x="-182346" y="181268" />
+        </zone>
+        <zone id="406" minZ="-15279" maxZ="-15129">
+            <point x="-185765" y="175812" />
+            <point x="-184264" y="175350" />
+            <point x="-183475" y="177392" />
+            <point x="-186212" y="177297" />
+        </zone>
+        <zone id="407" minZ="-15403" maxZ="-15253">
+            <point x="-186631" y="177796" />
+            <point x="-184134" y="178765" />
+            <point x="-184319" y="179935" />
+            <point x="-186832" y="179761" />
+        </zone>
+        <zone id="408" minZ="-15461" maxZ="-15311">
+            <point x="-187038" y="180215" />
+            <point x="-184047" y="180498" />
+            <point x="-184514" y="181888" />
+            <point x="-186720" y="182214" />
+        </zone>
+        <zone id="409" minZ="-15640" maxZ="-15490">
+            <point x="-186832" y="182488" />
+            <point x="-183943" y="182514" />
+            <point x="-183865" y="183199" />
+            <point x="-186664" y="183768" />
+        </zone>
+        <zone id="410" minZ="-15646" maxZ="-15496">
+            <point x="-186714" y="184055" />
+            <point x="-184960" y="183748" />
+            <point x="-184527" y="185180" />
+            <point x="-186182" y="185580" />
+        </zone>
+        <zone id="411" minZ="-15678" maxZ="-15528">
+            <point x="-186264" y="185820" />
+            <point x="-184242" y="185370" />
+            <point x="-183717" y="186786" />
+            <point x="-185213" y="187396" />
+        </zone>
+        <!-- Seed of Annihilation (Kokracon) Zones -->
+        <zone id="501" minZ="-12640" maxZ="-12420">
+            <point x="-220263" y="179629" />
+            <point x="-218588" y="179648" />
+            <point x="-218544" y="181215" />
+            <point x="-220322" y="181178" />
+        </zone>
+        <zone id="502" minZ="-12655" maxZ="-12455">
+            <point x="-220287" y="175583" />
+            <point x="-219698" y="175587" />
+            <point x="-219679" y="178289" />
+            <point x="-220330" y="178317" />
+        </zone>
+        <zone id="503" minZ="-11386" maxZ="-11186">
+            <point x="-220236" y="174141" />
+            <point x="-218438" y="174141" />
+            <point x="-218438" y="175910" />
+            <point x="-220236" y="175910" />
+        </zone>
+        <zone id="504" minZ="-11388" maxZ="-11188">
+            <point x="-219449" y="177087" />
+            <point x="-218569" y="176796" />
+            <point x="-218545" y="180133" />
+            <point x="-219176" y="180037" />
+        </zone>
+        <zone id="505" minZ="-11391" maxZ="-11191">
+            <point x="-219428" y="180568" />
+            <point x="-218438" y="180403" />
+            <point x="-218541" y="181052" />
+            <point x="-220262" y="181002" />
+            <point x="-220250" y="178145" />
+            <point x="-219711" y="178123" />
+        </zone>
+        <zone id="506" minZ="-11386" maxZ="-11186">
+            <point x="-220195" y="182250" />
+            <point x="-218482" y="182250" />
+            <point x="-218482" y="183979" />
+            <point x="-220195" y="183979" />
+        </zone>
+        <zone id="507" minZ="-11388" maxZ="-11188">
+            <point x="-219044" y="185807" />
+            <point x="-217143" y="185755" />
+            <point x="-217074" y="186374" />
+            <point x="-218990" y="186589" />
+        </zone>
+        <zone id="508" minZ="-11757" maxZ="-11557">
+            <point x="-211990" y="181199" />
+            <point x="-210835" y="180067" />
+            <point x="-210216" y="180872" />
+            <point x="-211863" y="181387" />
+        </zone>
+        <zone id="509" minZ="-11064" maxZ="-10864">
+            <point x="-215475" y="182310" />
+            <point x="-214460" y="182073" />
+            <point x="-214327" y="182676" />
+            <point x="-215388" y="182686" />
+        </zone>
+        <zone id="510" minZ="-11408" maxZ="-11208">
+            <point x="-208840" y="182880" />
+            <point x="-207193" y="182880" />
+            <point x="-207196" y="184487" />
+            <point x="-208843" y="184487" />
+        </zone>
+        <zone id="511" minZ="-11387" maxZ="-11187">
+            <point x="-206617" y="177644" />
+            <point x="-205975" y="177644" />
+            <point x="-205975" y="180111" />
+            <point x="-206617" y="180053" />
+        </zone>
+        <zone id="512" minZ="-12645" maxZ="-12425">
+            <point x="-220202" y="182247" />
+            <point x="-218505" y="182237" />
+            <point x="-218484" y="183833" />
+            <point x="-220261" y="183795" />
+        </zone>
+        <zone id="513" minZ="-11419" maxZ="-11219">
+            <point x="-207614" y="179028" />
+            <point x="-206972" y="179028" />
+            <point x="-206972" y="181495" />
+            <point x="-207614" y="181437" />
+        </zone>
+        <zone id="514" minZ="-11385" maxZ="-11185">
+            <point x="-207534" y="174402" />
+            <point x="-205881" y="174402" />
+            <point x="-205881" y="176234" />
+            <point x="-207534" y="176234" />
+        </zone>
+        <zone id="515" minZ="-12705" maxZ="-12505">
+            <point x="-207387" y="180196" />
+            <point x="-205625" y="180196" />
+            <point x="-205625" y="181913" />
+            <point x="-207387" y="181913" />
+        </zone>
+        <zone id="516" minZ="-12745" maxZ="-12545">
+            <point x="-207414" y="174952" />
+            <point x="-205652" y="174952" />
+            <point x="-205652" y="176669" />
+            <point x="-207414" y="176669" />
+        </zone>
+        <zone id="517" minZ="-12718" maxZ="-12518">
+            <point x="-207410" y="177780" />
+            <point x="-205648" y="177780" />
+            <point x="-205648" y="179497" />
+            <point x="-207410" y="179497" />
+        </zone>
+        <zone id="518" minZ="-12780" maxZ="-12580">
+            <point x="-214218" y="178477" />
+            <point x="-212673" y="179060" />
+            <point x="-212983" y="179508" />
+            <point x="-214357" y="179479" />
+        </zone>
+        <zone id="519" minZ="-12634" maxZ="-12434">
+            <point x="-219201" y="174239" />
+            <point x="-218582" y="174243" />
+            <point x="-218563" y="177514" />
+            <point x="-219244" y="177542" />
+        </zone>
+        <zone id="520" minZ="-12643" maxZ="-12443">
+            <point x="-219237" y="177774" />
+            <point x="-218445" y="177752" />
+            <point x="-218420" y="178540" />
+            <point x="-219242" y="178525" />
+        </zone>
+    </spawnZones>
+    <npc>
+        <!-- Seed of Destructon Spawns -->
+        <spawn npcId="18678" flag="1" respawnDelay="15" respawnRandom="30">
+            <zone id="101" count="1" />
+        </spawn>
+        <spawn npcId="18679" flag="1" respawnDelay="15" respawnRandom="30">
+            <zone id="101" count="1" />
+        </spawn>
+        <spawn npcId="18680" flag="1" respawnDelay="15" respawnRandom="30">
+            <zone id="101" count="1" />
+        </spawn>
+        <spawn npcId="18681" flag="1" respawnDelay="15" respawnRandom="30">
+            <zone id="102" count="1" />
+        </spawn>
+        <spawn npcId="18682" flag="1" respawnDelay="15" respawnRandom="30">
+            <zone id="102" count="1" />
+        </spawn>
+        <spawn npcId="18683" flag="1" respawnDelay="15" respawnRandom="30">
+            <zone id="102" count="1" />
+        </spawn>
+        <spawn npcId="18679" flag="1" respawnDelay="15" respawnRandom="30">
+            <zone id="103" count="1" />
+        </spawn>
+        <spawn npcId="18681" flag="1" respawnDelay="15" respawnRandom="30">
+            <zone id="103" count="1" />
+        </spawn>
+        <spawn npcId="18683" flag="1" respawnDelay="15" respawnRandom="30">
+            <zone id="103" count="1" />
+        </spawn>
+        <spawn npcId="18678" flag="1" respawnDelay="15" respawnRandom="30">
+            <zone id="104" count="1" />
+        </spawn>
+        <spawn npcId="18680" flag="1" respawnDelay="15" respawnRandom="30">
+            <zone id="104" count="1" />
+        </spawn>
+        <spawn npcId="18682" flag="1" respawnDelay="15" respawnRandom="30">
+            <zone id="104" count="1" />
+        </spawn>
+        <spawn npcId="18680" flag="1" respawnDelay="15" respawnRandom="30">
+            <zone id="105" count="1" />
+        </spawn>
+        <spawn npcId="18681" flag="1" respawnDelay="15" respawnRandom="30">
+            <zone id="105" count="1" />
+        </spawn>
+        <spawn npcId="18683" flag="1" respawnDelay="15" respawnRandom="30">
+            <zone id="105" count="1" />
+        </spawn>
+        <spawn npcId="18678" flag="1" respawnDelay="15" respawnRandom="30">
+            <zone id="106" count="1" />
+        </spawn>
+        <spawn npcId="18679" flag="1" respawnDelay="15" respawnRandom="30">
+            <zone id="106" count="1" />
+        </spawn>
+        <spawn npcId="18682" flag="1" respawnDelay="15" respawnRandom="30">
+            <zone id="106" count="1" />
+        </spawn>
+        <spawn npcId="18681" flag="1" respawnDelay="15" respawnRandom="30">
+            <zone id="107" count="1" />
+        </spawn>
+        <spawn npcId="18682" flag="1" respawnDelay="15" respawnRandom="30">
+            <zone id="107" count="1" />
+        </spawn>
+        <spawn npcId="18683" flag="1" respawnDelay="15" respawnRandom="30">
+            <zone id="107" count="1" />
+        </spawn>
+        <spawn npcId="18678" flag="1" respawnDelay="15" respawnRandom="30">
+            <zone id="108" count="1" />
+        </spawn>
+        <spawn npcId="18679" flag="1" respawnDelay="15" respawnRandom="30">
+            <zone id="108" count="1" />
+        </spawn>
+        <spawn npcId="18680" flag="1" respawnDelay="15" respawnRandom="30">
+            <zone id="108" count="1" />
+        </spawn>
+        <spawn npcId="18679" flag="1" respawnDelay="15" respawnRandom="30">
+            <zone id="109" count="1" />
+        </spawn>
+        <spawn npcId="18681" flag="1" respawnDelay="15" respawnRandom="30">
+            <zone id="109" count="1" />
+        </spawn>
+        <spawn npcId="18683" flag="1" respawnDelay="15" respawnRandom="30">
+            <zone id="109" count="1" />
+        </spawn>
+        <spawn npcId="18678" flag="1" respawnDelay="15" respawnRandom="30">
+            <zone id="110" count="1" />
+        </spawn>
+        <spawn npcId="18680" flag="1" respawnDelay="15" respawnRandom="30">
+            <zone id="110" count="1" />
+        </spawn>
+        <spawn npcId="18682" flag="1" respawnDelay="15" respawnRandom="30">
+            <zone id="110" count="1" />
+        </spawn>
+        <spawn npcId="18680" flag="1" respawnDelay="15" respawnRandom="30">
+            <zone id="111" count="1" />
+        </spawn>
+        <spawn npcId="18681" flag="1" respawnDelay="15" respawnRandom="30">
+            <zone id="111" count="1" />
+        </spawn>
+        <spawn npcId="18683" flag="1" respawnDelay="15" respawnRandom="30">
+            <zone id="111" count="1" />
+        </spawn>
+        <spawn npcId="18678" flag="1" respawnDelay="15" respawnRandom="30">
+            <zone id="112" count="1" />
+        </spawn>
+        <spawn npcId="18679" flag="1" respawnDelay="15" respawnRandom="30">
+            <zone id="112" count="1" />
+        </spawn>
+        <spawn npcId="18682" flag="1" respawnDelay="15" respawnRandom="30">
+            <zone id="112" count="1" />
+        </spawn>
+        <spawn npcId="18681" flag="1" respawnDelay="15" respawnRandom="30">
+            <zone id="113" count="1" />
+        </spawn>
+        <spawn npcId="18682" flag="1" respawnDelay="15" respawnRandom="30">
+            <zone id="113" count="1" />
+        </spawn>
+        <spawn npcId="18683" flag="1" respawnDelay="15" respawnRandom="30">
+            <zone id="113" count="1" />
+        </spawn>
+        <spawn npcId="18678" flag="1" respawnDelay="15" respawnRandom="30">
+            <zone id="114" count="1" />
+        </spawn>
+        <spawn npcId="18679" flag="1" respawnDelay="15" respawnRandom="30">
+            <zone id="114" count="1" />
+        </spawn>
+        <spawn npcId="18680" flag="1" respawnDelay="15" respawnRandom="30">
+            <zone id="114" count="1" />
+        </spawn>
+        <spawn npcId="18679" flag="1" respawnDelay="15" respawnRandom="30">
+            <zone id="115" count="1" />
+        </spawn>
+        <spawn npcId="18681" flag="1" respawnDelay="15" respawnRandom="30">
+            <zone id="115" count="1" />
+        </spawn>
+        <spawn npcId="18683" flag="1" respawnDelay="15" respawnRandom="30">
+            <zone id="115" count="1" />
+        </spawn>
+        <spawn npcId="18678" flag="1" respawnDelay="15" respawnRandom="30">
+            <zone id="116" count="1" />
+        </spawn>
+        <spawn npcId="18680" flag="1" respawnDelay="15" respawnRandom="30">
+            <zone id="116" count="1" />
+        </spawn>
+        <spawn npcId="18682" flag="1" respawnDelay="15" respawnRandom="30">
+            <zone id="116" count="1" />
+        </spawn>
+        <spawn npcId="18680" flag="1" respawnDelay="15" respawnRandom="30">
+            <zone id="117" count="1" />
+        </spawn>
+        <spawn npcId="18681" flag="1" respawnDelay="15" respawnRandom="30">
+            <zone id="117" count="1" />
+        </spawn>
+        <spawn npcId="18683" flag="1" respawnDelay="15" respawnRandom="30">
+            <zone id="117" count="1" />
+        </spawn>
+        <spawn npcId="18678" flag="1" respawnDelay="15" respawnRandom="30">
+            <zone id="118" count="1" />
+        </spawn>
+        <spawn npcId="18679" flag="1" respawnDelay="15" respawnRandom="30">
+            <zone id="118" count="1" />
+        </spawn>
+        <spawn npcId="18682" flag="1" respawnDelay="15" respawnRandom="30">
+            <zone id="118" count="1" />
+        </spawn>
+        <spawn npcId="18681" flag="1" respawnDelay="15" respawnRandom="30">
+            <zone id="119" count="1" />
+        </spawn>
+        <spawn npcId="18682" flag="1" respawnDelay="15" respawnRandom="30">
+            <zone id="119" count="1" />
+        </spawn>
+        <spawn npcId="18683" flag="1" respawnDelay="15" respawnRandom="30">
+            <zone id="119" count="1" />
+        </spawn>
+        <spawn npcId="18678" flag="1" respawnDelay="15" respawnRandom="30">
+            <zone id="120" count="1" />
+        </spawn>
+        <spawn npcId="18679" flag="1" respawnDelay="15" respawnRandom="30">
+            <zone id="120" count="1" />
+        </spawn>
+        <spawn npcId="18680" flag="1" respawnDelay="15" respawnRandom="30">
+            <zone id="120" count="1" />
+        </spawn>
+        <spawn npcId="18681" flag="1" respawnDelay="15" respawnRandom="30">
+            <zone id="121" count="1" />
+        </spawn>
+        <spawn npcId="18682" flag="1" respawnDelay="15" respawnRandom="30">
+            <zone id="121" count="1" />
+        </spawn>
+        <spawn npcId="18683" flag="1" respawnDelay="15" respawnRandom="30">
+            <zone id="121" count="1" />
+        </spawn>
+        <spawn npcId="18678" flag="1" respawnDelay="15" respawnRandom="30">
+            <zone id="122" count="1" />
+        </spawn>
+        <spawn npcId="18679" flag="1" respawnDelay="15" respawnRandom="30">
+            <zone id="122" count="1" />
+        </spawn>
+        <spawn npcId="18680" flag="1" respawnDelay="15" respawnRandom="30">
+            <zone id="122" count="1" />
+        </spawn>
+        <spawn npcId="18679" flag="1" respawnDelay="15" respawnRandom="30">
+            <zone id="123" count="1" />
+        </spawn>
+        <spawn npcId="18681" flag="1" respawnDelay="15" respawnRandom="30">
+            <zone id="123" count="1" />
+        </spawn>
+        <spawn npcId="18683" flag="1" respawnDelay="15" respawnRandom="30">
+            <zone id="123" count="1" />
+        </spawn>
+        <spawn npcId="18678" flag="1" respawnDelay="15" respawnRandom="30">
+            <zone id="124" count="1" />
+        </spawn>
+        <spawn npcId="18680" flag="1" respawnDelay="15" respawnRandom="30">
+            <zone id="124" count="1" />
+        </spawn>
+        <spawn npcId="18682" flag="1" respawnDelay="15" respawnRandom="30">
+            <zone id="124" count="1" />
+        </spawn>
+        <spawn npcId="18680" flag="1" respawnDelay="15" respawnRandom="30">
+            <zone id="125" count="1" />
+        </spawn>
+        <spawn npcId="18681" flag="1" respawnDelay="15" respawnRandom="30">
+            <zone id="125" count="1" />
+        </spawn>
+        <spawn npcId="18683" flag="1" respawnDelay="15" respawnRandom="30">
+            <zone id="125" count="1" />
+        </spawn>
+        <spawn npcId="18678" flag="1" respawnDelay="15" respawnRandom="30">
+            <zone id="126" count="1" />
+        </spawn>
+        <spawn npcId="18679" flag="1" respawnDelay="15" respawnRandom="30">
+            <zone id="126" count="1" />
+        </spawn>
+        <spawn npcId="18682" flag="1" respawnDelay="15" respawnRandom="30">
+            <zone id="126" count="1" />
+        </spawn>
+        <spawn npcId="18678" flag="1" respawnDelay="15" respawnRandom="30">
+            <zone id="127" count="1" />
+        </spawn>
+        <spawn npcId="18679" flag="1" respawnDelay="15" respawnRandom="30">
+            <zone id="127" count="1" />
+        </spawn>
+        <spawn npcId="18680" flag="1" respawnDelay="15" respawnRandom="30">
+            <zone id="127" count="1" />
+        </spawn>
+        <spawn npcId="18681" flag="1" respawnDelay="15" respawnRandom="30">
+            <zone id="127" count="1" />
+        </spawn>
+        <spawn npcId="18682" flag="1" respawnDelay="15" respawnRandom="30">
+            <zone id="127" count="1" />
+        </spawn>
+        <spawn npcId="18683" flag="1" respawnDelay="15" respawnRandom="30">
+            <zone id="127" count="1" />
+        </spawn>
+        <!-- Seed of Infinity Spawns -->
+        <spawn npcId="18682" flag="2" respawnDelay="70" respawnRandom="20">
+            <zone id="201" count="1" />
+        </spawn>
+        <spawn npcId="18683" flag="2" respawnDelay="70" respawnRandom="20">
+            <zone id="201" count="1" />
+        </spawn>
+        <spawn npcId="18682" flag="2" respawnDelay="70" respawnRandom="20">
+            <zone id="202" count="1" />
+        </spawn>
+        <spawn npcId="18683" flag="2" respawnDelay="70" respawnRandom="20">
+            <zone id="202" count="1" />
+        </spawn>
+        <spawn npcId="18682" flag="2" respawnDelay="70" respawnRandom="20">
+            <zone id="203" count="1" />
+        </spawn>
+        <spawn npcId="18683" flag="2" respawnDelay="70" respawnRandom="20">
+            <zone id="203" count="1" />
+        </spawn>
+        <spawn npcId="18682" flag="2" respawnDelay="70" respawnRandom="20">
+            <zone id="204" count="1" />
+        </spawn>
+        <spawn npcId="18683" flag="2" respawnDelay="70" respawnRandom="20">
+            <zone id="204" count="1" />
+        </spawn>
+        <spawn npcId="18682" flag="2" respawnDelay="70" respawnRandom="20">
+            <zone id="205" count="1" />
+        </spawn>
+        <spawn npcId="18683" flag="2" respawnDelay="70" respawnRandom="20">
+            <zone id="205" count="1" />
+        </spawn>
+        <spawn npcId="18682" flag="2" respawnDelay="70" respawnRandom="20">
+            <zone id="206" count="1" />
+        </spawn>
+        <spawn npcId="18683" flag="2" respawnDelay="70" respawnRandom="20">
+            <zone id="206" count="1" />
+        </spawn>
+        <spawn npcId="18678" flag="2" respawnDelay="60" respawnRandom="20">
+            <zone id="207" count="1" />
+        </spawn>
+        <spawn npcId="18679" flag="2" respawnDelay="60" respawnRandom="20">
+            <zone id="207" count="1" />
+        </spawn>
+        <spawn npcId="18680" flag="2" respawnDelay="60" respawnRandom="20">
+            <zone id="207" count="1" />
+        </spawn>
+        <spawn npcId="18681" flag="2" respawnDelay="60" respawnRandom="20">
+            <zone id="207" count="1" />
+        </spawn>
+        <spawn npcId="18678" flag="2" respawnDelay="60" respawnRandom="20">
+            <zone id="208" count="1" />
+        </spawn>
+        <spawn npcId="18679" flag="2" respawnDelay="60" respawnRandom="20">
+            <zone id="208" count="1" />
+        </spawn>
+        <spawn npcId="18680" flag="2" respawnDelay="60" respawnRandom="20">
+            <zone id="208" count="1" />
+        </spawn>
+        <spawn npcId="18681" flag="2" respawnDelay="60" respawnRandom="20">
+            <zone id="208" count="1" />
+        </spawn>
+        <spawn npcId="18678" flag="2" respawnDelay="60" respawnRandom="20">
+            <zone id="209" count="1" />
+        </spawn>
+        <spawn npcId="18679" flag="2" respawnDelay="60" respawnRandom="20">
+            <zone id="209" count="1" />
+        </spawn>
+        <spawn npcId="18680" flag="2" respawnDelay="60" respawnRandom="20">
+            <zone id="209" count="1" />
+        </spawn>
+        <spawn npcId="18681" flag="2" respawnDelay="60" respawnRandom="20">
+            <zone id="209" count="1" />
+        </spawn>
+        <spawn npcId="18678" flag="2" respawnDelay="60" respawnRandom="20">
+            <zone id="210" count="1" />
+        </spawn>
+        <spawn npcId="18679" flag="2" respawnDelay="60" respawnRandom="20">
+            <zone id="210" count="1" />
+        </spawn>
+        <spawn npcId="18680" flag="2" respawnDelay="60" respawnRandom="20">
+            <zone id="210" count="1" />
+        </spawn>
+        <spawn npcId="18681" flag="2" respawnDelay="60" respawnRandom="20">
+            <zone id="210" count="1" />
+        </spawn>
+        <spawn npcId="18678" flag="2" respawnDelay="60" respawnRandom="20">
+            <zone id="211" count="1" />
+        </spawn>
+        <spawn npcId="18679" flag="2" respawnDelay="60" respawnRandom="20">
+            <zone id="211" count="1" />
+        </spawn>
+        <spawn npcId="18680" flag="2" respawnDelay="60" respawnRandom="20">
+            <zone id="211" count="1" />
+        </spawn>
+        <spawn npcId="18681" flag="2" respawnDelay="60" respawnRandom="20">
+            <zone id="211" count="1" />
+        </spawn>
+        <spawn npcId="18678" flag="2" respawnDelay="60" respawnRandom="20">
+            <zone id="212" count="1" />
+        </spawn>
+        <spawn npcId="18679" flag="2" respawnDelay="60" respawnRandom="20">
+            <zone id="212" count="1" />
+        </spawn>
+        <spawn npcId="18680" flag="2" respawnDelay="60" respawnRandom="20">
+            <zone id="212" count="1" />
+        </spawn>
+        <spawn npcId="18681" flag="2" respawnDelay="60" respawnRandom="20">
+            <zone id="212" count="1" />
+        </spawn>
+        <spawn npcId="18678" flag="2" respawnDelay="60" respawnRandom="20">
+            <zone id="213" count="1" />
+        </spawn>
+        <spawn npcId="18679" flag="2" respawnDelay="60" respawnRandom="20">
+            <zone id="213" count="1" />
+        </spawn>
+        <spawn npcId="18680" flag="2" respawnDelay="60" respawnRandom="20">
+            <zone id="213" count="1" />
+        </spawn>
+        <spawn npcId="18681" flag="2" respawnDelay="60" respawnRandom="20">
+            <zone id="213" count="1" />
+        </spawn>
+        <spawn npcId="18678" flag="2" respawnDelay="60" respawnRandom="20">
+            <zone id="214" count="1" />
+        </spawn>
+        <spawn npcId="18679" flag="2" respawnDelay="60" respawnRandom="20">
+            <zone id="214" count="1" />
+        </spawn>
+        <spawn npcId="18680" flag="2" respawnDelay="60" respawnRandom="20">
+            <zone id="214" count="1" />
+        </spawn>
+        <spawn npcId="18681" flag="2" respawnDelay="60" respawnRandom="20">
+            <zone id="214" count="1" />
+        </spawn>
+        <spawn npcId="18678" flag="2" respawnDelay="60" respawnRandom="20">
+            <zone id="215" count="1" />
+        </spawn>
+        <spawn npcId="18679" flag="2" respawnDelay="60" respawnRandom="20">
+            <zone id="215" count="1" />
+        </spawn>
+        <spawn npcId="18680" flag="2" respawnDelay="60" respawnRandom="20">
+            <zone id="215" count="1" />
+        </spawn>
+        <spawn npcId="18681" flag="2" respawnDelay="60" respawnRandom="20">
+            <zone id="215" count="1" />
+        </spawn>
+        <spawn npcId="18682" flag="2" respawnDelay="50" respawnRandom="20">
+            <zone id="216" count="1" />
+        </spawn>
+        <spawn npcId="18683" flag="2" respawnDelay="50" respawnRandom="20">
+            <zone id="216" count="1" />
+        </spawn>
+        <spawn npcId="18678" flag="2" respawnDelay="50" respawnRandom="20">
+            <zone id="216" count="1" />
+        </spawn>
+        <spawn npcId="18679" flag="2" respawnDelay="50" respawnRandom="20">
+            <zone id="216" count="1" />
+        </spawn>
+        <spawn npcId="18680" flag="2" respawnDelay="50" respawnRandom="20">
+            <zone id="216" count="1" />
+        </spawn>
+        <spawn npcId="18681" flag="2" respawnDelay="50" respawnRandom="20">
+            <zone id="216" count="1" />
+        </spawn>
+        <spawn npcId="18682" flag="2" respawnDelay="50" respawnRandom="20">
+            <zone id="217" count="1" />
+        </spawn>
+        <spawn npcId="18683" flag="2" respawnDelay="50" respawnRandom="20">
+            <zone id="217" count="1" />
+        </spawn>
+        <spawn npcId="18678" flag="2" respawnDelay="50" respawnRandom="20">
+            <zone id="217" count="1" />
+        </spawn>
+        <spawn npcId="18679" flag="2" respawnDelay="50" respawnRandom="20">
+            <zone id="217" count="1" />
+        </spawn>
+        <spawn npcId="18680" flag="2" respawnDelay="50" respawnRandom="20">
+            <zone id="217" count="1" />
+        </spawn>
+        <spawn npcId="18681" flag="2" respawnDelay="50" respawnRandom="20">
+            <zone id="217" count="1" />
+        </spawn>
+        <spawn npcId="18682" flag="2" respawnDelay="50" respawnRandom="20">
+            <zone id="218" count="1" />
+        </spawn>
+        <spawn npcId="18683" flag="2" respawnDelay="50" respawnRandom="20">
+            <zone id="218" count="1" />
+        </spawn>
+        <spawn npcId="18678" flag="2" respawnDelay="50" respawnRandom="20">
+            <zone id="218" count="1" />
+        </spawn>
+        <spawn npcId="18679" flag="2" respawnDelay="50" respawnRandom="20">
+            <zone id="218" count="1" />
+        </spawn>
+        <spawn npcId="18680" flag="2" respawnDelay="50" respawnRandom="20">
+            <zone id="218" count="1" />
+        </spawn>
+        <spawn npcId="18681" flag="2" respawnDelay="50" respawnRandom="20">
+            <zone id="218" count="1" />
+        </spawn>
+        <spawn npcId="18682" flag="2" respawnDelay="50" respawnRandom="20">
+            <zone id="219" count="1" />
+        </spawn>
+        <spawn npcId="18683" flag="2" respawnDelay="50" respawnRandom="20">
+            <zone id="219" count="1" />
+        </spawn>
+        <spawn npcId="18678" flag="2" respawnDelay="50" respawnRandom="20">
+            <zone id="219" count="1" />
+        </spawn>
+        <spawn npcId="18679" flag="2" respawnDelay="50" respawnRandom="20">
+            <zone id="219" count="1" />
+        </spawn>
+        <spawn npcId="18680" flag="2" respawnDelay="50" respawnRandom="20">
+            <zone id="219" count="1" />
+        </spawn>
+        <spawn npcId="18681" flag="2" respawnDelay="50" respawnRandom="20">
+            <zone id="219" count="1" />
+        </spawn>
+        <spawn npcId="18682" flag="2" respawnDelay="50" respawnRandom="20">
+            <zone id="220" count="1" />
+        </spawn>
+        <spawn npcId="18683" flag="2" respawnDelay="50" respawnRandom="20">
+            <zone id="220" count="1" />
+        </spawn>
+        <spawn npcId="18678" flag="2" respawnDelay="50" respawnRandom="20">
+            <zone id="220" count="1" />
+        </spawn>
+        <spawn npcId="18679" flag="2" respawnDelay="50" respawnRandom="20">
+            <zone id="220" count="1" />
+        </spawn>
+        <spawn npcId="18680" flag="2" respawnDelay="50" respawnRandom="20">
+            <zone id="220" count="1" />
+        </spawn>
+        <spawn npcId="18681" flag="2" respawnDelay="50" respawnRandom="20">
+            <zone id="220" count="1" />
+        </spawn>
+        <spawn npcId="18682" flag="2" respawnDelay="50" respawnRandom="20">
+            <zone id="221" count="1" />
+        </spawn>
+        <spawn npcId="18683" flag="2" respawnDelay="50" respawnRandom="20">
+            <zone id="221" count="1" />
+        </spawn>
+        <spawn npcId="18678" flag="2" respawnDelay="50" respawnRandom="20">
+            <zone id="221" count="1" />
+        </spawn>
+        <spawn npcId="18679" flag="2" respawnDelay="50" respawnRandom="20">
+            <zone id="221" count="1" />
+        </spawn>
+        <spawn npcId="18680" flag="2" respawnDelay="50" respawnRandom="20">
+            <zone id="221" count="1" />
+        </spawn>
+        <spawn npcId="18681" flag="2" respawnDelay="50" respawnRandom="20">
+            <zone id="221" count="1" />
+        </spawn>
+        <spawn npcId="18682" flag="2" respawnDelay="50" respawnRandom="20">
+            <zone id="222" count="1" />
+        </spawn>
+        <spawn npcId="18683" flag="2" respawnDelay="50" respawnRandom="20">
+            <zone id="222" count="1" />
+        </spawn>
+        <spawn npcId="18678" flag="2" respawnDelay="50" respawnRandom="20">
+            <zone id="222" count="1" />
+        </spawn>
+        <spawn npcId="18679" flag="2" respawnDelay="50" respawnRandom="20">
+            <zone id="222" count="1" />
+        </spawn>
+        <spawn npcId="18680" flag="2" respawnDelay="50" respawnRandom="20">
+            <zone id="222" count="1" />
+        </spawn>
+        <spawn npcId="18681" flag="2" respawnDelay="50" respawnRandom="20">
+            <zone id="222" count="1" />
+        </spawn>
+        <!-- Seed of Annihilation (Bistakon) Spawns -->
+        <spawn npcId="18678" flag="3" respawnDelay="90" respawnRandom="15">
+            <zone id="301" count="1" />
+        </spawn>
+        <spawn npcId="18679" flag="3" respawnDelay="90" respawnRandom="15">
+            <zone id="301" count="1" />
+        </spawn>
+        <spawn npcId="18680" flag="3" respawnDelay="90" respawnRandom="15">
+            <zone id="301" count="1" />
+        </spawn>
+        <spawn npcId="18681" flag="3" respawnDelay="90" respawnRandom="15">
+            <zone id="301" count="1" />
+        </spawn>
+        <spawn npcId="18682" flag="3" respawnDelay="90" respawnRandom="15">
+            <zone id="301" count="1" />
+        </spawn>
+        <spawn npcId="18683" flag="3" respawnDelay="90" respawnRandom="15">
+            <zone id="301" count="1" />
+        </spawn>
+        <spawn npcId="18678" flag="3" respawnDelay="90" respawnRandom="15">
+            <zone id="302" count="1" />
+        </spawn>
+        <spawn npcId="18679" flag="3" respawnDelay="90" respawnRandom="15">
+            <zone id="302" count="1" />
+        </spawn>
+        <spawn npcId="18680" flag="3" respawnDelay="90" respawnRandom="15">
+            <zone id="302" count="1" />
+        </spawn>
+        <spawn npcId="18681" flag="3" respawnDelay="90" respawnRandom="15">
+            <zone id="302" count="1" />
+        </spawn>
+        <spawn npcId="18682" flag="3" respawnDelay="90" respawnRandom="15">
+            <zone id="302" count="1" />
+        </spawn>
+        <spawn npcId="18683" flag="3" respawnDelay="90" respawnRandom="15">
+            <zone id="302" count="1" />
+        </spawn>
+        <spawn npcId="18678" flag="3" respawnDelay="90" respawnRandom="15">
+            <zone id="303" count="1" />
+        </spawn>
+        <spawn npcId="18679" flag="3" respawnDelay="90" respawnRandom="15">
+            <zone id="303" count="1" />
+        </spawn>
+        <spawn npcId="18680" flag="3" respawnDelay="90" respawnRandom="15">
+            <zone id="303" count="1" />
+        </spawn>
+        <spawn npcId="18681" flag="3" respawnDelay="90" respawnRandom="15">
+            <zone id="303" count="1" />
+        </spawn>
+        <spawn npcId="18682" flag="3" respawnDelay="90" respawnRandom="15">
+            <zone id="303" count="1" />
+        </spawn>
+        <spawn npcId="18683" flag="3" respawnDelay="90" respawnRandom="15">
+            <zone id="303" count="1" />
+        </spawn>
+        <spawn npcId="18678" flag="3" respawnDelay="90" respawnRandom="15">
+            <zone id="304" count="1" />
+        </spawn>
+        <spawn npcId="18679" flag="3" respawnDelay="90" respawnRandom="15">
+            <zone id="304" count="1" />
+        </spawn>
+        <spawn npcId="18680" flag="3" respawnDelay="90" respawnRandom="15">
+            <zone id="304" count="1" />
+        </spawn>
+        <spawn npcId="18681" flag="3" respawnDelay="90" respawnRandom="15">
+            <zone id="304" count="1" />
+        </spawn>
+        <spawn npcId="18682" flag="3" respawnDelay="90" respawnRandom="15">
+            <zone id="304" count="1" />
+        </spawn>
+        <spawn npcId="18683" flag="3" respawnDelay="90" respawnRandom="15">
+            <zone id="304" count="1" />
+        </spawn>
+        <spawn npcId="18678" flag="3" respawnDelay="90" respawnRandom="15">
+            <zone id="305" count="1" />
+        </spawn>
+        <spawn npcId="18679" flag="3" respawnDelay="90" respawnRandom="15">
+            <zone id="305" count="1" />
+        </spawn>
+        <spawn npcId="18680" flag="3" respawnDelay="90" respawnRandom="15">
+            <zone id="305" count="1" />
+        </spawn>
+        <spawn npcId="18681" flag="3" respawnDelay="90" respawnRandom="15">
+            <zone id="305" count="1" />
+        </spawn>
+        <spawn npcId="18682" flag="3" respawnDelay="90" respawnRandom="15">
+            <zone id="305" count="1" />
+        </spawn>
+        <spawn npcId="18683" flag="3" respawnDelay="90" respawnRandom="15">
+            <zone id="305" count="1" />
+        </spawn>
+        <spawn npcId="18678" flag="3" respawnDelay="90" respawnRandom="15">
+            <zone id="306" count="1" />
+        </spawn>
+        <spawn npcId="18679" flag="3" respawnDelay="90" respawnRandom="15">
+            <zone id="306" count="1" />
+        </spawn>
+        <spawn npcId="18680" flag="3" respawnDelay="90" respawnRandom="15">
+            <zone id="306" count="1" />
+        </spawn>
+        <spawn npcId="18681" flag="3" respawnDelay="90" respawnRandom="15">
+            <zone id="306" count="1" />
+        </spawn>
+        <spawn npcId="18682" flag="3" respawnDelay="90" respawnRandom="15">
+            <zone id="306" count="1" />
+        </spawn>
+        <spawn npcId="18683" flag="3" respawnDelay="90" respawnRandom="15">
+            <zone id="306" count="1" />
+        </spawn>
+        <spawn npcId="18678" flag="3" respawnDelay="90" respawnRandom="15">
+            <zone id="307" count="1" />
+        </spawn>
+        <spawn npcId="18679" flag="3" respawnDelay="90" respawnRandom="15">
+            <zone id="307" count="1" />
+        </spawn>
+        <spawn npcId="18680" flag="3" respawnDelay="90" respawnRandom="15">
+            <zone id="307" count="1" />
+        </spawn>
+        <spawn npcId="18681" flag="3" respawnDelay="90" respawnRandom="15">
+            <zone id="307" count="1" />
+        </spawn>
+        <spawn npcId="18682" flag="3" respawnDelay="90" respawnRandom="15">
+            <zone id="307" count="1" />
+        </spawn>
+        <spawn npcId="18683" flag="3" respawnDelay="90" respawnRandom="15">
+            <zone id="307" count="1" />
+        </spawn>
+        <spawn npcId="18678" flag="3" respawnDelay="90" respawnRandom="15">
+            <zone id="308" count="1" />
+        </spawn>
+        <spawn npcId="18679" flag="3" respawnDelay="90" respawnRandom="15">
+            <zone id="308" count="1" />
+        </spawn>
+        <spawn npcId="18680" flag="3" respawnDelay="90" respawnRandom="15">
+            <zone id="308" count="1" />
+        </spawn>
+        <spawn npcId="18681" flag="3" respawnDelay="90" respawnRandom="15">
+            <zone id="308" count="1" />
+        </spawn>
+        <spawn npcId="18682" flag="3" respawnDelay="90" respawnRandom="15">
+            <zone id="308" count="1" />
+        </spawn>
+        <spawn npcId="18683" flag="3" respawnDelay="90" respawnRandom="15">
+            <zone id="308" count="1" />
+        </spawn>
+        <spawn npcId="18678" flag="3" respawnDelay="90" respawnRandom="15">
+            <zone id="309" count="1" />
+        </spawn>
+        <spawn npcId="18679" flag="3" respawnDelay="90" respawnRandom="15">
+            <zone id="309" count="1" />
+        </spawn>
+        <spawn npcId="18680" flag="3" respawnDelay="90" respawnRandom="15">
+            <zone id="309" count="1" />
+        </spawn>
+        <spawn npcId="18681" flag="3" respawnDelay="90" respawnRandom="15">
+            <zone id="309" count="1" />
+        </spawn>
+        <spawn npcId="18682" flag="3" respawnDelay="90" respawnRandom="15">
+            <zone id="309" count="1" />
+        </spawn>
+        <spawn npcId="18683" flag="3" respawnDelay="90" respawnRandom="15">
+            <zone id="309" count="1" />
+        </spawn>
+        <!-- Seed of Annihilation (Reptilikon) Spawns -->
+        <spawn npcId="18678" flag="4" respawnDelay="90" respawnRandom="15">
+            <zone id="401" count="1" />
+        </spawn>
+        <spawn npcId="18679" flag="4" respawnDelay="90" respawnRandom="15">
+            <zone id="401" count="1" />
+        </spawn>
+        <spawn npcId="18680" flag="4" respawnDelay="90" respawnRandom="15">
+            <zone id="401" count="1" />
+        </spawn>
+        <spawn npcId="18681" flag="4" respawnDelay="90" respawnRandom="15">
+            <zone id="401" count="1" />
+        </spawn>
+        <spawn npcId="18682" flag="4" respawnDelay="90" respawnRandom="15">
+            <zone id="401" count="1" />
+        </spawn>
+        <spawn npcId="18683" flag="4" respawnDelay="90" respawnRandom="15">
+            <zone id="401" count="1" />
+        </spawn>
+        <spawn npcId="18678" flag="4" respawnDelay="90" respawnRandom="15">
+            <zone id="402" count="1" />
+        </spawn>
+        <spawn npcId="18679" flag="4" respawnDelay="90" respawnRandom="15">
+            <zone id="402" count="1" />
+        </spawn>
+        <spawn npcId="18680" flag="4" respawnDelay="90" respawnRandom="15">
+            <zone id="402" count="1" />
+        </spawn>
+        <spawn npcId="18681" flag="4" respawnDelay="90" respawnRandom="15">
+            <zone id="402" count="1" />
+        </spawn>
+        <spawn npcId="18682" flag="4" respawnDelay="90" respawnRandom="15">
+            <zone id="402" count="1" />
+        </spawn>
+        <spawn npcId="18683" flag="4" respawnDelay="90" respawnRandom="15">
+            <zone id="402" count="1" />
+        </spawn>
+        <spawn npcId="18678" flag="4" respawnDelay="90" respawnRandom="15">
+            <zone id="403" count="1" />
+        </spawn>
+        <spawn npcId="18679" flag="4" respawnDelay="90" respawnRandom="15">
+            <zone id="403" count="1" />
+        </spawn>
+        <spawn npcId="18680" flag="4" respawnDelay="90" respawnRandom="15">
+            <zone id="403" count="1" />
+        </spawn>
+        <spawn npcId="18681" flag="4" respawnDelay="90" respawnRandom="15">
+            <zone id="403" count="1" />
+        </spawn>
+        <spawn npcId="18682" flag="4" respawnDelay="90" respawnRandom="15">
+            <zone id="403" count="1" />
+        </spawn>
+        <spawn npcId="18683" flag="4" respawnDelay="90" respawnRandom="15">
+            <zone id="403" count="1" />
+        </spawn>
+        <spawn npcId="18678" flag="4" respawnDelay="90" respawnRandom="15">
+            <zone id="404" count="1" />
+        </spawn>
+        <spawn npcId="18679" flag="4" respawnDelay="90" respawnRandom="15">
+            <zone id="404" count="1" />
+        </spawn>
+        <spawn npcId="18680" flag="4" respawnDelay="90" respawnRandom="15">
+            <zone id="404" count="1" />
+        </spawn>
+        <spawn npcId="18681" flag="4" respawnDelay="90" respawnRandom="15">
+            <zone id="404" count="1" />
+        </spawn>
+        <spawn npcId="18682" flag="4" respawnDelay="90" respawnRandom="15">
+            <zone id="404" count="1" />
+        </spawn>
+        <spawn npcId="18683" flag="4" respawnDelay="90" respawnRandom="15">
+            <zone id="404" count="1" />
+        </spawn>
+        <spawn npcId="18678" flag="4" respawnDelay="90" respawnRandom="15">
+            <zone id="405" count="1" />
+        </spawn>
+        <spawn npcId="18679" flag="4" respawnDelay="90" respawnRandom="15">
+            <zone id="405" count="1" />
+        </spawn>
+        <spawn npcId="18680" flag="4" respawnDelay="90" respawnRandom="15">
+            <zone id="405" count="1" />
+        </spawn>
+        <spawn npcId="18681" flag="4" respawnDelay="90" respawnRandom="15">
+            <zone id="405" count="1" />
+        </spawn>
+        <spawn npcId="18682" flag="4" respawnDelay="90" respawnRandom="15">
+            <zone id="405" count="1" />
+        </spawn>
+        <spawn npcId="18683" flag="4" respawnDelay="90" respawnRandom="15">
+            <zone id="405" count="1" />
+        </spawn>
+        <spawn npcId="18678" flag="4" respawnDelay="90" respawnRandom="15">
+            <zone id="406" count="1" />
+        </spawn>
+        <spawn npcId="18679" flag="4" respawnDelay="90" respawnRandom="15">
+            <zone id="406" count="1" />
+        </spawn>
+        <spawn npcId="18680" flag="4" respawnDelay="90" respawnRandom="15">
+            <zone id="406" count="1" />
+        </spawn>
+        <spawn npcId="18681" flag="4" respawnDelay="90" respawnRandom="15">
+            <zone id="406" count="1" />
+        </spawn>
+        <spawn npcId="18682" flag="4" respawnDelay="90" respawnRandom="15">
+            <zone id="406" count="1" />
+        </spawn>
+        <spawn npcId="18683" flag="4" respawnDelay="90" respawnRandom="15">
+            <zone id="406" count="1" />
+        </spawn>
+        <spawn npcId="18678" flag="4" respawnDelay="90" respawnRandom="15">
+            <zone id="407" count="1" />
+        </spawn>
+        <spawn npcId="18679" flag="4" respawnDelay="90" respawnRandom="15">
+            <zone id="407" count="1" />
+        </spawn>
+        <spawn npcId="18680" flag="4" respawnDelay="90" respawnRandom="15">
+            <zone id="407" count="1" />
+        </spawn>
+        <spawn npcId="18681" flag="4" respawnDelay="90" respawnRandom="15">
+            <zone id="407" count="1" />
+        </spawn>
+        <spawn npcId="18682" flag="4" respawnDelay="90" respawnRandom="15">
+            <zone id="407" count="1" />
+        </spawn>
+        <spawn npcId="18683" flag="4" respawnDelay="90" respawnRandom="15">
+            <zone id="407" count="1" />
+        </spawn>
+        <spawn npcId="18678" flag="4" respawnDelay="90" respawnRandom="15">
+            <zone id="408" count="1" />
+        </spawn>
+        <spawn npcId="18679" flag="4" respawnDelay="90" respawnRandom="15">
+            <zone id="408" count="1" />
+        </spawn>
+        <spawn npcId="18680" flag="4" respawnDelay="90" respawnRandom="15">
+            <zone id="408" count="1" />
+        </spawn>
+        <spawn npcId="18681" flag="4" respawnDelay="90" respawnRandom="15">
+            <zone id="408" count="1" />
+        </spawn>
+        <spawn npcId="18682" flag="4" respawnDelay="90" respawnRandom="15">
+            <zone id="408" count="1" />
+        </spawn>
+        <spawn npcId="18683" flag="4" respawnDelay="90" respawnRandom="15">
+            <zone id="408" count="1" />
+        </spawn>
+        <spawn npcId="18678" flag="4" respawnDelay="90" respawnRandom="15">
+            <zone id="409" count="1" />
+        </spawn>
+        <spawn npcId="18679" flag="4" respawnDelay="90" respawnRandom="15">
+            <zone id="409" count="1" />
+        </spawn>
+        <spawn npcId="18680" flag="4" respawnDelay="90" respawnRandom="15">
+            <zone id="409" count="1" />
+        </spawn>
+        <spawn npcId="18681" flag="4" respawnDelay="90" respawnRandom="15">
+            <zone id="409" count="1" />
+        </spawn>
+        <spawn npcId="18682" flag="4" respawnDelay="90" respawnRandom="15">
+            <zone id="409" count="1" />
+        </spawn>
+        <spawn npcId="18683" flag="4" respawnDelay="90" respawnRandom="15">
+            <zone id="409" count="1" />
+        </spawn>
+        <spawn npcId="18678" flag="4" respawnDelay="90" respawnRandom="15">
+            <zone id="410" count="1" />
+        </spawn>
+        <spawn npcId="18679" flag="4" respawnDelay="90" respawnRandom="15">
+            <zone id="410" count="1" />
+        </spawn>
+        <spawn npcId="18680" flag="4" respawnDelay="90" respawnRandom="15">
+            <zone id="410" count="1" />
+        </spawn>
+        <spawn npcId="18681" flag="4" respawnDelay="90" respawnRandom="15">
+            <zone id="410" count="1" />
+        </spawn>
+        <spawn npcId="18682" flag="4" respawnDelay="90" respawnRandom="15">
+            <zone id="410" count="1" />
+        </spawn>
+        <spawn npcId="18683" flag="4" respawnDelay="90" respawnRandom="15">
+            <zone id="410" count="1" />
+        </spawn>
+        <spawn npcId="18678" flag="4" respawnDelay="90" respawnRandom="15">
+            <zone id="411" count="1" />
+        </spawn>
+        <spawn npcId="18679" flag="4" respawnDelay="90" respawnRandom="15">
+            <zone id="411" count="1" />
+        </spawn>
+        <spawn npcId="18680" flag="4" respawnDelay="90" respawnRandom="15">
+            <zone id="411" count="1" />
+        </spawn>
+        <spawn npcId="18681" flag="4" respawnDelay="90" respawnRandom="15">
+            <zone id="411" count="1" />
+        </spawn>
+        <spawn npcId="18682" flag="4" respawnDelay="90" respawnRandom="15">
+            <zone id="411" count="1" />
+        </spawn>
+        <spawn npcId="18683" flag="4" respawnDelay="90" respawnRandom="15">
+            <zone id="411" count="1" />
+        </spawn>
+        <!-- Seed of Annihilation (Kokracon) Spawns -->
+        <spawn npcId="18678" flag="5" respawnDelay="90" respawnRandom="15">
+            <zone id="501" count="1" />
+        </spawn>
+        <spawn npcId="18681" flag="5" respawnDelay="90" respawnRandom="15">
+            <zone id="501" count="1" />
+        </spawn>
+        <spawn npcId="18682" flag="5" respawnDelay="90" respawnRandom="15">
+            <zone id="501" count="1" />
+        </spawn>
+        <spawn npcId="18683" flag="5" respawnDelay="90" respawnRandom="15">
+            <zone id="501" count="1" />
+        </spawn>
+        <spawn npcId="18678" flag="5" respawnDelay="90" respawnRandom="15">
+            <zone id="502" count="1" />
+        </spawn>
+        <spawn npcId="18680" flag="5" respawnDelay="90" respawnRandom="15">
+            <zone id="502" count="1" />
+        </spawn>
+        <spawn npcId="18682" flag="5" respawnDelay="90" respawnRandom="15">
+            <zone id="502" count="1" />
+        </spawn>
+        <spawn npcId="18683" flag="5" respawnDelay="90" respawnRandom="15">
+            <zone id="502" count="1" />
+        </spawn>
+        <spawn npcId="18678" flag="5" respawnDelay="90" respawnRandom="15">
+            <zone id="503" count="1" />
+        </spawn>
+        <spawn npcId="18680" flag="5" respawnDelay="90" respawnRandom="15">
+            <zone id="503" count="1" />
+        </spawn>
+        <spawn npcId="18682" flag="5" respawnDelay="90" respawnRandom="15">
+            <zone id="503" count="1" />
+        </spawn>
+        <spawn npcId="18683" flag="5" respawnDelay="90" respawnRandom="15">
+            <zone id="503" count="1" />
+        </spawn>
+        <spawn npcId="18679" flag="5" respawnDelay="90" respawnRandom="15">
+            <zone id="504" count="1" />
+        </spawn>
+        <spawn npcId="18680" flag="5" respawnDelay="90" respawnRandom="15">
+            <zone id="504" count="1" />
+        </spawn>
+        <spawn npcId="18682" flag="5" respawnDelay="90" respawnRandom="15">
+            <zone id="504" count="1" />
+        </spawn>
+        <spawn npcId="18683" flag="5" respawnDelay="90" respawnRandom="15">
+            <zone id="504" count="1" />
+        </spawn>
+        <spawn npcId="18678" flag="5" respawnDelay="90" respawnRandom="15">
+            <zone id="505" count="1" />
+        </spawn>
+        <spawn npcId="18679" flag="5" respawnDelay="90" respawnRandom="15">
+            <zone id="505" count="1" />
+        </spawn>
+        <spawn npcId="18682" flag="5" respawnDelay="90" respawnRandom="15">
+            <zone id="505" count="1" />
+        </spawn>
+        <spawn npcId="18683" flag="5" respawnDelay="90" respawnRandom="15">
+            <zone id="505" count="1" />
+        </spawn>
+        <spawn npcId="18679" flag="5" respawnDelay="90" respawnRandom="15">
+            <zone id="506" count="1" />
+        </spawn>
+        <spawn npcId="18680" flag="5" respawnDelay="90" respawnRandom="15">
+            <zone id="506" count="1" />
+        </spawn>
+        <spawn npcId="18682" flag="5" respawnDelay="90" respawnRandom="15">
+            <zone id="506" count="1" />
+        </spawn>
+        <spawn npcId="18683" flag="5" respawnDelay="90" respawnRandom="15">
+            <zone id="506" count="1" />
+        </spawn>
+        <spawn npcId="18678" flag="5" respawnDelay="90" respawnRandom="15">
+            <zone id="507" count="1" />
+        </spawn>
+        <spawn npcId="18680" flag="5" respawnDelay="90" respawnRandom="15">
+            <zone id="507" count="1" />
+        </spawn>
+        <spawn npcId="18682" flag="5" respawnDelay="90" respawnRandom="15">
+            <zone id="507" count="1" />
+        </spawn>
+        <spawn npcId="18683" flag="5" respawnDelay="90" respawnRandom="15">
+            <zone id="507" count="1" />
+        </spawn>
+        <spawn npcId="18678" flag="5" respawnDelay="90" respawnRandom="15">
+            <zone id="508" count="1" />
+        </spawn>
+        <spawn npcId="18679" flag="5" respawnDelay="90" respawnRandom="15">
+            <zone id="508" count="1" />
+        </spawn>
+        <spawn npcId="18680" flag="5" respawnDelay="90" respawnRandom="15">
+            <zone id="508" count="1" />
+        </spawn>
+        <spawn npcId="18683" flag="5" respawnDelay="90" respawnRandom="15">
+            <zone id="508" count="1" />
+        </spawn>
+        <spawn npcId="18681" flag="5" respawnDelay="90" respawnRandom="15">
+            <zone id="509" count="1" />
+        </spawn>
+        <spawn npcId="18682" flag="5" respawnDelay="90" respawnRandom="15">
+            <zone id="509" count="1" />
+        </spawn>
+        <spawn npcId="18679" flag="5" respawnDelay="90" respawnRandom="15">
+            <zone id="510" count="1" />
+        </spawn>
+        <spawn npcId="18681" flag="5" respawnDelay="90" respawnRandom="15">
+            <zone id="510" count="1" />
+        </spawn>
+        <spawn npcId="18682" flag="5" respawnDelay="90" respawnRandom="15">
+            <zone id="510" count="1" />
+        </spawn>
+        <spawn npcId="18683" flag="5" respawnDelay="90" respawnRandom="15">
+            <zone id="510" count="1" />
+        </spawn>
+        <spawn npcId="18678" flag="5" respawnDelay="90" respawnRandom="15">
+            <zone id="511" count="1" />
+        </spawn>
+        <spawn npcId="18680" flag="5" respawnDelay="90" respawnRandom="15">
+            <zone id="511" count="1" />
+        </spawn>
+        <spawn npcId="18681" flag="5" respawnDelay="90" respawnRandom="15">
+            <zone id="511" count="1" />
+        </spawn>
+        <spawn npcId="18683" flag="5" respawnDelay="90" respawnRandom="15">
+            <zone id="511" count="1" />
+        </spawn>
+        <spawn npcId="18678" flag="5" respawnDelay="90" respawnRandom="15">
+            <zone id="512" count="1" />
+        </spawn>
+        <spawn npcId="18679" flag="5" respawnDelay="90" respawnRandom="15">
+            <zone id="512" count="1" />
+        </spawn>
+        <spawn npcId="18680" flag="5" respawnDelay="90" respawnRandom="15">
+            <zone id="512" count="1" />
+        </spawn>
+        <spawn npcId="18682" flag="5" respawnDelay="90" respawnRandom="15">
+            <zone id="512" count="1" />
+        </spawn>
+        <spawn npcId="18678" flag="5" respawnDelay="90" respawnRandom="15">
+            <zone id="513" count="1" />
+        </spawn>
+        <spawn npcId="18679" flag="5" respawnDelay="90" respawnRandom="15">
+            <zone id="513" count="1" />
+        </spawn>
+        <spawn npcId="18680" flag="5" respawnDelay="90" respawnRandom="15">
+            <zone id="513" count="1" />
+        </spawn>
+        <spawn npcId="18683" flag="5" respawnDelay="90" respawnRandom="15">
+            <zone id="513" count="1" />
+        </spawn>
+        <spawn npcId="18679" flag="5" respawnDelay="90" respawnRandom="15">
+            <zone id="514" count="1" />
+        </spawn>
+        <spawn npcId="18680" flag="5" respawnDelay="90" respawnRandom="15">
+            <zone id="514" count="1" />
+        </spawn>
+        <spawn npcId="18681" flag="5" respawnDelay="90" respawnRandom="15">
+            <zone id="514" count="1" />
+        </spawn>
+        <spawn npcId="18682" flag="5" respawnDelay="90" respawnRandom="15">
+            <zone id="514" count="1" />
+        </spawn>
+        <spawn npcId="18680" flag="5" respawnDelay="90" respawnRandom="15">
+            <zone id="515" count="1" />
+        </spawn>
+        <spawn npcId="18681" flag="5" respawnDelay="90" respawnRandom="15">
+            <zone id="515" count="1" />
+        </spawn>
+        <spawn npcId="18682" flag="5" respawnDelay="90" respawnRandom="15">
+            <zone id="515" count="1" />
+        </spawn>
+        <spawn npcId="18683" flag="5" respawnDelay="90" respawnRandom="15">
+            <zone id="515" count="1" />
+        </spawn>
+        <spawn npcId="18678" flag="5" respawnDelay="90" respawnRandom="15">
+            <zone id="516" count="1" />
+        </spawn>
+        <spawn npcId="18679" flag="5" respawnDelay="90" respawnRandom="15">
+            <zone id="516" count="1" />
+        </spawn>
+        <spawn npcId="18682" flag="5" respawnDelay="90" respawnRandom="15">
+            <zone id="516" count="1" />
+        </spawn>
+        <spawn npcId="18683" flag="5" respawnDelay="90" respawnRandom="15">
+            <zone id="516" count="1" />
+        </spawn>
+        <spawn npcId="18678" flag="5" respawnDelay="90" respawnRandom="15">
+            <zone id="517" count="1" />
+        </spawn>
+        <spawn npcId="18679" flag="5" respawnDelay="90" respawnRandom="15">
+            <zone id="517" count="1" />
+        </spawn>
+        <spawn npcId="18682" flag="5" respawnDelay="90" respawnRandom="15">
+            <zone id="517" count="1" />
+        </spawn>
+        <spawn npcId="18683" flag="5" respawnDelay="90" respawnRandom="15">
+            <zone id="517" count="1" />
+        </spawn>
+        <spawn npcId="18678" flag="5" respawnDelay="90" respawnRandom="15">
+            <zone id="518" count="1" />
+        </spawn>
+        <spawn npcId="18679" flag="5" respawnDelay="90" respawnRandom="15">
+            <zone id="518" count="1" />
+        </spawn>
+        <spawn npcId="18681" flag="5" respawnDelay="90" respawnRandom="15">
+            <zone id="518" count="1" />
+        </spawn>
+        <spawn npcId="18682" flag="5" respawnDelay="90" respawnRandom="15">
+            <zone id="518" count="1" />
+        </spawn>
+        <spawn npcId="18683" flag="5" respawnDelay="90" respawnRandom="15">
+            <zone id="518" count="1" />
+        </spawn>
+        <spawn npcId="18679" flag="5" respawnDelay="90" respawnRandom="15">
+            <zone id="519" count="1" />
+        </spawn>
+        <spawn npcId="18681" flag="5" respawnDelay="90" respawnRandom="15">
+            <zone id="519" count="1" />
+        </spawn>
+        <spawn npcId="18682" flag="5" respawnDelay="90" respawnRandom="15">
+            <zone id="519" count="1" />
+        </spawn>
+        <spawn npcId="18683" flag="5" respawnDelay="90" respawnRandom="15">
+            <zone id="519" count="1" />
+        </spawn>
+        <spawn npcId="18679" flag="5" respawnDelay="90" respawnRandom="15">
+            <zone id="520" count="1" />
+        </spawn>
+        <spawn npcId="18681" flag="5" respawnDelay="90" respawnRandom="15">
+            <zone id="520" count="1" />
+        </spawn>
+        <spawn npcId="18682" flag="5" respawnDelay="90" respawnRandom="15">
+            <zone id="520" count="1" />
+        </spawn>
+        <spawn npcId="18683" flag="5" respawnDelay="90" respawnRandom="15">
+            <zone id="520" count="1" />
+        </spawn>
+    </npc>
+</list>

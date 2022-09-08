@@ -1,0 +1,85 @@
+################################################################################
+# BufferService - JSON Docs                                                    #
+################################################################################
+
+###############
+# global.json #
+###############
+
+    {
+        "buffs": {
+            "<buffId>": {
+                "id":    "<buffId>",
+                "skill": (number),
+                "level": (number),
+                "type":  "BUFF" or "SONG_DANCE",
+                "items" : [
+                    { "id":(number), "amount":(number) },
+                    ....
+                ]
+            },
+            ....
+        },
+
+        "buffCategories": {
+            "<buffCategoryId>": {
+                "id":   "<buffCategoryId>",
+                "name": (string),
+                "buffs": ["<buffId>", ...]
+            },
+            ....
+        }
+    }
+
+    Notes:
+    • buffs: An object where each property represents a buff (the "id" property must match the key in "buffs").
+    • buffs.<buffId>.skill: skill id
+    • buffs.<buffId>.level: skill level
+    • buffs.<buffId>.type: This property must be a string of either "BUFF" or "SONG_DANCE".
+    • buffs.<buffId>.items: An array of item objects
+    • buffCategories: An object where each property represents a buff category (the "id" property must match the key in "buffCategories"
+    • buffCategories.<buffCategoryId>.name: display name of buff category
+    • buffCategories.<buffCategoryId>.buffs: property is an array of <buffId> from global.json
+
+
+###############
+# voiced.json #
+###############
+
+    {
+        "dialogType": "NPC" or "COMMUNITY",
+        "htmlFolder": (string),
+        "canHeal": (boolean),
+        "canCancel": (boolean),
+        
+        "presetBuffCategories": ["<buffCategoryId>", ...],
+        "buffCategories": ["<buffCategoryId>", ...]
+    }
+
+    Notes:
+    • dialogType: NPC opens npc html window, COMMUNITY opens community board
+    • htmlFolder: from where to load html files
+    • canHeal: whatever this buffer can heal
+    • canCancel: whatever this buffer can cancel buffs
+    • presetBuffCategories & buffCategories: both properties are an array of <buffCategoryId> from global.json
+
+#####################
+# npcs/<npcId>.json #
+#####################
+
+    {
+        "npcId": "<npcId>",
+        "directFirstTalk": (boolean),
+        "dialogType": "NPC" or "COMMUNITY",
+        "htmlFolder": (string),
+        "canHeal": (boolean),
+        "canCancel": (boolean),
+        
+        "presetBuffCategories": ["<buffCategoryId>", ...],
+        "buffCategories": ["<buffCategoryId>", ...]
+    }
+
+    Notes:
+    • npcId: the npc id
+    • directFirstTalk: whatever to directly show the script htmls (true) or initially show htmls from <datapack>/data/html when talking to the npc by clicking on it
+    • see notes from voiced.json

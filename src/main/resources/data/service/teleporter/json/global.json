@@ -1,0 +1,425 @@
+{
+    "soloTeleports": {
+		"S_GIRAN": {"id":"S_GIRAN", "name":"Giran", "x":82698, "y":148638, "z":-3473, "heading":0, "randomOffset":0, "instance":"", "items":[{"id":57, "amount":100}]},
+		"S_GODDARD": {"id":"S_GODDARD", "name":"Goddard", "x":147725, "y":-56517, "z":-2780, "heading":0, "randomOffset":0, "instance":"", "items":[{"id":57, "amount":100}]},
+		"S_DION": {"id":"S_DION", "name":"Dion", "x":18748, "y":145437, "z":-3132, "heading":0, "randomOffset":0, "instance":"", "items":[{"id":57, "amount":100}]},
+		"S_GLUDIO": {"id":"S_GLUDIO", "name":"Gludio", "x":-14225, "y":123540, "z":-3121, "heading":0, "randomOffset":0, "instance":"", "items":[{"id":57, "amount":100}]},
+		"S_SCHUTTGART": {"id":"S_SCHUTTGART", "name":"Schutgart", "x":87358, "y":-141982, "z":-1341, "heading":0, "randomOffset":0, "instance":"", "items":[{"id":57, "amount":100}]},
+		"S_HUNTERS": {"id":"S_HUNTERS", "name":"Hunters", "x":116589, "y":76268, "z":-2734, "heading":0, "randomOffset":0, "instance":"", "items":[{"id":57, "amount":100}]},
+		"S_ADEN": {"id":"S_ADEN", "name":"Aden", "x":147450, "y":27064, "z":-2208, "heading":0, "randomOffset":0, "instance":"", "items":[{"id":57, "amount":100}]},
+		"S_RUNE": {"id":"S_RUNE", "name":"Rune", "x":44070, "y":-50243, "z":-796, "heading":0, "randomOffset":0, "instance":"", "items":[{"id":57, "amount":100}]},
+		"S_OREN": {"id":"S_OREN", "name":"Oren", "x":82321, "y":55139, "z":-1529, "heading":0, "randomOffset":0, "instance":"", "items":[{"id":57, "amount":100}]},
+		"S_GLUDIN": {"id":"S_GLUDIN", "name":"Gludin", "x":-83063, "y":150791, "z":-3133, "heading":0, "randomOffset":0, "instance":"", "items":[{"id":57, "amount":100}]},
+		"S_HEINE": {"id":"S_HEINE", "name":"Heine", "x":111115, "y":219017, "z":-3547, "heading":0, "randomOffset":0, "instance":"", "items":[{"id":57, "amount":100}]},
+		"S_FLORAN": {"id":"S_FLORAN", "name":"Floran", "x":17144, "y":170156, "z":-3502, "heading":0, "randomOffset":0, "instance":"", "items":[{"id":57, "amount":100}]},
+		"S_HUMAN": {"id":"S_HUMAN", "name":"Human", "x":-82687, "y":243157, "z":-3734, "heading":0, "randomOffset":0, "instance":"", "items":[{"id":57, "amount":100}]},
+		"S_ORC": {"id":"S_ORC", "name":"Orc", "x":-44133, "y":-113911, "z":-244, "heading":0, "randomOffset":0, "instance":"", "items":[{"id":57, "amount":100}]},
+		"S_ELVEN": {"id":"S_ELVEN", "name":"Elven", "x":45873, "y":49288, "z":-3064, "heading":0, "randomOffset":0, "instance":"", "items":[{"id":57, "amount":100}]},
+		"S_DWARVEN": {"id":"S_DWARVEN", "name":"Dwarven", "x":116551, "y":-182493, "z":-1525, "heading":0, "randomOffset":0, "instance":"", "items":[{"id":57, "amount":100}]},
+		"S_DARK_ELVEN": {"id":"S_DARK_ELVEN", "name":"Dark Elven", "x":12428, "y":16551, "z":-4588, "heading":0, "randomOffset":0, "instance":"", "items":[{"id":57, "amount":100}]},
+		"S_KAMAEL": {"id":"S_KAMAEL", "name":"Kamael", "x":-116934, "y":46616, "z":368, "heading":0, "randomOffset":0, "instance":"", "items":[{"id":57, "amount":100}]},
+
+		"S_ADEN_CASTLE": {"id":"S_ADEN_CASTLE", "name":"Aden Castle", "x":147457, "y":10843, "z":-736, "heading":0, "randomOffset":0, "instance":"", "items":[{"id":57, "amount":100}]},
+		"S_GODDARD_CASTLE": {"id":"S_GODDARD_CASTLE", "name":"Goddard Castle", "x":147482, "y":-45026, "z":-2084, "heading":0, "randomOffset":0, "instance":"", "items":[{"id":57, "amount":100}]},
+		"S_DION_CASTLE": {"id":"S_DION_CASTLE", "name":"Dion Castle", "x":22306, "y":156027, "z":-2953, "heading":0, "randomOffset":0, "instance":"", "items":[{"id":57, "amount":100}]},
+		"S_RUNE_CASTLE": {"id":"S_RUNE_CASTLE", "name":"Rune Castle", "x":19118, "y":-49136, "z":-1266, "heading":0, "randomOffset":0, "instance":"", "items":[{"id":57, "amount":100}]},
+		"S_INNADRIL_CASTLE": {"id":"S_INNADRIL_CASTLE", "name":"Innadril Castle", "x":244631, "y":27064, "z":-1057, "heading":0, "randomOffset":0, "instance":"", "items":[{"id":57, "amount":100}]},
+		"S_GIRAN_CASTLE": {"id":"S_GIRAN_CASTLE", "name":"Giran Castle", "x":112122, "y":144855, "z":-2751, "heading":0, "randomOffset":0, "instance":"", "items":[{"id":57, "amount":100}]},
+		"S_OREN_CASTLE": {"id":"S_OREN_CASTLE", "name":"Oren Castle", "x":78116, "y":36961, "z":-2458, "heading":0, "randomOffset":0, "instance":"", "items":[{"id":57, "amount":100}]},
+		"S_GLUDIO_CASTLE": {"id":"S_GLUDIO_CASTLE", "name":"Gludio Castle", "x":-18361, "y":113887, "z":-2767, "heading":0, "randomOffset":0, "instance":"", "items":[{"id":57, "amount":100}]},
+		"S_SCHUTTGART_CASTLE": {"id":"S_SCHUTTGART_CASTLE", "name":"Schuttgart Castle", "x":77540, "y":-149114, "z":-352, "heading":0, "randomOffset":0, "instance":"", "items":[{"id":57, "amount":100}]},
+
+		"S_SAINTS": {"id":"S_SAINTS", "name":"Saint's", "x":82623, "y":209258, "z":-5439, "heading":0, "randomOffset":0, "instance":"", "items":[{"id":57, "amount":100}]},
+		"S_DISCIPLES": {"id":"S_DISCIPLES", "name":"Disciple's", "x":171880, "y":-17657, "z":-4901, "heading":0, "randomOffset":0, "instance":"", "items":[{"id":57, "amount":100}]},
+		"S_MARTYRDOM": {"id":"S_MARTYRDOM", "name":"Martyrdom", "x":117788, "y":132785, "z":-4830, "heading":0, "randomOffset":0, "instance":"", "items":[{"id":57, "amount":100}]},
+		"S_DEVOTION": {"id":"S_DEVOTION", "name":"Devotion", "x":-52850, "y":79044, "z":-4741, "heading":0, "randomOffset":0, "instance":"", "items":[{"id":57, "amount":100}]},
+		"S_PATRIOTS": {"id":"S_PATRIOTS", "name":"Patriot's", "x":-22219, "y":77315, "z":-5173, "heading":0, "randomOffset":0, "instance":"", "items":[{"id":57, "amount":100}]},
+		"S_WORSHIP": {"id":"S_WORSHIP", "name":"Worship", "x":110663, "y":174008, "z":-5444, "heading":0, "randomOffset":0, "instance":"", "items":[{"id":57, "amount":100}]},
+		"S_PILGRIMS": {"id":"S_PILGRIMS", "name":"Pilgrim", "x":45221, "y":124407, "z":-5412, "heading":0, "randomOffset":0, "instance":"", "items":[{"id":57, "amount":100}]},
+		"S_SACRAFICE": {"id":"S_SACRAFICE", "name":"Sacrifice", "x":-41562, "y":209253, "z":-5086, "heading":0, "randomOffset":0, "instance":"", "items":[{"id":57, "amount":100}]},
+
+		"S_DARK_OMENS": {"id":"S_DARK_OMENS", "name":"Dark Omens", "x":-19979, "y":13528, "z":-4900, "heading":0, "randomOffset":0, "instance":"", "items":[{"id":57, "amount":100}]},
+		"S_FORBIDDEN_PATH": {"id":"S_FORBIDDEN_PATH", "name":"Forbidden Path", "x":113434, "y":84523, "z":-6540, "heading":0, "randomOffset":0, "instance":"", "items":[{"id":57, "amount":100}]},
+		"S_WITCH": {"id":"S_WITCH", "name":"Witch", "x":140011, "y":79709, "z":-5428, "heading":0, "randomOffset":0, "instance":"", "items":[{"id":57, "amount":100}]},
+		"S_APOSTATE": {"id":"S_APOSTATE", "name":"Apostate", "x":77199, "y":78370, "z":-5114, "heading":0, "randomOffset":0, "instance":"", "items":[{"id":57, "amount":100}]},
+		"S_BRANDED": {"id":"S_BRANDED", "name":"Branded", "x":45605, "y":170296, "z":-4986, "heading":0, "randomOffset":0, "instance":"", "items":[{"id":57, "amount":100}]},
+		"S_HERETIC": {"id":"S_HERETIC", "name":"Heretic", "x":42504, "y":143934, "z":-5381, "heading":0, "randomOffset":0, "instance":"", "items":[{"id":57, "amount":100}]},
+
+		"S_FORTRESS_OF_RESISTANCE": {"id":"S_FORTRESS_OF_RESISTANCE", "name":"Fortress of Resistance", "x":45556, "y":109807, "z":-1990, "heading":0, "randomOffset":0, "instance":"", "items":[{"id":57, "amount":100}]},
+		"S_BANDIT_STRONGHOLD": {"id":"S_BANDIT_STRONGHOLD", "name":"Bandit Stronghold", "x":86575, "y":-19745, "z":-1931, "heading":0, "randomOffset":0, "instance":"", "items":[{"id":57, "amount":100}]},
+		"S_DEVASTATED_CASTLE": {"id":"S_DEVASTATED_CASTLE", "name":"Devastated Castle", "x":178342, "y":-14003, "z":-2255, "heading":0, "randomOffset":0, "instance":"", "items":[{"id":57, "amount":100}]},
+		"S_WILD_BEAST_RESERVE": {"id":"S_WILD_BEAST_RESERVE", "name":"Wild Beast Reserve", "x":53556, "y":-94063, "z":-1630, "heading":0, "randomOffset":0, "instance":"", "items":[{"id":57, "amount":100}]},
+		"S_RAINDBOW_SPRINGS_CHATEAU": {"id":"S_RAINDBOW_SPRINGS_CHATEAU", "name":"Rainbow Springs Chateau", "x":140997, "y":-123379, "z":-1906, "heading":0, "randomOffset":0, "instance":"", "items":[{"id":57, "amount":100}]},
+		"S_FORTRESS_OF_THE_DEAD": {"id":"S_FORTRESS_OF_THE_DEAD", "name":"Fortress of the Dead", "x":57960, "y":-30188, "z":-501, "heading":0, "randomOffset":0, "instance":"", "items":[{"id":57, "amount":100}]},
+
+		"S_EXECUTION_GROUNDS": {"id":"S_EXECUTION_GROUNDS", "name":"Execution Grounds", "x":38291, "y":148029, "z":-3696, "heading":0, "randomOffset":0, "instance":"", "items":[{"id":57, "amount":100}]},
+		"S_PARTISANS_HIDEAWAY": {"id":"S_PARTISANS_HIDEAWAY", "name":"Partisan's Hideaway", "x":50081, "y":116859, "z":-2176, "heading":0, "randomOffset":0, "instance":"", "items":[{"id":57, "amount":100}]},
+		"S_CRUMA_MARSHLANDS": {"id":"S_CRUMA_MARSHLANDS", "name":"Cruma Marshlands", "x":5106, "y":126916, "z":-3664, "heading":0, "randomOffset":0, "instance":"", "items":[{"id":57, "amount":100}]},
+		"S_TANOR_CANYON": {"id":"S_TANOR_CANYON", "name":"Tanor Canyon", "x":58316, "y":163851, "z":-2816, "heading":0, "randomOffset":0, "instance":"", "items":[{"id":57, "amount":100}]},
+		"S_BEE_HIVE": {"id":"S_BEE_HIVE", "name":"Bee Hive", "x":34475, "y":188095, "z":-2976, "heading":0, "randomOffset":0, "instance":"", "items":[{"id":57, "amount":100}]},
+		"S_DION_HILLS": {"id":"S_DION_HILLS", "name":"Dion Hills", "x":29928, "y":151415, "z":-2397, "heading":0, "randomOffset":0, "instance":"", "items":[{"id":57, "amount":100}]},
+		"S_FLORAN_AGRICULTURAL_AREA": {"id":"S_FLORAN_AGRICULTURAL_AREA", "name":"Floran Agricultural Area", "x":10610, "y":156322, "z":-2472, "heading":0, "randomOffset":0, "instance":"", "items":[{"id":57, "amount":100}]},
+		"S_PLAINS_OF_DION": {"id":"S_PLAINS_OF_DION", "name":"Plains of Dion", "x":630, "y":179184, "z":-3720, "heading":0, "randomOffset":0, "instance":"", "items":[{"id":57, "amount":100}]},
+		"S_CRUMA_TOWER": {"id":"S_CRUMA_TOWER", "name":"Cruma Tower", "x":17225, "y":114173, "z":-3440, "heading":0, "randomOffset":0, "instance":"", "items":[{"id":57, "amount":100}]},
+		"S_CRUMA_TOWER_1ST": {"id":"S_CRUMA_TOWER_1ST", "name":"Cruma Tower 1st Floor", "x":17724, "y":114004, "z":-11672, "heading":0, "randomOffset":0, "instance":"", "items":[{"id":57, "amount":100}]},
+		"S_CRUMA_TOWER_2ND": {"id":"S_CRUMA_TOWER_2ND", "name":"Cruma Tower 2nd Floor", "x":17730, "y":108301, "z":-9057, "heading":0, "randomOffset":0, "instance":"", "items":[{"id":57, "amount":100}]},
+		"S_CRUMA_TOWER_3RD": {"id":"S_CRUMA_TOWER_3RD", "name":"Cruma Tower 3rd Floor", "x":17719, "y":115430, "z":-6582, "heading":0, "randomOffset":0, "instance":"", "items":[{"id":57, "amount":100}]},
+
+		"S_RUINS_OF_DESPAIR": {"id":"S_RUINS_OF_DESPAIR", "name":"Ruins of Despair", "x":-19120, "y":136816, "z":-3762, "heading":0, "randomOffset":0, "instance":"", "items":[{"id":57, "amount":100}]},
+		"S_RUINS_OF_AGONY": {"id":"S_RUINS_OF_AGONY", "name":"Ruins of Agony", "x":-42628, "y":119766, "z":-3528, "heading":0, "randomOffset":0, "instance":"", "items":[{"id":57, "amount":100}]},
+		"S_WASTELAND": {"id":"S_WASTELAND", "name":"Wasteland", "x":-16526, "y":208032, "z":-3664, "heading":0, "randomOffset":0, "instance":"", "items":[{"id":57, "amount":100}]},
+		"S_ABANDONED_CAMP": {"id":"S_ABANDONED_CAMP", "name":"Abandoned Camp", "x":-49853, "y":147089, "z":-2784, "heading":0, "randomOffset":0, "instance":"", "items":[{"id":57, "amount":100}]},
+		"S_ORC_BARRACKS": {"id":"S_ORC_BARRACKS", "name":"Orc Barracks", "x":-89763, "y":105359, "z":-3576, "heading":0, "randomOffset":0, "instance":"", "items":[{"id":57, "amount":100}]},
+		"S_WINDY_HILL": {"id":"S_WINDY_HILL", "name":"Windy Hill", "x":-88539, "y":83389, "z":-2864, "heading":0, "randomOffset":0, "instance":"", "items":[{"id":57, "amount":100}]},
+		"S_RED_ROCK_RIDGE": {"id":"S_RED_ROCK_RIDGE", "name":"Red Rock Ridge", "x":-44829, "y":188171, "z":-3256, "heading":0, "randomOffset":0, "instance":"", "items":[{"id":57, "amount":100}]},
+		"S_LANGK_LIZARDMEN_DWELLINGS": {"id":"S_LANGK_LIZARDMEN_DWELLINGS", "name":"Langk Lizardmen Dwellings", "x":-44763, "y":203497, "z":-3592, "heading":0, "randomOffset":0, "instance":"", "items":[{"id":57, "amount":100}]},
+		"S_MAILLE_LIZARDMEN_BARRACKS": {"id":"S_MAILLE_LIZARDMEN_BARRACKS", "name":"Maille Lizardmen Barracks", "x":-25283, "y":106820, "z":-3416, "heading":0, "randomOffset":0, "instance":"", "items":[{"id":57, "amount":100}]},
+		"S_TALKING_ISLAND_NORTHERN_TERRITORY": {"id":"S_TALKING_ISLAND_NORTHERN_TERRITORY", "name":"Talking Island, Northern Territory", "x":-104344, "y":226217, "z":-3616, "heading":0, "randomOffset":0, "instance":"", "items":[{"id":57, "amount":100}]},
+		"S_TALKING_ISLAND_EASTERN_TERRITORY": {"id":"S_TALKING_ISLAND_EASTERN_TERRITORY", "name":"Talking Island, Eastern Territory", "x":-95336, "y":240478, "z":-3264, "heading":0, "randomOffset":0, "instance":"", "items":[{"id":57, "amount":100}]},
+		"S_FELLMERE_HARVESTING_GROUNDS": {"id":"S_FELLMERE_HARVESTING_GROUNDS", "name":"Fellmere Harvesting Grounds", "x":-63736, "y":101522, "z":-3552, "heading":0, "randomOffset":0, "instance":"", "items":[{"id":57, "amount":100}]},
+		"S_WINDMILL_HILL": {"id":"S_WINDMILL_HILL", "name":"Windmill Hill", "x":-75437, "y":168800, "z":-3632, "heading":0, "randomOffset":0, "instance":"", "items":[{"id":57, "amount":100}]},
+		"S_EVIL_HUNTING_GROUNDS": {"id":"S_EVIL_HUNTING_GROUNDS", "name":"Evil Hunting Grounds", "x":-6989, "y":109503, "z":-3040, "heading":0, "randomOffset":0, "instance":"", "items":[{"id":57, "amount":100}]},
+		"S_WINDAWOOD_MANOR": {"id":"S_WINDAWOOD_MANOR", "name":"Windawood Manor", "x":-28327, "y":155125, "z":-3496, "heading":0, "randomOffset":0, "instance":"", "items":[{"id":57, "amount":100}]},
+		"S_OL_MAHUM_CHECKPOINT": {"id":"S_OL_MAHUM_CHECKPOINT", "name":"Ol Mahum Checkpoint", "x":-6661, "y":201880, "z":-3632, "heading":0, "randomOffset":0, "instance":"", "items":[{"id":57, "amount":100}]},
+		"S_THE_NEUTRAL_ZONE": {"id":"S_THE_NEUTRAL_ZONE", "name":"The Neutral Zone", "x":-10612, "y":75881, "z":-3592, "heading":0, "randomOffset":0, "instance":"", "items":[{"id":57, "amount":100}]},
+		"S_THE_ANT_NEST": {"id":"S_THE_ANT_NEST", "name":"The Ant Nest", "x":-9959, "y":176184, "z":-4160, "heading":0, "randomOffset":0, "instance":"", "items":[{"id":57, "amount":100}]},
+		"S_FORGOTTEN_TEMPLE": {"id":"S_FORGOTTEN_TEMPLE", "name":"Forgotten Temple", "x":-53001, "y":191425, "z":-3568, "heading":0, "randomOffset":0, "instance":"", "items":[{"id":57, "amount":100}]},
+		"S_ELVEN_RUINS": {"id":"S_ELVEN_RUINS", "name":"Elven Ruins", "x":-112367, "y":234703, "z":-3688, "heading":0, "randomOffset":0, "instance":"", "items":[{"id":57, "amount":100}]},
+		"S_ANT_INCUBATOR": {"id":"S_ANT_INCUBATOR", "name":"Ant Incubator", "x":-26489, "y":195307, "z":-3928, "heading":0, "randomOffset":0, "instance":"", "items":[{"id":57, "amount":100}]},
+		"S_GLUDIN_HARBOR": {"id":"S_GLUDIN_HARBOR", "name":"Gludin Harbor", "x":-91101, "y":150344, "z":-3624, "heading":0, "randomOffset":0, "instance":"", "items":[{"id":57, "amount":100}]},
+		"S_TALKING_ISLAND_HARBOR": {"id":"S_TALKING_ISLAND_HARBOR", "name":"Talking Island Harbor", "x":-96811, "y":259153, "z":-3616, "heading":0, "randomOffset":0, "instance":"", "items":[{"id":57, "amount":100}]},
+		"S_GLUDIN_ARENA": {"id":"S_GLUDIN_ARENA", "name":"Gludin Arena", "x":-87328, "y":142266, "z":-3640, "heading":0, "randomOffset":0, "instance":"", "items":[{"id":57, "amount":100}]},
+		"S_FELLMERE_LAKE": {"id":"S_FELLMERE_LAKE", "name":"Fellmere Lake", "x":-57798, "y":127629, "z":-2928, "heading":0, "randomOffset":0, "instance":"", "items":[{"id":57, "amount":100}]},
+		"S_OBELISK_OF_VICTORY": {"id":"S_OBELISK_OF_VICTORY", "name":"Obelisk of Victory", "x":-99586, "y":237637, "z":-3568, "heading":0, "randomOffset":0, "instance":"", "items":[{"id":57, "amount":100}]},
+		"S_SINGING_WATERFALL": {"id":"S_SINGING_WATERFALL", "name":"Singing Waterfall", "x":-111728, "y":244330, "z":-3448, "heading":0, "randomOffset":0, "instance":"", "items":[{"id":57, "amount":100}]},
+		"S_HELLBOUND_ENTRANCE": {"id":"S_HELLBOUND_ENTRANCE", "name":"Hellbound Entrance", "x":-11802, "y":236360, "z":-3271, "heading":0, "randomOffset":0, "instance":"", "items":[{"id":57, "amount":100}]},
+		"S_GLUDIO_AIRSHIP_FIELD": {"id":"S_GLUDIO_AIRSHIP_FIELD", "name":"Gludio AirShip Field", "x":-149365, "y":255309, "z":-86, "heading":0, "randomOffset":0, "instance":"", "items":[{"id":57, "amount":100}]},
+
+		"S_BLAZING_SWAMP": {"id":"S_BLAZING_SWAMP", "name":"Blazing Swamp", "x":155310, "y":-16339, "z":-3320, "heading":0, "randomOffset":0, "instance":"", "items":[{"id":57, "amount":100}]},
+		"S_THE_FORBIDDEN_GATEWAY": {"id":"S_THE_FORBIDDEN_GATEWAY", "name":"The Forbidden Gateway", "x":188611, "y":20588, "z":-3696, "heading":0, "randomOffset":0, "instance":"", "items":[{"id":57, "amount":100}]},
+		"S_THE_ENCHANTED_VALLEY": {"id":"S_THE_ENCHANTED_VALLEY", "name":"The Enchanted Valley", "x":124904, "y":61992, "z":-3973, "heading":0, "randomOffset":0, "instance":"", "items":[{"id":57, "amount":100}]},
+		"S_THE_CEMETERY": {"id":"S_THE_CEMETERY", "name":"The Cemetery", "x":167047, "y":20304, "z":-3328, "heading":0, "randomOffset":0, "instance":"", "items":[{"id":57, "amount":100}]},
+		"S_THE_FOREST_OF_MIRRORS": {"id":"S_THE_FOREST_OF_MIRRORS", "name":"The Forest of Mirrors", "x":142065, "y":81300, "z":-3000, "heading":0, "randomOffset":0, "instance":"", "items":[{"id":57, "amount":100}]},
+		"S_ANCIENT_BATTLEGROUND": {"id":"S_ANCIENT_BATTLEGROUND", "name":"Ancient Battleground", "x":106517, "y":-2871, "z":-3454, "heading":0, "randomOffset":0, "instance":"", "items":[{"id":57, "amount":100}]},
+		"S_FORSAKEN_PLAINS": {"id":"S_FORSAKEN_PLAINS", "name":"Forsaken Plains", "x":168217, "y":37990, "z":-4072, "heading":0, "randomOffset":0, "instance":"", "items":[{"id":57, "amount":100}]},
+		"S_SILENT_VALLEY": {"id":"S_SILENT_VALLEY", "name":"Silent Valley", "x":170838, "y":55776, "z":-5280, "heading":0, "randomOffset":0, "instance":"", "items":[{"id":57, "amount":100}]},
+		"S_HUNTERS_VALLEY": {"id":"S_HUNTERS_VALLEY", "name":"Hunters Valley", "x":114306, "y":86573, "z":-3112, "heading":0, "randomOffset":0, "instance":"", "items":[{"id":57, "amount":100}]},
+		"S_PLAINS_OF_GLORY": {"id":"S_PLAINS_OF_GLORY", "name":"Plains of Glory", "x":135580, "y":19467, "z":-3424, "heading":0, "randomOffset":0, "instance":"", "items":[{"id":57, "amount":100}]},
+		"S_FIELDS_OF_MASSACRE": {"id":"S_FIELDS_OF_MASSACRE", "name":"Fields of Massacre", "x":183543, "y":-14974, "z":-2768, "heading":0, "randomOffset":0, "instance":"", "items":[{"id":57, "amount":100}]},
+		"S_WAR-TORN_PLAINS": {"id":"S_WAR-TORN_PLAINS", "name":"War-Torn Plains", "x":156898, "y":11217, "z":-4032, "heading":0, "randomOffset":0, "instance":"", "items":[{"id":57, "amount":100}]},
+		"S_ISLE_OF_SOULS": {"id":"S_ISLE_OF_SOULS", "name":"Isle of Souls", "x":-121436, "y":56288, "z":-1586, "heading":0, "randomOffset":0, "instance":"", "items":[{"id":57, "amount":100}]},
+		"S_MIMIRS_FOREST": {"id":"S_MIMIRS_FOREST", "name":"Mimir's Forest", "x":-103032, "y":46457, "z":-1136, "heading":0, "randomOffset":0, "instance":"", "items":[{"id":57, "amount":100}]},
+		"S_HILLS_OF_GOLD": {"id":"S_HILLS_OF_GOLD", "name":"Hills of Gold", "x":-116114, "y":87005, "z":-3544, "heading":0, "randomOffset":0, "instance":"", "items":[{"id":57, "amount":100}]},
+		"S_TOWER_OF_INSOLENCE": {"id":"S_TOWER_OF_INSOLENCE", "name":"Tower of Insolence", "x":114649, "y":11115, "z":-5120, "heading":0, "randomOffset":0, "instance":"", "items":[{"id":57, "amount":100}]},
+		"S_THE_GIANTS_CAVE": {"id":"S_THE_GIANTS_CAVE", "name":"The Giant's Cave", "x":181737, "y":46469, "z":-4276, "heading":0, "randomOffset":0, "instance":"", "items":[{"id":57, "amount":100}]},
+		"S_NORNILS_GARDEN": {"id":"S_NORNILS_GARDEN", "name":"Nornil's Garden", "x":-84728, "y":60089, "z":-2576, "heading":0, "randomOffset":0, "instance":"", "items":[{"id":57, "amount":100}]},
+		"S_NORNILS_CAVE": {"id":"S_NORNILS_CAVE", "name":"Nornil's Cave", "x":-86961, "y":43356, "z":-2680, "heading":0, "randomOffset":0, "instance":"", "items":[{"id":57, "amount":100}]},
+		"S_COLISEUM": {"id":"S_COLISEUM", "name":"Coliseum", "x":146440, "y":46723, "z":-3400, "heading":0, "randomOffset":0, "instance":"", "items":[{"id":57, "amount":100}]},
+		"S_ANGHEL_WATERFALL": {"id":"S_ANGHEL_WATERFALL", "name":"Anghel Waterfall", "x":166182, "y":91560, "z":-3168, "heading":0, "randomOffset":0, "instance":"", "items":[{"id":57, "amount":100}]},
+		"S_EASTERN_BORDER_OUTPOST": {"id":"S_EASTERN_BORDER_OUTPOST", "name":"Eastern Border Outpost", "x":158141, "y":-24543, "z":-1288, "heading":0, "randomOffset":0, "instance":"", "items":[{"id":57, "amount":100}]},
+		"S_NARSELL_LAKE": {"id":"S_NARSELL_LAKE", "name":"Narsell Lake", "x":146440, "y":46723, "z":-3400, "heading":0, "randomOffset":0, "instance":"", "items":[{"id":57, "amount":100}]},
+		"S_WESTERN_BORDER_OUTPOST": {"id":"S_WESTERN_BORDER_OUTPOST", "name":"Western Border Outpost", "x":112405, "y":-16607, "z":-1864, "heading":0, "randomOffset":0, "instance":"", "items":[{"id":57, "amount":100}]},
+		"S_CAVE_OF_SOULS": {"id":"S_CAVE_OF_SOULS", "name":"Cave of Souls", "x":-123842, "y":38117, "z":1176, "heading":0, "randomOffset":0, "instance":"", "items":[{"id":57, "amount":100}]},
+
+		"S_VALLEY_OF_HEROES": {"id":"S_VALLEY_OF_HEROES", "name":"Valley of Heroes", "x":-39347, "y":-107274, "z":-2072, "heading":0, "randomOffset":0, "instance":"", "items":[{"id":57, "amount":100}]},
+		"S_IMMORTAL_PLATEAU_NORTHERN_REGION": {"id":"S_IMMORTAL_PLATEAU_NORTHERN_REGION", "name":"Immortal Plateau, Northern Region", "x":-10983, "y":-117484, "z":-2464, "heading":0, "randomOffset":0, "instance":"", "items":[{"id":57, "amount":100}]},
+		"S_IMMORTAL_PLATEAU_SOUTHERN_REGION": {"id":"S_IMMORTAL_PLATEAU_SOUTHERN_REGION", "name":"Immortal Plateau, Southern Region", "x":-4190, "y":-80040, "z":-2696, "heading":0, "randomOffset":0, "instance":"", "items":[{"id":57, "amount":100}]},
+		"S_FROZEN_VALLEY": {"id":"S_FROZEN_VALLEY", "name":"Frozen Valley", "x":112971, "y":-174924, "z":-608, "heading":0, "randomOffset":0, "instance":"", "items":[{"id":57, "amount":100}]},
+		"S_WESTERN_MINING_ZONE": {"id":"S_WESTERN_MINING_ZONE", "name":"Western Mining Zone", "x":128527, "y":-204036, "z":-3408, "heading":0, "randomOffset":0, "instance":"", "items":[{"id":57, "amount":100}]},
+		"S_EASTERN_MINING_ZONE": {"id":"S_EASTERN_MINING_ZONE", "name":"Eastern Mining Zone", "x":175836, "y":-205837, "z":-3384, "heading":0, "randomOffset":0, "instance":"", "items":[{"id":57, "amount":100}]},
+		"S_PLUNDEROUS_PLAINS": {"id":"S_PLUNDEROUS_PLAINS", "name":"Plunderous Plains", "x":111965, "y":-154172, "z":-1528, "heading":0, "randomOffset":0, "instance":"", "items":[{"id":57, "amount":100}]},
+		"S_FROZEN_LABYRINTH": {"id":"S_FROZEN_LABYRINTH", "name":"Frozen Labyrinth", "x":113903, "y":-108752, "z":-884, "heading":0, "randomOffset":0, "instance":"", "items":[{"id":57, "amount":100}]},
+		"S_FREYAS_GARDEN": {"id":"S_FREYAS_GARDEN", "name":"Freya's Garden", "x":102728, "y":-126242, "z":-2840, "heading":0, "randomOffset":0, "instance":"", "items":[{"id":57, "amount":100}]},
+		"S_PAVEL_RUINS": {"id":"S_PAVEL_RUINS", "name":"Pavel Ruins", "x":91280, "y":-117152, "z":-3952, "heading":0, "randomOffset":0, "instance":"", "items":[{"id":57, "amount":100}]},
+		"S_DEN_OF_EVIL": {"id":"S_DEN_OF_EVIL", "name":"Den of Evil", "x":68693, "y":-110438, "z":-1946, "heading":0, "randomOffset":0, "instance":"", "items":[{"id":57, "amount":100}]},
+		"S_CRYPTS_OF_DISGRACE": {"id":"S_CRYPTS_OF_DISGRACE", "name":"Crypts of Disgrace", "x":47692, "y":-115745, "z":-3744, "heading":0, "randomOffset":0, "instance":"", "items":[{"id":57, "amount":100}]},
+		"S_SKY_WAGON_RELIC": {"id":"S_SKY_WAGON_RELIC", "name":"Sky Wagon Relic", "x":121618, "y":-141554, "z":-1496, "heading":0, "randomOffset":0, "instance":"", "items":[{"id":57, "amount":100}]},
+		"S_CAVE_OF_TRIALS": {"id":"S_CAVE_OF_TRIALS", "name":"Cave of Trials", "x":9340, "y":-112509, "z":-2536, "heading":0, "randomOffset":0, "instance":"", "items":[{"id":57, "amount":100}]},
+		"S_ABANDONED_COAL_MINES": {"id":"S_ABANDONED_COAL_MINES", "name":"Abandoned Coal Mines", "x":139714, "y":-177456, "z":-1536, "heading":0, "randomOffset":0, "instance":"", "items":[{"id":57, "amount":100}]},
+		"S_MITHRIL_MINES": {"id":"S_MITHRIL_MINES", "name":"Mithril Mines", "x":171946, "y":-173352, "z":3440, "heading":0, "randomOffset":0, "instance":"", "items":[{"id":57, "amount":100}]},
+		"S_ARCHAIC_LABORATORY": {"id":"S_ARCHAIC_LABORATORY", "name":"Archaic Laboratory", "x":90418, "y":-107317, "z":-3328, "heading":0, "randomOffset":0, "instance":"", "items":[{"id":57, "amount":100}]},
+		"S_FROZEN_WATERFALLS": {"id":"S_FROZEN_WATERFALLS", "name":"Frozen Waterfalls", "x":8652, "y":-139941, "z":-1144, "heading":0, "randomOffset":0, "instance":"", "items":[{"id":57, "amount":100}]},
+		"S_STRIP_MINE": {"id":"S_STRIP_MINE", "name":"Strip Mine", "x":106561, "y":-173949, "z":-400, "heading":0, "randomOffset":0, "instance":"", "items":[{"id":57, "amount":100}]},
+		"S_SPINE_MOUNTAINS": {"id":"S_SPINE_MOUNTAINS", "name":"Spine Mountains", "x":147493, "y":-200840, "z":192, "heading":0, "randomOffset":0, "instance":"", "items":[{"id":57, "amount":100}]},
+		"S_MINING_ZONE_PASSAGE": {"id":"S_MINING_ZONE_PASSAGE", "name":"Mining Zone Passage", "x":113826, "y":-171150, "z":-160, "heading":0, "randomOffset":0, "instance":"", "items":[{"id":57, "amount":100}]},
+		"S_CARONS_DUNGEON": {"id":"S_CARONS_DUNGEON", "name":"Caron's Dungeon", "x":76021, "y":-110477, "z":-1704, "heading":0, "randomOffset":0, "instance":"", "items":[{"id":57, "amount":100}]},
+		"S_VALLEY_OF_THE_LORDS": {"id":"S_VALLEY_OF_THE_LORDS", "name":"Valley of the Lords", "x":32173, "y":-122954, "z":-792, "heading":0, "randomOffset":0, "instance":"", "items":[{"id":57, "amount":100}]},
+		"S_FROST_LAKE": {"id":"S_FROST_LAKE", "name":"Frost Lake", "x":107577, "y":-122392, "z":-3632, "heading":0, "randomOffset":0, "instance":"", "items":[{"id":57, "amount":100}]},
+		"S_ICE_MERCHANT_CABIN": {"id":"S_ICE_MERCHANT_CABIN", "name":"Ice Merchant Cabin", "x":113750, "y":-109163, "z":-832, "heading":0, "randomOffset":0, "instance":"", "items":[{"id":57, "amount":100}]},
+		"S_BRIGAND_STRONGHOLD": {"id":"S_BRIGAND_STRONGHOLD", "name":"Brigand Stronghold", "x":126272, "y":-159336, "z":-1232, "heading":0, "randomOffset":0, "instance":"", "items":[{"id":57, "amount":100}]},
+		"S_GRAVEROBBER_HIDEOUT": {"id":"S_GRAVEROBBER_HIDEOUT", "name":"Graverobber Hideout", "x":48336, "y":-107734, "z":-1577, "heading":0, "randomOffset":0, "instance":"", "items":[{"id":57, "amount":100}]},
+
+		"S_GARDEN_OF_BEASTS": {"id":"S_GARDEN_OF_BEASTS", "name":"Garden of Beasts", "x":132997, "y":-60608, "z":-2960, "heading":0, "randomOffset":0, "instance":"", "items":[{"id":57, "amount":100}]},
+		"S_HOT_SPRINGS": {"id":"S_HOT_SPRINGS", "name":"Hot Springs", "x":144880, "y":-113468, "z":-2560, "heading":0, "randomOffset":0, "instance":"", "items":[{"id":57, "amount":100}]},
+		"S_KETRA_ORC_OUTPOST": {"id":"S_KETRA_ORC_OUTPOST", "name":"Ketra Orc Outpost", "x":146990, "y":-67128, "z":-3640, "heading":0, "randomOffset":0, "instance":"", "items":[{"id":57, "amount":100}]},
+		"S_WALL_OF_ARGOS": {"id":"S_WALL_OF_ARGOS", "name":"Wall of Argos", "x":165054, "y":-47861, "z":-3560, "heading":0, "randomOffset":0, "instance":"", "items":[{"id":57, "amount":100}]},
+		"S_SHRINE_OF_LOYALTY": {"id":"S_SHRINE_OF_LOYALTY", "name":"Shrine of Loyalty", "x":190112, "y":61776, "z":-2944, "heading":0, "randomOffset":0, "instance":"", "items":[{"id":57, "amount":100}]},
+		"S_VARKA_SILENOS_BARRACKS": {"id":"S_VARKA_SILENOS_BARRACKS", "name":"Varka Silenos Barracks", "x":125740, "y":-40864, "z":-3736, "heading":0, "randomOffset":0, "instance":"", "items":[{"id":57, "amount":100}]},
+		"S_DEVILS_PASS": {"id":"S_DEVILS_PASS", "name":"Devil's Pass", "x":42504, "y":-61870, "z":-2904, "heading":0, "randomOffset":0, "instance":"", "items":[{"id":57, "amount":100}]},
+		"S_FORGE_OF_THE_GODS": {"id":"S_FORGE_OF_THE_GODS", "name":"Forge of the Gods", "x":168902, "y":-116703, "z":-2417, "heading":0, "randomOffset":0, "instance":"", "items":[{"id":57, "amount":100}]},
+		"S_HALL_OF_FLAMES": {"id":"S_HALL_OF_FLAMES", "name":"Hall of Flames", "x":189964, "y":-116820, "z":-1624, "heading":0, "randomOffset":0, "instance":"", "items":[{"id":57, "amount":100}]},
+		"S_IMPERIAL_TOMB": {"id":"S_IMPERIAL_TOMB", "name":"Imperial Tomb", "x":186699, "y":-75915, "z":-2826, "heading":0, "randomOffset":0, "instance":"", "items":[{"id":57, "amount":100}]},
+		"S_FOUR_SEPULCHERS": {"id":"S_FOUR_SEPULCHERS", "name":"Four Sepulchers", "x":178127, "y":-84435, "z":-7215, "heading":0, "randomOffset":0, "instance":"", "items":[{"id":57, "amount":100}]},
+		"S_KETRA_ORC_VILLAGE": {"id":"S_KETRA_ORC_VILLAGE", "name":"Ketra Orc Village", "x":149548, "y":-82014, "z":-5592, "heading":0, "randomOffset":0, "instance":"", "items":[{"id":57, "amount":100}]},
+		"S_VARKA_SILENOS_VILLAGE": {"id":"S_VARKA_SILENOS_VILLAGE", "name":"Varka Silenos Village", "x":108155, "y":-53670, "z":-2472, "heading":0, "randomOffset":0, "instance":"", "items":[{"id":57, "amount":100}]},
+		"S_HOT_SPRINGS_ARENA": {"id":"S_HOT_SPRINGS_ARENA", "name":"Hot Springs Arena", "x":152180, "y":-126093, "z":-2282, "heading":0, "randomOffset":0, "instance":"", "items":[{"id":57, "amount":100}]},
+
+		"S_DRAGON_VALLEY": {"id":"S_DRAGON_VALLEY", "name":"Dragon Valley", "x":73024, "y":118485, "z":-3720, "heading":0, "randomOffset":0, "instance":"", "items":[{"id":57, "amount":100}]},
+		"S_DEATH_PASS": {"id":"S_DEATH_PASS", "name":"Death Pass", "x":67933, "y":117045, "z":-3544, "heading":0, "randomOffset":0, "instance":"", "items":[{"id":57, "amount":100}]},
+		"S_BREKAS_STRONGHOLD": {"id":"S_BREKAS_STRONGHOLD", "name":"Breka's Stronghold", "x":85546, "y":131328, "z":-3672, "heading":0, "randomOffset":0, "instance":"", "items":[{"id":57, "amount":100}]},
+		"S_GORGON_FLOWER_GARDEN": {"id":"S_GORGON_FLOWER_GARDEN", "name":"Gorgon Flower Garden", "x":113553, "y":134813, "z":-3540, "heading":0, "randomOffset":0, "instance":"", "items":[{"id":57, "amount":100}]},
+		"S_ANTHARAS_LAIR": {"id":"S_ANTHARAS_LAIR", "name":"Antharas' Lair", "x":131557, "y":114509, "z":-3712, "heading":0, "randomOffset":0, "instance":"", "items":[{"id":57, "amount":100}]},
+		"S_DEVILS_ISLE": {"id":"S_DEVILS_ISLE", "name":"Devil's Isle", "x":43408, "y":206881, "z":-3752, "heading":0, "randomOffset":0, "instance":"", "items":[{"id":57, "amount":100}]},
+		"S_HARDINS_ACADEMY": {"id":"S_HARDINS_ACADEMY", "name":"Hardin's Academy", "x":105918, "y":109759, "z":-3170, "heading":0, "randomOffset":0, "instance":"", "items":[{"id":57, "amount":100}]},
+		"S_GIRAN_HARBOR": {"id":"S_GIRAN_HARBOR", "name":"Giran Harbor", "x":47938, "y":186864, "z":-3420, "heading":0, "randomOffset":0, "instance":"", "items":[{"id":57, "amount":100}]},
+		"S_GIRAN_ARENA": {"id":"S_GIRAN_ARENA", "name":"Giran Arena", "x":73579, "y":142709, "z":-3768, "heading":0, "randomOffset":0, "instance":"", "items":[{"id":57, "amount":100}]},
+		"S_PIRATE_TUNNEL": {"id":"S_PIRATE_TUNNEL", "name":"Pirate Tunnel", "x":41528, "y":198358, "z":-4648, "heading":0, "randomOffset":0, "instance":"", "items":[{"id":57, "amount":100}]},
+		"S_ANTHARAS_HEART": {"id":"S_ANTHARAS_HEART", "name":"Antharas' Heart", "x":154623, "y":121134, "z":-3809, "heading":0, "randomOffset":0, "instance":"", "items":[{"id":57, "amount":100}]},
+
+		"S_ELVEN_FOREST": {"id":"S_ELVEN_FOREST", "name":"Elven Forest", "x":21362, "y":51122, "z":-3688, "heading":0, "randomOffset":0, "instance":"", "items":[{"id":57, "amount":100}]},
+		"S_SHADOW_OF_THE_MOTHER_TREE": {"id":"S_SHADOW_OF_THE_MOTHER_TREE", "name":"Shadow of the Mother Tree", "x":50953, "y":42105, "z":-3480, "heading":0, "randomOffset":0, "instance":"", "items":[{"id":57, "amount":100}]},
+		"S_THE_DARK_FOREST": {"id":"S_THE_DARK_FOREST", "name":"The Dark Forest", "x":-22224, "y":14168, "z":-3232, "heading":0, "randomOffset":0, "instance":"", "items":[{"id":57, "amount":100}]},
+		"S_SWAMPLAND": {"id":"S_SWAMPLAND", "name":"Swampland", "x":-21966, "y":40544, "z":-3192, "heading":0, "randomOffset":0, "instance":"", "items":[{"id":57, "amount":100}]},
+		"S_SEA_OF_SPORES": {"id":"S_SEA_OF_SPORES", "name":"Sea of Spores", "x":64328, "y":26803, "z":-3768, "heading":0, "randomOffset":0, "instance":"", "items":[{"id":57, "amount":100}]},
+		"S_PLAINS_OF_THE_LIZARDMEN": {"id":"S_PLAINS_OF_THE_LIZARDMEN", "name":"Palins of the Lizardmen", "x":87252, "y":85514, "z":-3103, "heading":0, "randomOffset":0, "instance":"", "items":[{"id":57, "amount":100}]},
+		"S_SEL_MAHUM_TRAINING_GROUNDS": {"id":"S_SEL_MAHUM_TRAINING_GROUNDS", "name":"Sel Mahum Training Grounds", "x":84517, "y":62538, "z":-3480, "heading":0, "randomOffset":0, "instance":"", "items":[{"id":57, "amount":100}]},
+		"S_SHILENS_GARDEN": {"id":"S_SHILENS_GARDEN", "name":"Shilens Garden", "x":23863, "y":11068, "z":-3720, "heading":0, "randomOffset":0, "instance":"", "items":[{"id":57, "amount":100}]},
+		"S_BLACK_ROCK_HILL": {"id":"S_BLACK_ROCK_HILL", "name":"Black Rock Hill", "x":-29466, "y":66678, "z":-3496, "heading":0, "randomOffset":0, "instance":"", "items":[{"id":57, "amount":100}]},
+		"S_SPIDER_NEST": {"id":"S_SPIDER_NEST", "name":"Spider Nest", "x":-61095, "y":75104, "z":-3383, "heading":0, "randomOffset":0, "instance":"", "items":[{"id":57, "amount":100}]},
+		"S_TIMAK_OUTPOST": {"id":"S_TIMAK_OUTPOST", "name":"Timak Outpost", "x":67097, "y":68815, "z":-3648, "heading":0, "randomOffset":0, "instance":"", "items":[{"id":57, "amount":100}]},
+		"S_IVORY_TOWER_CRATER": {"id":"S_IVORY_TOWER_CRATER", "name":"Ivory Tower Crater", "x":85391, "y":16228, "z":-3640, "heading":0, "randomOffset":0, "instance":"", "items":[{"id":57, "amount":100}]},
+		"S_FOREST_OF_EVIL": {"id":"S_FOREST_OF_EVIL", "name":"Forest of Evil", "x":93218, "y":16969, "z":-3904, "heading":0, "randomOffset":0, "instance":"", "items":[{"id":57, "amount":100}]},
+		"S_OUTLAW_FOREST": {"id":"S_OUTLAW_FOREST", "name":"Outlaw Forest", "x":91539, "y":-12204, "z":-2440, "heading":0, "randomOffset":0, "instance":"", "items":[{"id":57, "amount":100}]},
+		"S_ELVEN_FORTRESS": {"id":"S_ELVEN_FORTRESS", "name":"Elven Fortress", "x":29294, "y":74968, "z":-3776, "heading":0, "randomOffset":0, "instance":"", "items":[{"id":57, "amount":100}]},
+		"S_SCHOOL_OF_DARK_ARTS": {"id":"S_SCHOOL_OF_DARK_ARTS", "name":"School of Dark Arts", "x":-47543, "y":58478, "z":-3336, "heading":0, "randomOffset":0, "instance":"", "items":[{"id":57, "amount":100}]},
+		"S_IVORY_TOWER": {"id":"S_IVORY_TOWER", "name":"Ivory Tower", "x":85391, "y":16228, "z":-3640, "heading":0, "randomOffset":0, "instance":"", "items":[{"id":57, "amount":100}]},
+		"S_IRIS_LAKE": {"id":"S_IRIS_LAKE", "name":"Iris Lake", "x":51469, "y":82600, "z":-3312, "heading":0, "randomOffset":0, "instance":"", "items":[{"id":57, "amount":100}]},
+		"S_ALTAR_OF_RITES": {"id":"S_ALTAR_OF_RITES", "name":"Altar of Rites", "x":-44566, "y":77508, "z":-3736, "heading":0, "randomOffset":0, "instance":"", "items":[{"id":57, "amount":100}]},
+		"S_MISTY_MOUNTAINS": {"id":"S_MISTY_MOUNTAINS", "name":"Misty Mountains", "x":61740, "y":94946, "z":-1488, "heading":0, "randomOffset":0, "instance":"", "items":[{"id":57, "amount":100}]},
+		"S_STARLIGHT_WATERFALL": {"id":"S_STARLIGHT_WATERFALL", "name":"Starlight Waterfall", "x":58502, "y":53453, "z":-3624, "heading":0, "randomOffset":0, "instance":"", "items":[{"id":57, "amount":100}]},
+		"S_UNDINE_WATERFALL": {"id":"S_UNDINE_WATERFALL", "name":"Undine Waterfall", "x":-7233, "y":57006, "z":-3520, "heading":0, "randomOffset":0, "instance":"", "items":[{"id":57, "amount":100}]},
+		"S_THE_GODS_FALLS": {"id":"S_THE_GODS_FALLS", "name":"The Gods Falls", "x":70456, "y":6591, "z":-3632, "heading":0, "randomOffset":0, "instance":"", "items":[{"id":57, "amount":100}]},
+
+		"S_FIELD_OF_SILENCE": {"id":"S_FIELD_OF_SILENCE", "name":"Field of Silence", "x":91088, "y":182384, "z":-3192, "heading":0, "randomOffset":0, "instance":"", "items":[{"id":57, "amount":100}]},
+		"S_FIELD_OF_WHISPERS": {"id":"S_FIELD_OF_WHISPERS", "name":"Field of Whispers", "x":74592, "y":207656, "z":-3032, "heading":0, "randomOffset":0, "instance":"", "items":[{"id":57, "amount":100}]},
+		"S_ALLIGATOR_ISLAND": {"id":"S_ALLIGATOR_ISLAND", "name":"Alligator Island", "x":115583, "y":192261, "z":-3488, "heading":0, "randomOffset":0, "instance":"", "items":[{"id":57, "amount":100}]},
+		"S_ALLIGATOR_BEACH": {"id":"S_ALLIGATOR_BEACH", "name":"Alligator Beach", "x":116267, "y":201177, "z":-3432, "heading":0, "randomOffset":0, "instance":"", "items":[{"id":57, "amount":100}]},
+		"S_ISLE_OF_PRAYER": {"id":"S_ISLE_OF_PRAYER", "name":"Isle of Prayer", "x":145159, "y":189247, "z":-3756, "heading":0, "randomOffset":0, "instance":"", "items":[{"id":57, "amount":100}]},
+		"S_PARNASSUS": {"id":"S_PARNASSUS", "name":"Parnassus", "x":149363, "y":172341, "z":-946, "heading":0, "randomOffset":0, "instance":"", "items":[{"id":57, "amount":100}]},
+		"S_CHROMATIC_HIGHLANDS": {"id":"S_CHROMATIC_HIGHLANDS", "name":"Chromatic Highlands", "x":148444, "y":160914, "z":-3102, "heading":0, "randomOffset":0, "instance":"", "items":[{"id":57, "amount":100}]},
+		"S_GARDEN_OF_EVA": {"id":"S_GARDEN_OF_EVA", "name":"Garden of Eva", "x":84413, "y":234334, "z":-3656, "heading":0, "randomOffset":0, "instance":"", "items":[{"id":57, "amount":100}]},
+		"S_GARDEN_OF_EVA_1ST_FLOOR": {"id":"S_GARDEN_OF_EVA_1ST_FLOOR", "name":"Garden of Eva 1st Floor", "x":80688, "y":245566, "z":-8926, "heading":0, "randomOffset":0, "instance":"", "items":[{"id":57, "amount":100}]},
+		"S_GARDEN_OF_EVA_2ND_FLOOR": {"id":"S_GARDEN_OF_EVA_2ND_FLOOR", "name":"Garden of Eva 2nd Floor", "x":80629, "y":246420, "z":-9331, "heading":0, "randomOffset":0, "instance":"", "items":[{"id":57, "amount":100}]},
+		"S_GARDEN_OF_EVA_3RD_FLOOR": {"id":"S_GARDEN_OF_EVA_3RD_FLOOR", "name":"Garden of Eva 3rd Floor", "x":87750, "y":252422, "z":-9851, "heading":0, "randomOffset":0, "instance":"", "items":[{"id":57, "amount":100}]},
+		"S_GARDEN_OF_EVA_4TH_FLOOR": {"id":"S_GARDEN_OF_EVA_4TH_FLOOR", "name":"Garden of Eva 4th Floor", "x":82506, "y":255978, "z":-10363, "heading":0, "randomOffset":0, "instance":"", "items":[{"id":57, "amount":100}]},
+		"S_GARDEN_OF_EVA_5TH_FLOOR": {"id":"S_GARDEN_OF_EVA_5TH_FLOOR", "name":"Garden of Eva 5th Floor", "x":82158, "y":252376, "z":-10592, "heading":0, "randomOffset":0, "instance":"", "items":[{"id":57, "amount":100}]},
+		"S_TOUR_BOAT_DOCK": {"id":"S_TOUR_BOAT_DOCK", "name":"Tour Boat Dock", "x":111418, "y":225960, "z":-3624, "heading":0, "randomOffset":0, "instance":"", "items":[{"id":57, "amount":100}]},
+		"S_CORAL_REEF": {"id":"S_CORAL_REEF", "name":"Coral Reef", "x":160074, "y":167893, "z":-3538, "heading":0, "randomOffset":0, "instance":"", "items":[{"id":57, "amount":100}]},
+
+		"S_BEAST_FARM": {"id":"S_BEAST_FARM", "name":"Beast Farm", "x":43805, "y":-88010, "z":-2780, "heading":0, "randomOffset":0, "instance":"", "items":[{"id":57, "amount":100}]},
+		"S_VALLEY_OF_SAINTS": {"id":"S_VALLEY_OF_SAINTS", "name":"Valley of Saints", "x":65797, "y":-71510, "z":-3744, "heading":0, "randomOffset":0, "instance":"", "items":[{"id":57, "amount":100}]},
+		"S_FOREST_OF_THE_DEAD": {"id":"S_FOREST_OF_THE_DEAD", "name":"Forest of the Dead", "x":52107, "y":-54328, "z":-3158, "heading":0, "randomOffset":0, "instance":"", "items":[{"id":57, "amount":100}]},
+		"S_SWAMP_OF_SCREAMS": {"id":"S_SWAMP_OF_SCREAMS", "name":"Swamp of Screams", "x":69340, "y":-50203, "z":-3314, "heading":0, "randomOffset":0, "instance":"", "items":[{"id":57, "amount":100}]},
+		"S_MONASTERY_OF_SILENCE": {"id":"S_MONASTERY_OF_SILENCE", "name":"Monastery of Silence", "x":106414, "y":-87799, "z":-2949, "heading":0, "randomOffset":0, "instance":"", "items":[{"id":57, "amount":100}]},
+		"S_THE_PAGAN_TEMPLE": {"id":"S_THE_PAGAN_TEMPLE", "name":"The Pagan Temple", "x":35630, "y":-49748, "z":-760, "heading":0, "randomOffset":0, "instance":"", "items":[{"id":57, "amount":100}]},
+		"S_STAKATO_NEST": {"id":"S_STAKATO_NEST", "name":"Stakato Nest", "x":88969, "y":-45307, "z":-2112, "heading":0, "randomOffset":0, "instance":"", "items":[{"id":57, "amount":100}]},
+		"S_CURSED_VILLAGE": {"id":"S_CURSED_VILLAGE", "name":"Cursed Village", "x":57670, "y":-41672, "z":-3154, "heading":0, "randomOffset":0, "instance":"", "items":[{"id":57, "amount":100}]},
+		"S_RUNE_HARBOR": {"id":"S_RUNE_HARBOR", "name":"Rune Harbor", "x":36839, "y":-38435, "z":-3640, "heading":0, "randomOffset":0, "instance":"", "items":[{"id":57, "amount":100}]},
+		"S_PRIMEVAL_ISLE_WHARF": {"id":"S_PRIMEVAL_ISLE_WHARF", "name":"Primeval Isle Wharf", "x":10448, "y":-24960, "z":-3664, "heading":0, "randomOffset":0, "instance":"", "items":[{"id":57, "amount":100}]},
+		"S_WINDTAIL_WATERFALL": {"id":"S_WINDTAIL_WATERFALL", "name":"Windtail Waterfall", "x":40723, "y":-94881, "z":-2096, "heading":0, "randomOffset":0, "instance":"", "items":[{"id":57, "amount":100}]},
+
+		"S_AARU_FORT": {"id":"S_AARU_FORT", "name":"Aaru", "x":72889, "y":188048, "z":-2580, "heading":0, "randomOffset":0, "instance":"", "items":[{"id":57, "amount":100}]},
+		"S_ANTHARAS_FORT": {"id":"S_ANTHARAS_FORT", "name":"Antharas'", "x":77910, "y":89232, "z":-2883, "heading":0, "randomOffset":0, "instance":"", "items":[{"id":57, "amount":100}]},
+		"S_ARCHAIC_FORT": {"id":"S_ARCHAIC_FORT", "name":"Archaic ", "x":111798, "y":-141743, "z":-2927, "heading":0, "randomOffset":0, "instance":"", "items":[{"id":57, "amount":100}]},
+		"S_BAYOU_FORT": {"id":"S_BAYOU_FORT", "name":"Bayou", "x":189897, "y":36705, "z":-3407, "heading":0, "randomOffset":0, "instance":"", "items":[{"id":57, "amount":100}]},
+		"S_BORDERLAND_FORT": {"id":"S_BORDERLAND_FORT", "name":"Borderland", "x":157008, "y":-68935, "z":-2861, "heading":0, "randomOffset":0, "instance":"", "items":[{"id":57, "amount":100}]},
+		"S_CLOUD_MOUNTAIN_FORT": {"id":"S_CLOUD_MOUNTAIN_FORT", "name":"Cloud Mountain", "x":-54316, "y":89187, "z":-2819, "heading":0, "randomOffset":0, "instance":"", "items":[{"id":57, "amount":100}]},
+		"S_DEMON_FORT": {"id":"S_DEMON_FORT", "name":"Demon", "x":98822, "y":-56465, "z":-649, "heading":0, "randomOffset":0, "instance":"", "items":[{"id":57, "amount":100}]},
+		"S_DRAGONSPINE_FORT": {"id":"S_DRAGONSPINE_FORT", "name":"Dragonspine", "x":10527, "y":96849, "z":-3424, "heading":0, "randomOffset":0, "instance":"", "items":[{"id":57, "amount":100}]},
+		"S_FLORAN_FORT": {"id":"S_FLORAN_FORT", "name":"Floran", "x":7690, "y":150721, "z":-2887, "heading":0, "randomOffset":0, "instance":"", "items":[{"id":57, "amount":100}]},
+		"S_HIVE_FORT": {"id":"S_HIVE_FORT", "name":"Hive", "x":15447, "y":186169, "z":-2921, "heading":0, "randomOffset":0, "instance":"", "items":[{"id":57, "amount":100}]},
+		"S_HUNTERS_FORT": {"id":"S_HUNTERS_FORT", "name":"Hunter's", "x":124188, "y":93295, "z":-2142, "heading":0, "randomOffset":0, "instance":"", "items":[{"id":57, "amount":100}]},
+		"S_IVORY_FORT": {"id":"S_IVORY_FORT", "name":"Ivory", "x":71419, "y":6187, "z":-3036, "heading":0, "randomOffset":0, "instance":"", "items":[{"id":57, "amount":100}]},
+		"S_MONASTIC_FORT": {"id":"S_MONASTIC_FORT", "name":"Monastic", "x":71894, "y":-92615, "z":-1420, "heading":0, "randomOffset":0, "instance":"", "items":[{"id":57, "amount":100}]},
+		"S_NARSELL_FORT": {"id":"S_NARSELL_FORT", "name":"Narsell", "x":156707, "y":53966, "z":-3251, "heading":0, "randomOffset":0, "instance":"", "items":[{"id":57, "amount":100}]},
+		"S_SHANTY_FORT": {"id":"S_SHANTY_FORT", "name":"Shanty", "x":-55004, "y":157132, "z":-2050, "heading":0, "randomOffset":0, "instance":"", "items":[{"id":57, "amount":100}]},
+		"S_SOUTHERN_FORT": {"id":"S_SOUTHERN_FORT", "name":"Southern", "x":-25348, "y":219856, "z":-3249, "heading":0, "randomOffset":0, "instance":"", "items":[{"id":57, "amount":100}]},
+		"S_SWAMP_FORT": {"id":"S_SWAMP_FORT", "name":"Swamp", "x":68731, "y":-63848, "z":-2783, "heading":0, "randomOffset":0, "instance":"", "items":[{"id":57, "amount":100}]},
+		"S_TANOR_FORT": {"id":"S_TANOR_FORT", "name":"Tanor", "x":58948, "y":137927, "z":-1752, "heading":0, "randomOffset":0, "instance":"", "items":[{"id":57, "amount":100}]},
+		"S_VALLEY_FORT": {"id":"S_VALLEY_FORT", "name":"Valley", "x":126064, "y":120508, "z":-2583, "heading":0, "randomOffset":0, "instance":"", "items":[{"id":57, "amount":100}]},
+		"S_WESTERN_FORT": {"id":"S_WESTERN_FORT", "name":"Western", "x":112350, "y":-17183, "z":-992, "heading":0, "randomOffset":0, "instance":"", "items":[{"id":57, "amount":100}]},
+		"S_WHITE_SANDS_FORT": {"id":"S_WHITE_SANDS_FORT", "name":"White Sands", "x":116400, "y":203804, "z":-3331, "heading":0, "randomOffset":0, "instance":"", "items":[{"id":57, "amount":100}]},
+
+		"S_SEED_OF_DESTRUCTION": {"id":"S_SEED_OF_DESTRUCTION", "name":"Seed of Destruction", "x":-248140, "y":250678, "z":4331, "heading":0, "randomOffset":0, "instance":"", "items":[{"id":57, "amount":100}]},
+		"S_SEED_OF_INFINITY": {"id":"S_SEED_OF_INFINITY", "name":"Seed of Infinity", "x":-212843, "y":209695, "z":4280, "heading":0, "randomOffset":0, "instance":"", "items":[{"id":57, "amount":100}]},
+		"S_SEED_OF_ANNIHILATION": {"id":"S_SEED_OF_ANNIHILATION", "name":"Seed of Annihilation", "x":-178480, "y":153561, "z":2471, "heading":0, "randomOffset":0, "instance":"", "items":[{"id":57, "amount":100}]},
+		"S_DARKCLOUD_MANSION": {"id":"S_DARKCLOUD_MANSION", "name":"Darkcloud Mansion", "x":140007, "y":150467, "z":-3112, "heading":0, "randomOffset":0, "instance":"", "items":[{"id":57, "amount":100}]},
+
+		"S_FANTASY_ISLAND": {"id":"S_FANTASY_ISLAND", "name":"Fantasy Island", "x":-59103, "y":-56895, "z":-2038, "heading":0, "randomOffset":0, "instance":"", "items":[{"id":57, "amount":100}]}
+	},
+
+    "groupTeleports": {
+	},
+
+	"soloTeleportCategories": {
+		"STC_TOWN_AREAS": {
+			"id":"STC_TOWN_AREAS",
+			"name":"Town Areas",
+			"soloTeleports": [
+				"S_GIRAN", "S_GODDARD", "S_DION", "S_GLUDIO", "S_SCHUTTGART", "S_HUNTERS", "S_ADEN", "S_RUNE", "S_OREN",
+				"S_GLUDIN", "S_HEINE", "S_FLORAN", "S_HUMAN", "S_ORC", "S_ELVEN", "S_DWARVEN", "S_DARK_ELVEN",
+				"S_KAMAEL"
+			]
+		},
+		"STC_CASTLE_AREAS": {
+			"id":"STC_CASTLE_AREAS",
+			"name":"Castle Areas",
+			"soloTeleports": [
+				"S_ADEN_CASTLE", "S_GODDARD_CASTLE", "S_DION_CASTLE", "S_RUNE_CASTLE", "S_INNADRIL_CASTLE",
+				"S_GIRAN_CASTLE", "S_OREN_CASTLE", "S_GLUDIO_CASTLE", "S_SCHUTTGART_CASTLE"
+			]
+		},
+		"STC_NECROPOLIS": {
+			"id":"STC_NECROPOLIS",
+			"name":"Necropolis",
+			"soloTeleports": [
+				"S_SAINTS", "S_DISCIPLES", "S_MARTYRDOM", "S_DEVOTION", "S_PATRIOTS", "S_WORSHIP", "S_PILGRIMS",
+				"S_SACRAFICE"
+			]
+		},
+		"STC_CATACOMBS": {
+			"id":"STC_CATACOMBS",
+			"name":"Catacombs",
+			"soloTeleports": ["S_DARK_OMENS", "S_FORBIDDEN_PATH", "S_WITCH", "S_APOSTATE", "S_BRANDED", "S_HERETIC"]
+		},
+		"STC_CONQUERABLE_CLAN_HALLS": {
+			"id":"STC_CONQUERABLE_CLAN_HALLS",
+			"name":"Conquerable Clan Halls",
+			"soloTeleports": [
+				"S_FORTRESS_OF_RESISTANCE", "S_BANDIT_STRONGHOLD", "S_DEVASTATED_CASTLE", "S_WILD_BEAST_RESERVE",
+				"S_RAINDBOW_SPRINGS_CHATEAU", "S_FORTRESS_OF_THE_DEAD"
+			]
+		},
+		"STC_WORLD_AREAS_DION": {
+			"id":"STC_WORLD_AREAS_DION",
+			"name":"Dion Territory",
+			"soloTeleports": [
+				"S_EXECUTION_GROUNDS", "S_PARTISANS_HIDEAWAY", "S_CRUMA_MARSHLANDS", "S_TANOR_CANYON", "S_BEE_HIVE",
+				"S_DION_HILLS", "S_FLORAN_AGRICULTURAL_AREA", "S_PLAINS_OF_DION", "S_CRUMA_TOWER", "S_CRUMA_TOWER_1ST",
+				"S_CRUMA_TOWER_2ND", "S_CRUMA_TOWER_3RD"
+			]
+		},
+		"STC_WORLD_AREAS_GLUDIO": {
+			"id":"STC_WORLD_AREAS_GLUDIO",
+			"name":"Gludio  Territory",
+			"soloTeleports": [
+				"S_RUINS_OF_DESPAIR", "S_RUINS_OF_AGONY", "S_WASTELAND", "S_ABANDONED_CAMP", "S_ORC_BARRACKS",
+				"S_WINDY_HILL", "S_RED_ROCK_RIDGE", "S_LANGK_LIZARDMEN_DWELLINGS", "S_MAILLE_LIZARDMEN_BARRACKS",
+				"S_TALKING_ISLAND_NORTHERN_TERRITORY", "S_TALKING_ISLAND_EASTERN_TERRITORY",
+				"S_FELLMERE_HARVESTING_GROUNDS", "S_WINDMILL_HILL", "S_EVIL_HUNTING_GROUNDS", "S_WINDAWOOD_MANOR",
+				"S_OL_MAHUM_CHECKPOINT", "S_THE_NEUTRAL_ZONE", "S_THE_ANT_NEST", "S_FORGOTTEN_TEMPLE", "S_ELVEN_RUINS",
+				"S_ANT_INCUBATOR", "S_GLUDIN_HARBOR", "S_TALKING_ISLAND_HARBOR", "S_GLUDIN_ARENA", "S_FELLMERE_LAKE",
+				"S_OBELISK_OF_VICTORY", "S_SINGING_WATERFALL", "S_HELLBOUND_ENTRANCE", "S_GLUDIO_AIRSHIP_FIELD"
+			]
+		},
+		"STC_WORLD_AREAS_ADEN": {
+			"id":"STC_WORLD_AREAS_ADEN",
+			"name":"Aden Territory",
+			"soloTeleports": [
+				"S_BLAZING_SWAMP", "S_THE_FORBIDDEN_GATEWAY", "S_THE_ENCHANTED_VALLEY", "S_THE_CEMETERY",
+				"S_THE_FOREST_OF_MIRRORS", "S_ANCIENT_BATTLEGROUND", "S_FORSAKEN_PLAINS", "S_SILENT_VALLEY",
+				"S_HUNTERS_VALLEY", "S_PLAINS_OF_GLORY", "S_FIELDS_OF_MASSACRE", "S_WAR-TORN_PLAINS", "S_ISLE_OF_SOULS",
+				"S_MIMIRS_FOREST", "S_HILLS_OF_GOLD", "S_TOWER_OF_INSOLENCE", "S_THE_GIANTS_CAVE",
+				"S_NORNILS_GARDEN", "S_NORNILS_CAVE", "S_COLISEUM", "S_ANGHEL_WATERFALL", "S_EASTERN_BORDER_OUTPOST",
+				"S_NARSELL_LAKE", "S_WESTERN_BORDER_OUTPOST", "S_CAVE_OF_SOULS"
+			]
+		},
+		"STC_WORLD_AREAS_SCHUTTGART": {
+			"id":"STC_WORLD_AREAS_SCHUTTGART",
+			"name":"Schuttgart Territory",
+			"soloTeleports": [
+				"S_VALLEY_OF_HEROES", "S_IMMORTAL_PLATEAU_NORTHERN_REGION", "S_IMMORTAL_PLATEAU_SOUTHERN_REGION",
+				"S_FROZEN_VALLEY", "S_WESTERN_MINING_ZONE", "S_EASTERN_MINING_ZONE", "S_PLUNDEROUS_PLAINS",
+				"S_FROZEN_LABYRINTH", "S_FREYAS_GARDEN", "S_PAVEL_RUINS", "S_DEN_OF_EVIL", "S_CRYPTS_OF_DISGRACE",
+				"S_SKY_WAGON_RELIC", "S_CAVE_OF_TRIALS", "S_ABANDONED_COAL_MINES", "S_MITHRIL_MINES",
+				"S_ARCHAIC_LABORATORY", "S_FROZEN_WATERFALLS", "S_STRIP_MINE", "S_SPINE_MOUNTAINS",
+				"S_MINING_ZONE_PASSAGE", "S_CARONS_DUNGEON", "S_VALLEY_OF_THE_LORDS", "S_FROST_LAKE",
+				"S_ICE_MERCHANT_CABIN", "S_BRIGAND_STRONGHOLD", "S_GRAVEROBBER_HIDEOUT"
+			]
+		},
+		"STC_WORLD_AREAS_GODDARD": {
+			"id":"STC_WORLD_AREAS_GODDARD",
+			"name":"Goddard Territory",
+			"soloTeleports": [
+				"S_GARDEN_OF_BEASTS", "S_HOT_SPRINGS", "S_KETRA_ORC_OUTPOST", "S_WALL_OF_ARGOS", "S_SHRINE_OF_LOYALTY",
+				"S_VARKA_SILENOS_BARRACKS", "S_DEVILS_PASS", "S_FORGE_OF_THE_GODS", "S_HALL_OF_FLAMES",
+				"S_IMPERIAL_TOMB", "S_FOUR_SEPULCHERS", "S_KETRA_ORC_VILLAGE", "S_VARKA_SILENOS_VILLAGE",
+				"S_HOT_SPRINGS_ARENA"
+			]
+		},
+		"STC_WORLD_AREAS_GIRAN": {
+			"id":"STC_WORLD_AREAS_GIRAN",
+			"name":"Giran Territory",
+			"soloTeleports": [
+				"S_DRAGON_VALLEY", "S_DEATH_PASS", "S_BREKAS_STRONGHOLD", "S_GORGON_FLOWER_GARDEN", "S_ANTHARAS_LAIR",
+				"S_DEVILS_ISLE", "S_HARDINS_ACADEMY", "S_GIRAN_HARBOR", "S_GIRAN_ARENA", "S_PIRATE_TUNNEL",
+				"S_ANTHARAS_HEART"
+			]
+		},
+		"STC_WORLD_AREAS_OREN": {
+			"id":"STC_WORLD_AREAS_OREN",
+			"name":"Oren Territory",
+			"soloTeleports": [
+				"S_ELVEN_FOREST", "S_SHADOW_OF_THE_MOTHER_TREE", "S_THE_DARK_FOREST", "S_SWAMPLAND", "S_SEA_OF_SPORES",
+				"S_PLAINS_OF_THE_LIZARDMEN", "S_SEL_MAHUM_TRAINING_GROUNDS", "S_SHILENS_GARDEN", "S_BLACK_ROCK_HILL",
+				"S_SPIDER_NEST", "S_TIMAK_OUTPOST", "S_IVORY_TOWER_CRATER", "S_FOREST_OF_EVIL", "S_OUTLAW_FOREST",
+				"S_ELVEN_FORTRESS", "S_SCHOOL_OF_DARK_ARTS", "S_IVORY_TOWER", "S_IRIS_LAKE", "S_ALTAR_OF_RITES",
+				"S_MISTY_MOUNTAINS", "S_STARLIGHT_WATERFALL", "S_UNDINE_WATERFALL", "S_THE_GODS_FALLS"
+			]
+		},
+		"STC_WORLD_AREAS_INNADRIL": {
+			"id":"STC_WORLD_AREAS_INNADRIL",
+			"name":"Innadril Territory",
+			"soloTeleports": [
+				"S_FIELD_OF_SILENCE", "S_FIELD_OF_WHISPERS", "S_ALLIGATOR_ISLAND", "S_ALLIGATOR_BEACH", "S_ISLE_OF_PRAYER",
+				"S_PARNASSUS", "S_CHROMATIC_HIGHLANDS", "S_GARDEN_OF_EVA", "S_GARDEN_OF_EVA_1ST_FLOOR",
+				"S_GARDEN_OF_EVA_2ND_FLOOR", "S_GARDEN_OF_EVA_3RD_FLOOR", "S_GARDEN_OF_EVA_4TH_FLOOR",
+				"S_GARDEN_OF_EVA_5TH_FLOOR", "S_TOUR_BOAT_DOCK", "S_CORAL_REEF"
+			]
+		},
+		"STC_WORLD_AREAS_RUNE": {
+			"id":"STC_WORLD_AREAS_RUNE",
+			"name":"Rune Territory",
+			"soloTeleports": [
+				"S_BEAST_FARM", "S_VALLEY_OF_SAINTS", "S_FOREST_OF_THE_DEAD", "S_SWAMP_OF_SCREAMS", "S_MONASTERY_OF_SILENCE",
+				"S_THE_PAGAN_TEMPLE", "S_STAKATO_NEST", "S_CURSED_VILLAGE", "S_RUNE_HARBOR", "S_PRIMEVAL_ISLE_WHARF",
+				"S_WINDTAIL_WATERFALL"
+			]
+		},		
+		"STC_FORTRESS": {
+			"id":"STC_FORTRESS",
+			"name":"Fortress",
+			"soloTeleports": [
+				"S_AARU_FORT", "S_ANTHARAS_FORT", "S_ARCHAIC_FORT", "S_BAYOU_FORT", "S_BORDERLAND_FORT", "S_CLOUD_MOUNTAIN_FORT",
+				"S_DEMON_FORT", "S_DRAGONSPINE_FORT", "S_FLORAN_FORT", "S_HIVE_FORT", "S_HUNTERS_FORT", "S_IVORY_FORT",
+				"S_MONASTIC_FORT", "S_NARSELL_FORT", "S_SHANTY_FORT", "S_SOUTHERN_FORT", "S_SWAMP_FORT", "S_TANOR_FORT",
+				"S_VALLEY_FORT", "S_WESTERN_FORT", "S_WHITE_SANDS_FORT"
+			]
+		},
+		"STC_INSTANCES": {
+			"id":"STC_INSTANCES",
+			"name":"Instances",
+			"soloTeleports": [
+				"S_SEED_OF_DESTRUCTION", "S_SEED_OF_INFINITY", "S_SEED_OF_ANNIHILATION", "S_DARKCLOUD_MANSION"
+			]
+		},
+		"STC_OTHER_LOCATIONS": {
+			"id":"STC_OTHER_LOCATIONS",
+			"name":"Other Locations",
+			"soloTeleports": ["S_FANTASY_ISLAND"]
+		}
+	},
+
+	"groupTeleportCategories": {
+	}
+}

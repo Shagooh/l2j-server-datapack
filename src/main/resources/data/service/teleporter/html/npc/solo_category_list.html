@@ -1,0 +1,6 @@
+<html><title>%teleporter.name%</title><body>
+<a action="%teleporter.bypass_prefix%">Home</a>&nbsp;> <font color=LEVEL>Solo Teleports</font><br>
+[FOREACH(teleport IN teleporter.solo_teleports DO <a action="%teleporter.bypass_prefix% t s %teleport.ident%" msg="811;%teleport.name%">%teleport.name% ([FOREACH(item IN teleport.items DO %item.amount% %item.name%)ENDEACH])</a><br1>)ENDEACH]
+<br1><center>
+[FOREACH(category IN teleporter.solo_categories DO <button width=200 height=34 fore=L2UI_CT1.Button_DF back=L2UI_CT1.Button_DF_Down value="%category.name%" action="%teleporter.bypass_prefix% h sl %category.ident%"><br1>)ENDEACH]
+</center></body></html>

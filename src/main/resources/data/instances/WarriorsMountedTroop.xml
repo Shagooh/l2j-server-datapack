@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<instance name="Seed of Destruction (Warrior's Mounted Troop)" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/instance.xsd">
+	<activityTime val="20" />
+	<allowSummon val="false" />
+	<emptyDestroyTime val="10" />
+	<exitPoint x="-248567" y="250117" z="4336" />
+    <reenter additionStyle="ON_INSTANCE_FINISH">
+		<reset day="Monday" hour="6" minute="30" />
+		<reset day="Tuesday" hour="6" minute="30" />
+		<reset day="Wednesday" hour="6" minute="30" />
+		<reset day="Thursday" hour="6" minute="30" />
+		<reset day="Friday" hour="6" minute="30" />
+		<reset day="Saturday" hour="6" minute="30" />
+		<reset day="Sunday" hour="6" minute="30" />
+	</reenter>
+	<removeBuffs type="ALL" />
+	<doorlist>
+		<door doorId="12240001" />
+		<door doorId="12240002" />
+	</doorlist>
+</instance>

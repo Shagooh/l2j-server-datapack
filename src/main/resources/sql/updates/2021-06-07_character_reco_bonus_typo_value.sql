@@ -1,0 +1,1 @@
+ALTER TABLE `character_reco_bonus` CHANGE COLUMN `time_left` `time_left` INT NOT NULL DEFAULT 0;

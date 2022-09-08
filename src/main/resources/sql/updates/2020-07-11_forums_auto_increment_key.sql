@@ -1,0 +1,1 @@
+ALTER TABLE `forums` CHANGE COLUMN `forum_id` `forum_id` INT(8) NOT NULL AUTO_INCREMENT FIRST;

@@ -1,0 +1,106 @@
+############
+# COMMANDS #
+############
+On a html, the command starts with a bypass prefix. Here, as an example i use
+the bypass prefix for a voiced teleporter with the default command
+.teleporterservice.
+
+Usage: bypass voice .teleporterservice [COMMAND]
+Commands:
+  html, h
+    any, a [html]                           Opens [html]
+    main, m                                 Opens main.html
+    solo_category_list, scl                 Opens solo_category_list.html
+    party_category_list, pcl                Opens p_category_list.html
+    command_channel_category_list, cccl     Opens cc_category_list.html
+    solo_list, sl [categoryId]              Open solo_teleport_list.html
+                                            [categoryId] is optional in which
+                                            case the html should display direct
+                                            teleports of the teleporter added
+                                            without a category
+    party_list, pl [categoryId]             Open p_teleport_list.html
+                                            [categoryId] is optional in which
+                                            case the html should display direct
+                                            teleports of the teleporter added
+                                            without a category
+    command_channel_list, ccl [categoryId]  Open cc_teleport_list.html
+                                            [categoryId] is optional in which
+                                            case the html should display direct
+                                            teleports of the teleporter added
+                                            without a category
+    solo_teleport, st [teleId] [catId]      Open solo_teleport.html
+                                            [catId] is optional in which
+                                            case the html should display a
+                                            teleport of the teleporter added
+                                            without a category
+    party_teleport, pt [teleId] [catId]     Open p_teleport.html
+                                            [catId] is optional in which
+                                            case the html should display a
+                                            teleport of the teleporter added
+                                            without a category
+    command_channel_teleport, cct [teleId] [catId]
+                                            Open cc_teleport.html
+                                            [catId] is optional in which
+                                            case the html should display a
+                                            teleport of the teleporter added
+                                            without a category
+  teleport, t [teleportType] [teleId] [catId]
+                                            Teleports to a location.
+                                            [teleportType] can either be solo or
+                                            s, party or p or command_channel or
+                                            cc. [catId] id optional and is not
+                                            required for a teleport which is
+                                            directly added to the teleporter    
+Examples:
+    Show a solo category of the voiced teleporter:
+        bypass voice .teleporterservice sl STC_TOWN_AREAS
+    Use a solo teleport:
+        bypass voice .teleporterservice t s S_GIRAN STC_TOWN_AREAS
+
+
+########
+# HTML #
+########
+Html files are the dialogs which are displayed in the game.
+
+The htmls of this teleporter currently support a template engine which enables
+you to output several placeholders. To output a placeholder value, you have to
+put %placeholder.name% on the html page. If the placeholder does not exist,
+nothing is put in it's place. All available placeholders are: 
+|---------------------------------------|---------------------|---------------------------------------------|
+| Placeholder                           | Type                | Description                                 |
+|---------------------------------------|---------------------|---------------------------------------------|
+| teleporter.name                       | string              | The teleporters name                        |
+| teleporter.bypass_prefix              | string              | The teleporters bypass prefix               |
+| teleporter.solo_teleports             | list(SoloTeleport)  | Directly assigned solo teleports            |
+| teleporter.party_teleports            | list(GroupTeleport) | Directly assigned party teleports           |
+| teleporter.command_channel_teleports  | list(GroupTeleport) | Directly assigned cc teleports              |
+| teleporter.solo_categories            | list(SoloCategory)  | Solo categories assigned to the teleporter  |
+| teleporter.party_categories           | list(GroupCategory) | Party categories assigned to the teleporter |
+| teleporter.command_channel_categories | list(GroupCategory) | Cc categories assigned to the teleporter    |
+|---------------------------------------|---------------------|---------------------------------------------|
+
+Following is a list of html files and their additional available placeholders:
+|-----------------|----------------|------------------------------------------------|
+| Placeholder     | Type           | Description                                    |
+|-----------------|----------------|------------------------------------------------|
+| # solo_teleport_list.html                                                         |
+| category        | SoloCategory   | Only when categorized tp's should be displayed |
+|-----------------|----------------|------------------------------------------------|
+| # p_teleport_list.html & cc_teleport_list.html                                    |
+| category        | GroupCategory  | Only when categorized tp's should be displayed |
+|-----------------|----------------|------------------------------------------------|
+| # solo_teleport.html                                                              |
+| teleport        | SoloTeleport   | The solo teleport to display                   |
+|-----------------|----------------|------------------------------------------------|
+| # p_teleport.html & cc_teleport.html                                              |
+| teleport        | GroupTeleport  | The group teleport to display                  |
+|-----------------|----------------|------------------------------------------------|
+
+When building bypasses on a html page, you have to put a bypass prefix before
+you write one of the commands above. On the htmls opened with the "html" command
+described above, you can do this with the placeholder
+%teleporter.bypass_prefix%. This is required because npc buffers and the voiced
+buffer have different bypass prefixes. Example:
+<a action="%teleporter.bypass_prefix% h m">Open main.html</a>
+<a action="%buffer.bypass_prefix% t s S_GIRAN STC_TOWN_AREAS">Use teleport S_GIRAN from category STC_TOWN_AREAS</a>

@@ -1,0 +1,32 @@
+image: openjdk:17-alpine
+
+pipelines:
+   branches:
+      develop:
+         - step:
+            caches:
+             - maven
+            script:
+             - apk update
+             - apk add git
+             - git clone --depth=1 https://bitbucket.org/l2jserver/l2j-server-game.git
+             - cd l2j-server-game
+             - /bin/sh mvnw install -DskipTests
+             - cd ..
+         - step:
+            caches:
+             - maven
+            script:
+             - /bin/sh mvnw install
+            artifacts:
+             - target/*.zip
+         - step:
+            deployment: Production
+            script:
+             - pipe: atlassian/ftp-deploy:0.3.6
+               variables:
+                 USER: $FTP_USER
+                 PASSWORD: $FTP_PASSWORD
+                 SERVER: $FTP_HOST
+                 REMOTE_PATH: $FTP_REMOTE_PATH
+                 LOCAL_PATH: 'target/'

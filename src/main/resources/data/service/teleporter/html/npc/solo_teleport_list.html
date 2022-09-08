@@ -1,0 +1,7 @@
+<html><title>%teleporter.name%</title><body>
+<a action="%teleporter.bypass_prefix%">Home</a>&nbsp;>&nbsp;<a action="%teleporter.bypass_prefix% h scl">Solo Teleports</a>[EXISTS(category,&nbsp;> <font color=LEVEL>%category.name%</font>)ENDEXISTS]<br>
+[EXISTS(!category,
+	[FOREACH(teleport IN teleporter.solo_teleports DO<a action="%teleporter.bypass_prefix% t s %teleport.ident%" msg="811;%teleport.name%">%teleport.name% ([FOREACH(item IN teleport.items DO %item.amount% %item.name%)ENDEACH])</a><br1>)ENDEACH]
+)ENDEXISTS]
+[FOREACH(teleport IN category.teleports DO <a action="%teleporter.bypass_prefix% t s %teleport.ident% %category.ident%" msg="811;%teleport.name%">%teleport.name% ([FOREACH(item IN teleport.items DO %item.amount% %item.name%)ENDEACH])</a><br1>)ENDEACH]
+</body></html>

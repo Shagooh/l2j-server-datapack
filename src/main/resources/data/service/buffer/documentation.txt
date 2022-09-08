@@ -1,0 +1,111 @@
+############
+# COMMANDS #
+############
+On a html, the command starts with a bypass prefix. Here, as an example i use
+the bypass prefix for a voiced buffer with the default command .bufferservice.
+
+Usage: bypass voice .bufferservice [COMMAND]
+Commands:
+  html, h
+    any, a [html]                          Opens [html]
+    main, m                                Opens main.html
+    category, c [categoryId]               Opens category.html
+    preset, p [presetId]                   Opens preset.html
+    buff, b [categoryId] [buffId]          Opens buff.html
+    unique, u [uniqueName]                 Opens unique.html
+  target, t [deselect, des]                Deselect the active target
+  target, t [target]                       [target] can either be player or
+                                           summon
+    buff, b [categoryId] [buffId]          Apply a buff to the target
+    unique, u [uniqueName]                 Apply a unique bufflist to the
+                                           target
+    preset, p [presetId]                   Apply a preset bufflist to the
+                                           target
+    heal, h                                Heal the target
+    cancel, c                              Cancel bufs of the target
+    select, s                              Select target as active
+  category, c
+    select, s [categoryId]                 Select a buff category as active.
+                                           The selected buff category can be
+                                           referenced to on any html by
+                                           %active_category%
+    deselect, des [categoryId]             Deselect the active buff category
+  unique, u
+    create, c [name]                       Creates a unique bufflist
+    create_from_effects, cfe [name]        Creates a unique bufflist based on
+                                           buffs
+    delete, del [name]                     Delete a unique bufflist
+    add, a [name] [categoryId] [buffId]    Add a buff to the unique bufflist
+    remove, r [name] [categoryId] [buffId] Remove a buff from unique bufflist
+    select, s [name]                       Select a unique bufflist as active.
+                                           The selected unique bufflist can be
+                                           referenced to on any html by
+                                           %active_unique%
+    deselect, des                          Deselects the active unique bufflist
+Examples:
+    Create a unique bufflist
+        bypass voice .bufferservice u c MyList
+    Add a buff to a bufflist:
+        bypass voice .bufferservice u a MyList BC_DWARFEN DWARFEN_0
+    Show category.html:
+        bypass voice .bufferservice h c BC_DWARFEN
+    Select unique bufflist as active:
+        bypass voice .bufferservice u s MyList
+Notes:
+    While the html commands open a specific html dialog, the other commands
+    (internally called action commands) open the last used html command the
+    player used.
+    
+
+########
+# HTML #
+########
+Html files are the dialogs which are displayed in the game.
+
+The htmls of this buffer currently support a template engine which enables you
+to output several placeholders. To output a placeholder value, you have to put
+%placeholder.name% on the html page. If the placeholder does not exist, nothing
+is put in it's place. All available placeholders are: 
+|-------------------------------|----------------------|-------------------------------------|
+| Placeholder                   | Type                 | Description                         |
+|-------------------------------|----------------------|-------------------------------------|
+| buffer.name                   | string               | The buffers name                    |
+| buffer.bypass_prefix          | string               | The buffers bypass prefix           |
+| buffer.can_heal               | boolean              | Whatever the buffer can heal        |
+| buffer.can_cancel             | boolean              | Whatever the buffer can cancel buffs|
+| buffer.presets                | list(BuffCategory)   | List of preset buff categories      |
+| buffer.categories             | list(BuffCategory)   | List of buff categories             |
+| buffer.max_unique_lists       | number               | Max number unique lists per player  |
+| player.name                   | string               | The players name                    |
+| player.unique_max_buffs       | number               | The players unique max buffs        |
+| player.unique_max_song_dances | number               | The players unique max songs/dances |
+| active_unique                 | list(UniqueBufflist) | Only defined if one is selected     |
+| active_category               | list(BuffCategory)   | Only defined if one is selected     |
+| active_target                 | string               | Only defined if one is selected     |
+|-------------------------------|----------------------|-------------------------------------|
+
+Following is a list of html files and their additional available placeholders:
+|-----------------|----------------|------------------------------------------|
+| Placeholder     | Type           | Description                              |
+|-----------------|----------------|------------------------------------------|
+| # category.html                                                             |
+| category        | BuffCategory   | The buff category to be displayed        |
+|-----------------|----------------|------------------------------------------|
+| # buff.html                                                                 |
+| category        | BuffCategory   | The buff category of the buff            |
+| buff            | BuffSkill      | The buff skill to be displayed           |
+|-----------------|----------------|------------------------------------------|
+| # preset.html                                                               |
+| preset          | BuffCategory   | The preset buff category to be displayed |
+|-----------------|----------------|------------------------------------------|
+| # unique.html                                                               |
+| unique          | UniqueBufflist | The unique bufflist to be displayed      |
+|-----------------|----------------|------------------------------------------|
+
+When building bypasses on a html page, you have to put a bypass prefix before
+you write one of the commands above. On the htmls opened with the "html" command
+described above, you can do this with the placeholder %buffer.bypass_prefix%.
+This is required because npc buffers and the voiced buffer have different bypass
+prefixes. Example:
+<a action="%buffer.bypass_prefix% h m">Open main.html</a>
+<a action="%buffer.bypass_prefix% u c NewUniqueBufflist">Create an empty unique bufflist named NewUniqueBufflist</a>

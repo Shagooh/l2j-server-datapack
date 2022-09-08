@@ -1,0 +1,67 @@
+<html><title>%buffer.name% - Buffer</title><body><center>
+
+<table width=270 cellspacing=0 cellpadding=0>
+	<tr>
+		<td><center><button width=130 height=23 fore=L2UI_CT1.Button_DF back=L2UI_CT1.Button_DF_Down value="Heal Me" action="%buffer.bypass_prefix% t p h"></center></td>
+		<td><center><button width=130 height=23 fore=L2UI_CT1.Button_DF back=L2UI_CT1.Button_DF_Down value="Heal Summon" action="%buffer.bypass_prefix% t s h"></center></td>
+	</tr>
+</table>
+
+<table width=270 cellspacing=0 cellpadding=0>
+	<tr>
+		<td><center><button width=130 height=23 fore=L2UI_CT1.Button_DF back=L2UI_CT1.Button_DF_Down value="Cancel Me" action="%buffer.bypass_prefix% t p c"></center></td>
+		<td><center><button width=130 height=23 fore=L2UI_CT1.Button_DF back=L2UI_CT1.Button_DF_Down value="Cancel Summon" action="%buffer.bypass_prefix% t s c"></center></td>
+	</tr>
+</table><br>
+
+<font name=hs12 line=UNDERLINE color=LEVEL>Presets</font><br1>
+<table width=270 cellspacing=0 cellpadding=0>
+	<tr>
+		<td><center><button width=130 height=23 fore=L2UI_CT1.Button_DF back=L2UI_CT1.Button_DF_Down value="Fighter" action="%buffer.bypass_prefix% t p p BC_FIGHTER"></center></td>
+		<td><center><button width=130 height=23 fore=L2UI_CT1.Button_DF back=L2UI_CT1.Button_DF_Down value="Mage" action="%buffer.bypass_prefix% t p p BC_MAGE"></center></td>
+	</tr>
+</table><br>
+
+<font name=hs12 line=UNDERLINE color=LEVEL>Categories</font><br1>
+<table width=270 cellspacing=0 cellpadding=0>
+	<tr>
+		<td><center><button width=130 height=23 fore=L2UI_CT1.Button_DF back=L2UI_CT1.Button_DF_Down value="Buffs" action="%buffer.bypass_prefix% h c BC_BUFFS"></center></td>
+		<td><center><button width=130 height=23 fore=L2UI_CT1.Button_DF back=L2UI_CT1.Button_DF_Down value="Songs" action="%buffer.bypass_prefix% h c BC_SONGS"></center></td>
+	</tr>
+	<tr>
+		<td><center><button width=130 height=23 fore=L2UI_CT1.Button_DF back=L2UI_CT1.Button_DF_Down value="Dances" action="%buffer.bypass_prefix% h c BC_DANCES"></center></td>
+		<td><center><button width=130 height=23 fore=L2UI_CT1.Button_DF back=L2UI_CT1.Button_DF_Down value="Chants" action="%buffer.bypass_prefix% h c BC_CHANTS"></center></td>
+	</tr>
+	<tr>
+		<td><center><button width=130 height=23 fore=L2UI_CT1.Button_DF back=L2UI_CT1.Button_DF_Down value="Dwarven" action="%buffer.bypass_prefix% h c BC_DWARVEN"></center></td>
+		<td><center><button width=130 height=23 fore=L2UI_CT1.Button_DF back=L2UI_CT1.Button_DF_Down value="Resist" action="%buffer.bypass_prefix% h c BC_RESIST"></center></td>
+	</tr>
+	<tr>
+		<td><center><button width=130 height=23 fore=L2UI_CT1.Button_DF back=L2UI_CT1.Button_DF_Down value="Special" action="%buffer.bypass_prefix% h c BC_SPECIAL"></center></td>
+		<td><center><button width=130 height=23 fore=L2UI_CT1.Button_DF back=L2UI_CT1.Button_DF_Down value="Overlord" action="%buffer.bypass_prefix% h c BC_OVERLORD"></center></td>
+	</tr>
+</table><br>
+
+<font name=hs12 line=UNDERLINE color=LEVEL>Unique</font><br1>
+<table width=270 cellspacing=0 cellpadding=0>
+	<tr>
+		<td><center><combobox width=85 var="unique_selection" list="[FOREACH(unique IN uniques DO %unique.name%;)ENDEACH]"></center></td>
+		<td><center><button width=85 height=23 fore=L2UI_CT1.Button_DF back=L2UI_CT1.Button_DF_Down value="Buff Me" action="%buffer.bypass_prefix% t p u $unique_selection"></center></td>
+		<td><center><button width=85 height=23 fore=L2UI_CT1.Button_DF back=L2UI_CT1.Button_DF_Down value="Buff Summon" action="%buffer.bypass_prefix% t s u $unique_selection"></center></td>
+	</tr>
+	<tr>
+		<td></td>
+		<td><center><button width=85 height=23 fore=L2UI_CT1.Button_DF back=L2UI_CT1.Button_DF_Down value="Inspect" action="%buffer.bypass_prefix% h u $unique_selection"></center></td>
+		<td><center><button width=85 height=23 fore=L2UI_CT1.Button_DF back=L2UI_CT1.Button_DF_Down value="Delete" action="%buffer.bypass_prefix% u del $unique_selection"></center></td>
+	</tr>
+	<tr>
+		<td height=15></td><td></td><td></td>
+	</tr>
+	<tr>
+		<td><center><edit width=85 var="unique_new"></center></td>
+		<td><center><button width=85 height=23 fore=L2UI_CT1.Button_DF back=L2UI_CT1.Button_DF_Down value="Create Empty" action="%buffer.bypass_prefix% u c $unique_new"></center></td>
+		<td><center><button width=85 height=23 fore=L2UI_CT1.Button_DF back=L2UI_CT1.Button_DF_Down value="From Buffs" action="%buffer.bypass_prefix% u cfe $unique_new"></center></td>
+	</tr>
+</table>
+
+</center></body></html>
