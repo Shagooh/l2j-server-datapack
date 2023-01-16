@@ -1,0 +1,137 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/multisell.xsd">
+	
+<!-- Vorpal Armors -->
+	
+	<!-- Vorpal Breastplate -->
+	<item>
+	<ingredient id="57" count="1047000000"/>
+	<production id="15592" count="1"/>
+	<production id="15595" count="1"/>
+	<production id="15601" count="1"/>
+	<production id="15598" count="1"/>
+	<production id="15589" count="1"/>
+	</item>
+	
+	<!-- Vorpal Leather Breastplate -->
+	<item>
+	<ingredient id="57" count="876862500"/>
+	<production id="15593" count="1"/>
+	<production id="15596" count="1"/>
+	<production id="15602" count="1"/>
+	<production id="15599" count="1"/>
+	<production id="15590" count="1"/>
+	</item>
+	
+	<!-- Vorpal Tunic -->
+	<item>
+	<ingredient id="57" count="876862500"/>
+	<production id="15594" count="1"/>
+	<production id="15597" count="1"/>
+	<production id="15603" count="1"/>
+	<production id="15600" count="1"/>
+	<production id="15591" count="1"/>
+	</item>
+	
+	<!-- Vorpal Breastplate -->
+	<item>
+	<ingredient id="57" count="427800000"/>
+	<production id="15592" count="1"/>
+	</item>
+	
+	<!-- Vorpal Gaiter -->
+	<item>
+	<ingredient id="57" count="270750000"/>
+	<production id="15595" count="1"/>
+	</item>
+	
+	<!-- Vorpal Boots -->
+	<item>
+	<ingredient id="57" count="113700000"/>
+	<production id="15601" count="1"/>
+	</item>
+	
+	<!-- Vorpal Gauntlet -->
+	<item>
+	<ingredient id="57" count="113700000"/>
+	<production id="15598" count="1"/>
+	</item>
+	
+	<!-- Vorpal Helmet -->
+	<item>
+	<ingredient id="57" count="166050000"/>
+	<production id="15589" count="1"/>
+	</item>
+	
+	<!-- Vorpal Leather Breastplate -->
+	<item>
+	<ingredient id="57" count="323100000"/>
+	<production id="15593" count="1"/>
+	</item>
+	
+	<!-- Vorpal Leather Legging -->
+	<item>
+	<ingredient id="57" count="205312500"/>
+	<production id="15596" count="1"/>
+	</item>
+	
+	<!-- Vorpal Leather Boots -->
+	<item>
+	<ingredient id="57" count="113700000"/>
+	<production id="15602" count="1"/>
+	</item>
+	
+	<!-- Vorpal Leather Gloves -->
+	<item>
+	<ingredient id="57" count="113700000"/>
+	<production id="15599" count="1"/>
+	</item>
+	
+	<!-- Vorpal Leather Helmet -->
+	<item>
+	<ingredient id="57" count="166050000"/>
+	<production id="15590" count="1"/>
+	</item>
+	
+	<!-- Vorpal Tunic -->
+	<item>
+	<ingredient id="57" count="323100000"/>
+	<production id="15594" count="1"/>
+	</item>
+	
+	<!-- Vorpal Stockings -->
+	<item>
+	<ingredient id="57" count="205312500"/>
+	<production id="15597" count="1"/>
+	</item>
+	
+	<!-- Vorpal Shoes -->
+	<item>
+	<ingredient id="57" count="113700000"/>
+	<production id="15603" count="1"/>
+	</item>
+	
+	<!-- Vorpal Gloves -->
+	<item>
+	<ingredient id="57" count="113700000"/>
+	<production id="15600" count="1"/>
+	</item>
+	
+	<!-- Vorpal Circlet -->
+	<item>
+	<ingredient id="57" count="166050000"/>
+	<production id="15591" count="1"/>
+	</item>
+	
+	<!-- Vorpal Shield -->
+	<item>
+	<ingredient id="57" count="109935000"/>
+	<production id="15604" count="1"/>
+	</item>
+	
+	<!-- Vorpal Sigil -->
+	<item>
+	<ingredient id="57" count="109935000"/>
+	<production id="15605" count="1"/>
+	</item>
+</list>

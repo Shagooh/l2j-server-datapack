@@ -1,0 +1,473 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/multisell.xsd">
+	
+<!-- D-Grade Weapons -->
+	
+	<!-- Sword of Revolution -->
+	<item>
+	<ingredient id="57" count="1181400"/>
+	<production id="129" count="1"/>
+	</item>
+	
+	<!-- Epee -->
+	<item>
+	<ingredient id="57" count="1181400"/>
+	<production id="9222" count="1"/>
+	</item>
+	
+	<!-- Maingauche -->
+	<item>
+	<ingredient id="57" count="1181400"/>
+	<production id="224" count="1"/>
+	</item>
+	
+	<!-- Tarbar -->
+	<item>
+	<ingredient id="57" count="1181400"/>
+	<production id="158" count="1"/>
+	</item>
+	
+	<!-- Bich'Hwa -->
+	<item>
+	<ingredient id="57" count="1181400"/>
+	<production id="261" count="1"/>
+	</item>
+	
+	<!-- Winged Spear -->
+	<item>
+	<ingredient id="57" count="1181400"/>
+	<production id="93" count="1"/>
+	</item>
+	
+	<!-- Titan Sword -->
+	<item>
+	<ingredient id="57" count="1181400"/>
+	<production id="7881" count="1"/>
+	</item>
+	
+	<!-- Katzbalger -->
+	<item>
+	<ingredient id="57" count="1181400"/>
+	<production id="9223" count="1"/>
+	</item>
+	
+	<!-- Reinforced Long Bow -->
+	<item>
+	<ingredient id="57" count="1181400"/>
+	<production id="279" count="1"/>
+	</item>
+	
+	<!-- Arm Breaker -->
+	<item>
+	<ingredient id="57" count="1181400"/>
+	<production id="9224" count="1"/>
+	</item>
+	
+	<!-- Sword of Magic Fog -->
+	<item>
+	<ingredient id="57" count="1181400"/>
+	<production id="7886" count="1"/>
+	</item>
+	
+	<!-- Goat Head Staff -->
+	<item>
+	<ingredient id="57" count="1181400"/>
+	<production id="90" count="1"/>
+	</item>
+	
+	<!-- Knight's Sword*Crimson Sword -->
+	<item>
+	<ingredient id="57" count="1275700"/>
+	<production id="2547" count="1"/>
+	</item>
+	
+	<!-- Elven Sword -->
+	<item>
+	<ingredient id="57" count="817850"/>
+	<production id="130" count="1"/>
+	</item>
+	
+	<!-- Estoc -->
+	<item>
+	<ingredient id="57" count="817850"/>
+	<production id="9219" count="1"/>
+	</item>
+	
+	<!-- Kukuri -->
+	<item>
+	<ingredient id="57" count="817850"/>
+	<production id="223" count="1"/>
+	</item>
+	
+	<!-- Spiked Club -->
+	<item>
+	<ingredient id="57" count="817850"/>
+	<production id="157" count="1"/>
+	</item>
+	
+	<!-- Triple-Edged Jamadhr -->
+	<item>
+	<ingredient id="57" count="817850"/>
+	<production id="260" count="1"/>
+	</item>
+	
+	<!-- Dwarven Pike -->
+	<item>
+	<ingredient id="57" count="817850"/>
+	<production id="296" count="1"/>
+	</item>
+	
+	<!-- Two-Handed Sword -->
+	<item>
+	<ingredient id="57" count="817850"/>
+	<production id="124" count="1"/>
+	</item>
+	
+	<!-- Field Sword -->
+	<item>
+	<ingredient id="57" count="817850"/>
+	<production id="9220" count="1"/>
+	</item>
+	
+	<!-- Gastraphetes -->
+	<item>
+	<ingredient id="57" count="817850"/>
+	<production id="278" count="1"/>
+	</item>
+	
+	<!-- Crossbow -->
+	<item>
+	<ingredient id="57" count="817850"/>
+	<production id="9221" count="1"/>
+	</item>
+	
+	<!-- Sage's Blood -->
+	<item>
+	<ingredient id="57" count="817850"/>
+	<production id="316" count="1"/>
+	</item>
+	
+	<!-- Staff of Magic -->
+	<item>
+	<ingredient id="57" count="817850"/>
+	<production id="186" count="1"/>
+	</item>
+	
+	<!-- Bastard Sword*Bastard Sword -->
+	<item>
+	<ingredient id="57" count="1074000"/>
+	<production id="2525" count="1"/>
+	</item>
+	
+	<!-- Saber -->
+	<item>
+	<ingredient id="57" count="346500"/>
+	<production id="123" count="1"/>
+	</item>
+	
+	<!-- Rapier -->
+	<item>
+	<ingredient id="57" count="346500"/>
+	<production id="9209" count="1"/>
+	</item>
+	
+	<!-- Crafted Dagger -->
+	<item>
+	<ingredient id="57" count="346500"/>
+	<production id="220" count="1"/>
+	</item>
+	
+	<!-- Work Hammer -->
+	<item>
+	<ingredient id="57" count="346500"/>
+	<production id="168" count="1"/>
+	</item>
+	
+	<!-- Bagh-Nakh -->
+	<item>
+	<ingredient id="57" count="346500"/>
+	<production id="258" count="1"/>
+	</item>
+	
+	<!-- Trident -->
+	<item>
+	<ingredient id="57" count="346500"/>
+	<production id="291" count="1"/>
+	</item>
+	
+	<!-- Steel Sword -->
+	<item>
+	<ingredient id="57" count="346500"/>
+	<production id="7880" count="1"/>
+	</item>
+	
+	<!-- Talwar -->
+	<item>
+	<ingredient id="57" count="346500"/>
+	<production id="9211" count="1"/>
+	</item>
+	
+	<!-- Reinforced Bow -->
+	<item>
+	<ingredient id="57" count="346500"/>
+	<production id="274" count="1"/>
+	</item>
+	
+	<!-- Field Gun -->
+	<item>
+	<ingredient id="57" count="346500"/>
+	<production id="9212" count="1"/>
+	</item>
+	
+	<!-- Branch of Life -->
+	<item>
+	<ingredient id="57" count="346500"/>
+	<production id="312" count="1"/>
+	</item>
+	
+	<!-- Bone Staff -->
+	<item>
+	<ingredient id="57" count="346500"/>
+	<production id="178" count="1"/>
+	</item>
+	
+	<!-- Saber*Saber -->
+	<item>
+	<ingredient id="57" count="674400"/>
+	<production id="2516" count="1"/>
+	</item>
+	
+	<!-- Common Item - Sword of Revolution -->
+	<item>
+	<ingredient id="57" count="57255"/>
+	<production id="11714" count="1"/>
+	</item>
+	
+	<!-- Common Item - Epee -->
+	<item>
+	<ingredient id="57" count="57255"/>
+	<production id="11702" count="1"/>
+	</item>
+	
+	<!-- Common Item - Maingauche -->
+	<item>
+	<ingredient id="57" count="57255"/>
+	<production id="11685" count="1"/>
+	</item>
+	
+	<!-- Common Item - Tarbar -->
+	<item>
+	<ingredient id="57" count="57255"/>
+	<production id="11708" count="1"/>
+	</item>
+	
+	<!-- Common Item - Bich'Hwa -->
+	<item>
+	<ingredient id="57" count="57255"/>
+	<production id="11691" count="1"/>
+	</item>
+	
+	<!-- Common Item - Winged Spear -->
+	<item>
+	<ingredient id="57" count="57255"/>
+	<production id="11703" count="1"/>
+	</item>
+	
+	<!-- Common Item - Titan Sword -->
+	<item>
+	<ingredient id="57" count="57255"/>
+	<production id="11710" count="1"/>
+	</item>
+	
+	<!-- Common Item - Katzbalger -->
+	<item>
+	<ingredient id="57" count="57255"/>
+	<production id="11707" count="1"/>
+	</item>
+	
+	<!-- Common Item - Reinforced Long Bow -->
+	<item>
+	<ingredient id="57" count="57255"/>
+	<production id="11683" count="1"/>
+	</item>
+	
+	<!-- Common Item - Arm Breaker -->
+	<item>
+	<ingredient id="57" count="57255"/>
+	<production id="11701" count="1"/>
+	</item>
+	
+	<!-- Common Item - Sword of Magic Fog -->
+	<item>
+	<ingredient id="57" count="57255"/>
+	<production id="11696" count="1"/>
+	</item>
+	
+	<!-- Common Item - Goat Head Staff -->
+	<item>
+	<ingredient id="57" count="57255"/>
+	<production id="11693" count="1"/>
+	</item>
+	
+	<!-- Common Item - Knight's Sword*Crimson Sword -->
+	<item>
+	<ingredient id="57" count="60780"/>
+	<production id="11717" count="1"/>
+	</item>
+	
+	<!-- Common Item - Elven Sword -->
+	<item>
+	<ingredient id="57" count="41140"/>
+	<production id="11670" count="1"/>
+	</item>
+	
+	<!-- Common Item - Estoc -->
+	<item>
+	<ingredient id="57" count="41140"/>
+	<production id="11669" count="1"/>
+	</item>
+	
+	<!-- Common Item - Kukuri -->
+	<item>
+	<ingredient id="57" count="41140"/>
+	<production id="11673" count="1"/>
+	</item>
+	
+	<!-- Common Item - Spiked Club -->
+	<item>
+	<ingredient id="57" count="41140"/>
+	<production id="11666" count="1"/>
+	</item>
+	
+	<!-- Common Item - Triple-Edged Jamadhr -->
+	<item>
+	<ingredient id="57" count="41140"/>
+	<production id="11665" count="1"/>
+	</item>
+	
+	<!-- Common Item - Dwarven Pike -->
+	<item>
+	<ingredient id="57" count="41140"/>
+	<production id="11661" count="1"/>
+	</item>
+	
+	<!-- Common Item - Two-Handed Sword -->
+	<item>
+	<ingredient id="57" count="41140"/>
+	<production id="11667" count="1"/>
+	</item>
+	
+	<!-- Common Item - Field Sword -->
+	<item>
+	<ingredient id="57" count="41140"/>
+	<production id="11677" count="1"/>
+	</item>
+	
+	<!-- Common Item - Gastraphetes -->
+	<item>
+	<ingredient id="57" count="41140"/>
+	<production id="11659" count="1"/>
+	</item>
+	
+	<!-- Common Item - Crossbow -->
+	<item>
+	<ingredient id="57" count="41140"/>
+	<production id="11674" count="1"/>
+	</item>
+	
+	<!-- Common Item - Sage's Blood -->
+	<item>
+	<ingredient id="57" count="41140"/>
+	<production id="11678" count="1"/>
+	</item>
+	
+	<!-- Common Item - Staff of Magic -->
+	<item>
+	<ingredient id="57" count="41140"/>
+	<production id="11663" count="1"/>
+	</item>
+	
+	<!-- Common Item - Bastard Sword*Bastard Sword -->
+	<item>
+	<ingredient id="57" count="52050"/>
+	<production id="11688" count="1"/>
+	</item>
+	
+	<!-- Common Item - Saber -->
+	<item>
+	<ingredient id="57" count="19206"/>
+	<production id="11614" count="1"/>
+	</item>
+	
+	<!-- Common Item - Rapier -->
+	<item>
+	<ingredient id="57" count="19206"/>
+	<production id="11607" count="1"/>
+	</item>
+	
+	<!-- Common Item - Crafted Dagger -->
+	<item>
+	<ingredient id="57" count="19206"/>
+	<production id="11613" count="1"/>
+	</item>
+	
+	<!-- Common Item - Work Hammer -->
+	<item>
+	<ingredient id="57" count="19206"/>
+	<production id="11618" count="1"/>
+	</item>
+	
+	<!-- Common Item - Bagh-Nakh -->
+	<item>
+	<ingredient id="57" count="19206"/>
+	<production id="11608" count="1"/>
+	</item>
+	
+	<!-- Common Item - Trident -->
+	<item>
+	<ingredient id="57" count="19206"/>
+	<production id="11622" count="1"/>
+	</item>
+	
+	<!-- Common Item - Steel Sword -->
+	<item>
+	<ingredient id="57" count="19206"/>
+	<production id="11605" count="1"/>
+	</item>
+	
+	<!-- Common Item - Talwar -->
+	<item>
+	<ingredient id="57" count="19206"/>
+	<production id="11620" count="1"/>
+	</item>
+	
+	<!-- Common Item - Reinforced Bow -->
+	<item>
+	<ingredient id="57" count="19206"/>
+	<production id="11606" count="1"/>
+	</item>
+	
+	<!-- Common Item - Field Gun -->
+	<item>
+	<ingredient id="57" count="19206"/>
+	<production id="11624" count="1"/>
+	</item>
+	
+	<!-- Common Item - Branch of Life -->
+	<item>
+	<ingredient id="57" count="19206"/>
+	<production id="11612" count="1"/>
+	</item>
+	
+	<!-- Common Item - Bone Staff -->
+	<item>
+	<ingredient id="57" count="19206"/>
+	<production id="11610" count="1"/>
+	</item>
+	
+	<!-- Common Item - Saber*Saber -->
+	<item>
+	<ingredient id="57" count="34240"/>
+	<production id="11658" count="1"/>
+	</item>
+</list>

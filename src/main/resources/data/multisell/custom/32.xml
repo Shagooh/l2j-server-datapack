@@ -1,0 +1,59 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/multisell.xsd">
+	
+<!-- A-Grade Jewels -->
+	
+	<!-- Majestic Necklace -->
+	<item>
+	<ingredient id="57" count="1998000"/>
+	<production id="924" count="1"/>
+	</item>
+	
+	<!-- Majestic Earring -->
+	<item>
+	<ingredient id="57" count="1498000"/>
+	<production id="862" count="1"/>
+	</item>
+	
+	<!-- Majestic Ring -->
+	<item>
+	<ingredient id="57" count="999000"/>
+	<production id="893" count="1"/>
+	</item>
+	
+	<!-- Cerberus Necklace -->
+	<item>
+	<ingredient id="57" count="1340000"/>
+	<production id="934" count="1"/>
+	</item>
+	
+	<!-- Cerberus Earring -->
+	<item>
+	<ingredient id="57" count="1005000"/>
+	<production id="872" count="1"/>
+	</item>
+	
+	<!-- Cerberus Ring -->
+	<item>
+	<ingredient id="57" count="670000"/>
+	<production id="903" count="1"/>
+	</item>
+	
+	<!-- Phoenix Necklace -->
+	<item>
+	<ingredient id="57" count="1340000"/>
+	<production id="933" count="1"/>
+	</item>
+	
+	<!-- Phoenix Earring -->
+	<item>
+	<ingredient id="57" count="1005000"/>
+	<production id="871" count="1"/>
+	</item>
+	
+	<!-- Phoenix Ring -->
+	<item>
+	<ingredient id="57" count="670000"/>
+	<production id="902" count="1"/>
+	</item>
+</list>

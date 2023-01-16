@@ -1,0 +1,32 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/multisell.xsd">
+	
+<!-- Elegia Jewels -->
+	
+	<!-- Elegia Necklace -->
+	<item>
+	<ingredient id="15722" count="1"/>
+	<ingredient id="4355" count="2500"/>
+	<ingredient id="4356" count="3"/>
+	<ingredient id="57" count="76282500"/>
+	<production id="15719" count="1"/>
+	</item>
+	
+	<!-- Elegia Earring -->
+	<item>
+	<ingredient id="15721" count="1"/>
+	<ingredient id="4355" count="2500"/>
+	<ingredient id="4356" count="3"/>
+	<ingredient id="57" count="57211000"/>
+	<production id="15718" count="1"/>
+	</item>
+	
+	<!-- Elegia Ring -->
+	<item>
+	<ingredient id="15720" count="1"/>
+	<ingredient id="4355" count="2500"/>
+	<ingredient id="4356" count="3"/>
+	<ingredient id="57" count="38139500"/>
+	<production id="15717" count="1"/>
+	</item>
+</list>

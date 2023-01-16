@@ -1,0 +1,137 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/multisell.xsd">
+	
+<!-- Vesper Armors -->
+	
+	<!-- Vesper Breastplate -->
+	<item>
+	<ingredient id="57" count="700020000"/>
+	<production id="13432" count="1"/>
+	<production id="13438" count="1"/>
+	<production id="13440" count="1"/>
+	<production id="13439" count="1"/>
+	<production id="13137" count="1"/>
+	</item>
+	
+	<!-- Vesper Leather Breastplate -->
+	<item>
+	<ingredient id="57" count="586260000"/>
+	<production id="13433" count="1"/>
+	<production id="13441" count="1"/>
+	<production id="13443" count="1"/>
+	<production id="13442" count="1"/>
+	<production id="13138" count="1"/>
+	</item>
+	
+	<!-- Vesper Tunic -->
+	<item>
+	<ingredient id="57" count="586260000"/>
+	<production id="13434" count="1"/>
+	<production id="13444" count="1"/>
+	<production id="13446" count="1"/>
+	<production id="13445" count="1"/>
+	<production id="13139" count="1"/>
+	</item>
+	
+	<!-- Vesper Breastplate -->
+	<item>
+	<ingredient id="57" count="287008000"/>
+	<production id="13432" count="1"/>
+	</item>
+	
+	<!-- Vesper Gaiter -->
+	<item>
+	<ingredient id="57" count="182008000"/>
+	<production id="13438" count="1"/>
+	</item>
+	
+	<!-- Vesper Boots -->
+	<item>
+	<ingredient id="57" count="77002000"/>
+	<production id="13440" count="1"/>
+	</item>
+	
+	<!-- Vesper Gauntlet -->
+	<item>
+	<ingredient id="57" count="77002000"/>
+	<production id="13439" count="1"/>
+	</item>
+	
+	<!-- Vesper Helmet -->
+	<item>
+	<ingredient id="57" count="112000000"/>
+	<production id="13137" count="1"/>
+	</item>
+	
+	<!-- Vesper Leather Breastplate -->
+	<item>
+	<ingredient id="57" count="217000000"/>
+	<production id="13433" count="1"/>
+	</item>
+	
+	<!-- Vesper Leather Leggings -->
+	<item>
+	<ingredient id="57" count="138256000"/>
+	<production id="13441" count="1"/>
+	</item>
+	
+	<!-- Vesper Leather Boots -->
+	<item>
+	<ingredient id="57" count="77002000"/>
+	<production id="13443" count="1"/>
+	</item>
+	
+	<!-- Vesper Leather Gloves -->
+	<item>
+	<ingredient id="57" count="77002000"/>
+	<production id="13442" count="1"/>
+	</item>
+	
+	<!-- Vesper Leather Helmet -->
+	<item>
+	<ingredient id="57" count="112000000"/>
+	<production id="13138" count="1"/>
+	</item>
+	
+	<!-- Vesper Tunic -->
+	<item>
+	<ingredient id="57" count="217000000"/>
+	<production id="13434" count="1"/>
+	</item>
+	
+	<!-- Vesper Stockings -->
+	<item>
+	<ingredient id="57" count="138256000"/>
+	<production id="13444" count="1"/>
+	</item>
+	
+	<!-- Vesper Shoes -->
+	<item>
+	<ingredient id="57" count="77002000"/>
+	<production id="13446" count="1"/>
+	</item>
+	
+	<!-- Vesper Gloves -->
+	<item>
+	<ingredient id="57" count="77002000"/>
+	<production id="13445" count="1"/>
+	</item>
+	
+	<!-- Vesper Circlet -->
+	<item>
+	<ingredient id="57" count="112000000"/>
+	<production id="13139" count="1"/>
+	</item>
+	
+	<!-- Vesper Shield -->
+	<item>
+	<ingredient id="57" count="73500000"/>
+	<production id="13471" count="1"/>
+	</item>
+	
+	<!-- Vesper Sigil -->
+	<item>
+	<ingredient id="57" count="73500000"/>
+	<production id="12813" count="1"/>
+	</item>
+</list>

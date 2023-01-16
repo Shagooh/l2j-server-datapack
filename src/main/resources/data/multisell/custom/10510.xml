@@ -1,0 +1,23 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/multisell.xsd">
+	
+<!-- Vorpal Jewels -->
+	
+	<!-- Vorpal Necklace -->
+	<item>
+	<ingredient id="57" count="54531000"/>
+	<production id="15722" count="1"/>
+	</item>
+	
+	<!-- Vorpal Earring -->
+	<item>
+	<ingredient id="57" count="40899000"/>
+	<production id="15721" count="1"/>
+	</item>
+	
+	<!-- Vorpal Ring -->
+	<item>
+	<ingredient id="57" count="27264000"/>
+	<production id="15720" count="1"/>
+	</item>
+</list>

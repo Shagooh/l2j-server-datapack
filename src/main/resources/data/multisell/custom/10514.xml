@@ -1,0 +1,215 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/multisell.xsd">
+	
+<!-- Shirts -->
+	
+	<!-- Linen Shirt-->
+	<item>
+	<ingredient id="57" count="27500"/>
+	<production id="9578" count="1"/>
+	</item>
+	
+	<!-- Silk Shirt-->
+	<item>
+	<ingredient id="57" count="200000"/>
+	<production id="9579" count="1"/>
+	</item>
+	
+	<!-- Silk Shirt - HP -->
+	<item>
+	<ingredient id="57" count="240000"/>
+	<production id="10491" count="1"/>
+	</item>
+	
+	<!-- Silk Shirt - MP -->
+	<item>
+	<ingredient id="57" count="240000"/>
+	<production id="10492" count="1"/>
+	</item>
+	
+	<!-- Silk Shirt - CP -->
+	<item>
+	<ingredient id="57" count="240000"/>
+	<production id="10493" count="1"/>
+	</item>
+	
+	<!-- Thin Leather Shirt -->
+	<item>
+	<ingredient id="57" count="650000"/>
+	<production id="9580" count="1"/>
+	</item>
+	
+	<!-- Thin Leather Shirt - HP -->
+	<item>
+	<ingredient id="57" count="780000"/>
+	<production id="10494" count="1"/>
+	</item>
+	
+	<!-- Thin Leather Shirt - MP -->
+	<item>
+	<ingredient id="57" count="780000"/>
+	<production id="10495" count="1"/>
+	</item>
+	
+	<!-- Thin Leather Shirt - CP -->
+	<item>
+	<ingredient id="57" count="780000"/>
+	<production id="10496" count="1"/>
+	</item>
+	
+	<!-- Scale Shirt -->
+	<item>
+	<ingredient id="57" count="1470000"/>
+	<production id="9581" count="1"/>
+	</item>
+	
+	<!-- Scale Shirt - HP -->
+	<item>
+	<ingredient id="57" count="1764000"/>
+	<production id="10497" count="1"/>
+	</item>
+	
+	<!-- Scale Shirt - MP -->
+	<item>
+	<ingredient id="57" count="1764000"/>
+	<production id="10498" count="1"/>
+	</item>
+	
+	<!-- Scale Shirt - CP -->
+	<item>
+	<ingredient id="57" count="1764000"/>
+	<production id="10499" count="1"/>
+	</item>
+	
+	<!-- Mithril Shirt -->
+	<item>
+	<ingredient id="57" count="4500000"/>
+	<production id="9582" count="1"/>
+	</item>
+	
+	<!-- Mithril Shirt - HP -->
+	<item>
+	<ingredient id="57" count="5400000"/>
+	<production id="10500" count="1"/>
+	</item>
+	
+	<!-- Mithril Shirt - MP -->
+	<item>
+	<ingredient id="57" count="5400000"/>
+	<production id="10501" count="1"/>
+	</item>
+	
+	<!-- Mithril Shirt - CP -->
+	<item>
+	<ingredient id="57" count="5400000"/>
+	<production id="10502" count="1"/>
+	</item>
+	
+	<!-- Stripe Linen Shirt -->
+	<item>
+	<ingredient id="57" count="53900"/>
+	<production id="9584" count="1"/>
+	</item>
+	
+	<!-- Striped Silk Shirt -->
+	<item>
+	<ingredient id="57" count="450000"/>
+	<production id="9585" count="1"/>
+	</item>
+	
+	<!-- Striped Silk Shirt - MP -->
+	<item>
+	<ingredient id="57" count="540000"/>
+	<production id="10504" count="1"/>
+	</item>
+	
+	<!-- Striped Silk Shirt - HP -->
+	<item>
+	<ingredient id="57" count="540000"/>
+	<production id="10503" count="1"/>
+	</item>
+	
+	<!-- Striped Silk Shirt - CP -->
+	<item>
+	<ingredient id="57" count="540000"/>
+	<production id="10505" count="1"/>
+	</item>
+	
+	<!-- Thin Striped Leather Shirt -->
+	<item>
+	<ingredient id="57" count="1000000"/>
+	<production id="9586" count="1"/>
+	</item>
+	
+	<!-- Thin Striped Leather Shirt - HP -->
+	<item>
+	<ingredient id="57" count="1200000"/>
+	<production id="10506" count="1"/>
+	</item>
+	
+	<!-- Thin Striped Leather Shirt - MP -->
+	<item>
+	<ingredient id="57" count="1200000"/>
+	<production id="10507" count="1"/>
+	</item>
+	
+	<!-- Thin Striped Leather Shirt - CP -->
+	<item>
+	<ingredient id="57" count="1200000"/>
+	<production id="10508" count="1"/>
+	</item>
+	
+	<!-- Striped Scale Shirt -->
+	<item>
+	<ingredient id="57" count="2200000"/>
+	<production id="9587" count="1"/>
+	</item>
+	
+	<!-- Striped Scale Shirt - HP -->
+	<item>
+	<ingredient id="57" count="2640000"/>
+	<production id="10509" count="1"/>
+	</item>
+	
+	<!-- Striped Scale Shirt - MP -->
+	<item>
+	<ingredient id="57" count="2640000"/>
+	<production id="10510" count="1"/>
+	</item>
+	
+	<!-- Striped Scale Shirt - CP -->
+	<item>
+	<ingredient id="57" count="2640000"/>
+	<production id="10511" count="1"/>
+	</item>
+	
+	<!-- Striped Mithril Shirt -->
+	<item>
+	<ingredient id="57" count="6350000"/>
+	<production id="9588" count="1"/>
+	</item>
+	
+	<!-- Striped Mithril Shirt - HP -->
+	<item>
+	<ingredient id="57" count="7620000"/>
+	<production id="10512" count="1"/>
+	</item>
+	
+	<!-- Striped Mithril Shirt - MP -->
+	<item>
+	<ingredient id="57" count="7620000"/>
+	<production id="10513" count="1"/>
+	</item>
+	
+	<!-- Striped Mithril Shirt - CP -->
+	<item>
+	<ingredient id="57" count="7620000"/>
+	<production id="10514" count="1"/>
+	</item>
+	
+	<!-- Olf's T-shirt -->
+	<item>
+	<ingredient id="57" count="25000000"/>
+	<production id="21580" count="1"/>
+	</item>
+</list>

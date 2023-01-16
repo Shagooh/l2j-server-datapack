@@ -1,0 +1,299 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/multisell.xsd">
+	
+<!-- Potions -->
+	
+	<!-- Mana Potion -->
+	<item>
+	<ingredient id="57" count="50000"/>
+	<production id="728" count="1"/>
+	</item>
+	
+	<!-- Lesser Healing Potion -->
+	<item>
+	<ingredient id="57" count="99"/>
+	<production id="1060" count="1"/>
+	</item>
+	
+	<!-- Greater Healing Potion -->
+	<item>
+	<ingredient id="57" count="363"/>
+	<production id="1061" count="1"/>
+	</item>
+	
+	<!-- Greater Healing Potion (Top) -->
+	<item>
+	<ingredient id="57" count="1089"/>
+	<production id="1539" count="1"/>
+	</item>
+	
+	<!-- Haste Potion -->
+	<item>
+	<ingredient id="57" count="1320"/>
+	<production id="734" count="1"/>
+	</item>
+	
+	<!-- Greater Haste Potion -->
+	<item>
+	<ingredient id="57" count="3960"/>
+	<production id="1374" count="1"/>
+	</item>
+	
+	<!-- Magic Haste Potion -->
+	<item>
+	<ingredient id="57" count="2640"/>
+	<production id="6035" count="1"/>
+	</item>
+	
+	<!-- Greater Magic Haste Potion -->
+	<item>
+	<ingredient id="57" count="7920"/>
+	<production id="6036" count="1"/>
+	</item>
+	
+	<!-- Alacrity Potion -->
+	<item>
+	<ingredient id="57" count="2640"/>
+	<production id="735" count="1"/>
+	</item>
+	
+	<!-- Greater Swift Attack Potion -->
+	<item>
+	<ingredient id="57" count="7920"/>
+	<production id="1375" count="1"/>
+	</item>
+	
+	<!-- A Bottle of Souls -->
+	<item>
+	<ingredient id="57" count="550"/>
+	<production id="10409" count="1"/>
+	</item>
+	
+	<!-- Antidote -->
+	<item>
+	<ingredient id="57" count="82"/>
+	<production id="1831" count="1"/>
+	</item>
+	
+	<!-- Greater Antidote -->
+	<item>
+	<ingredient id="57" count="198"/>
+	<production id="1832" count="1"/>
+	</item>
+	
+	<!-- Bandage -->
+	<item>
+	<ingredient id="57" count="82"/>
+	<production id="1833" count="1"/>
+	</item>
+	
+	<!-- Emergency Dressing -->
+	<item>
+	<ingredient id="57" count="198"/>
+	<production id="1834" count="1"/>
+	</item>
+	
+	<!-- Bless of Eva -->
+	<item>
+	<ingredient id="57" count="550"/>
+	<production id="4679" count="1"/>
+	</item>
+	
+	<!-- Elixir of Life (No Grade) -->
+	<item>
+	<ingredient id="57" count="1430"/>
+	<production id="8622" count="1"/>
+	</item>
+	
+	<!-- Elixir of Life (D-Grade) -->
+	<item>
+	<ingredient id="57" count="3795"/>
+	<production id="8623" count="1"/>
+	</item>
+	
+	<!-- Elixir of Life (C-Grade) -->
+	<item>
+	<ingredient id="57" count="7920"/>
+	<production id="8624" count="1"/>
+	</item>
+	
+	<!-- Elixir of Life (B-Grade) -->
+	<item>
+	<ingredient id="57" count="13000"/>
+	<production id="8625" count="1"/>
+	</item>
+	
+	<!-- Elixir of Life (A-Grade) -->
+	<item>
+	<ingredient id="57" count="18500"/>
+	<production id="8626" count="1"/>
+	</item>
+	
+	<!-- Elixir of Life (S-Grade) -->
+	<item>
+	<ingredient id="57" count="24000"/>
+	<production id="8627" count="1"/>
+	</item>
+	
+	<!-- Elixir of CP (No Grade) -->
+	<item>
+	<ingredient id="57" count="660"/>
+	<production id="8634" count="1"/>
+	</item>
+	
+	<!-- Elixir of CP (D-Grade) -->
+	<item>
+	<ingredient id="57" count="1540"/>
+	<production id="8635" count="1"/>
+	</item>
+	
+	<!-- Elixir of CP (C-Grade) -->
+	<item>
+	<ingredient id="57" count="3300"/>
+	<production id="8636" count="1"/>
+	</item>
+	
+	<!-- Elixir of CP (B-Grade) -->
+	<item>
+	<ingredient id="57" count="5000"/>
+	<production id="8637" count="1"/>
+	</item>
+	
+	<!-- Elixir of CP (A-Grade) -->
+	<item>
+	<ingredient id="57" count="7000"/>
+	<production id="8638" count="1"/>
+	</item>
+	
+	<!-- Elixir of CP (S-Grade) -->
+	<item>
+	<ingredient id="57" count="9000"/>
+	<production id="8639" count="1"/>
+	</item>
+	
+	<!-- Elixir of Mental Strength (No Grade) -->
+	<item>
+	<ingredient id="57" count="1400"/>
+	<production id="8628" count="1"/>
+	</item>
+	
+	<!-- Elixir of Mental Strength (D-Grade) -->
+	<item>
+	<ingredient id="57" count="3740"/>
+	<production id="8629" count="1"/>
+	</item>
+	
+	<!-- Elixir of Mental Strength (C-Grade) -->
+	<item>
+	<ingredient id="57" count="8700"/>
+	<production id="8630" count="1"/>
+	</item>
+	
+	<!-- Elixir of Mental Strength (B-Grade) -->
+	<item>
+	<ingredient id="57" count="11600"/>
+	<production id="8631" count="1"/>
+	</item>
+	
+	<!-- Elixir of Mental Strength (A-Grade) -->
+	<item>
+	<ingredient id="57" count="14400"/>
+	<production id="8632" count="1"/>
+	</item>
+	
+	<!-- Elixir of Mental Strength (S-Grade) -->
+	<item>
+	<ingredient id="57" count="16800"/>
+	<production id="8633" count="1"/>
+	</item>
+	
+	<!-- Fire Potion -->
+	<item>
+	<ingredient id="57" count="30000"/>
+	<production id="9997" count="1"/>
+	</item>
+	
+	<!-- Water Potion -->
+	<item>
+	<ingredient id="57" count="30000"/>
+	<production id="9998" count="1"/>
+	</item>
+	
+	<!-- Earth Potion -->
+	<item>
+	<ingredient id="57" count="30000"/>
+	<production id="9999" count="1"/>
+	</item>
+	
+	<!-- Wind Potion -->
+	<item>
+	<ingredient id="57" count="30000"/>
+	<production id="10000" count="1"/>
+	</item>
+	
+	<!-- Dark Potion -->
+	<item>
+	<ingredient id="57" count="30000"/>
+	<production id="10001" count="1"/>
+	</item>
+	
+	<!-- Holy Potion -->
+	<item>
+	<ingredient id="57" count="30000"/>
+	<production id="10002" count="1"/>
+	</item>
+	
+	<!-- Red Firework -->
+	<item>
+	<ingredient id="57" count="50000"/>
+	<production id="20870" count="1"/>
+	</item>
+	
+	<!-- Gold Firework -->
+	<item>
+	<ingredient id="57" count="50000"/>
+	<production id="20871" count="1"/>
+	</item>
+	
+	<!-- Blue Firework -->
+	<item>
+	<ingredient id="57" count="50000"/>
+	<production id="20872" count="1"/>
+	</item>
+	
+	<!-- Pink Firework -->
+	<item>
+	<ingredient id="57" count="50000"/>
+	<production id="20873" count="1"/>
+	</item>
+	
+	<!-- White Firework -->
+	<item>
+	<ingredient id="57" count="50000"/>
+	<production id="20874" count="1"/>
+	</item>
+	
+	<!-- Silver Firework -->
+	<item>
+	<ingredient id="57" count="50000"/>
+	<production id="20875" count="1"/>
+	</item>
+	
+	<!-- Sweet Fruit Cocktail -->
+	<item>
+	<ingredient id="57" count="55000"/>
+	<production id="10178" count="1"/>
+	</item>
+	
+	<!-- Fresh Fruit Cocktail -->
+	<item>
+	<ingredient id="57" count="55000"/>
+	<production id="10179" count="1"/>
+	</item>
+	
+	<!-- Fresh Milk -->
+	<item>
+	<ingredient id="57" count="80000"/>
+	<production id="21235" count="1"/>
+	</item>
+</list>

@@ -1,0 +1,113 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/multisell.xsd">
+	
+<!-- D-Grade Jewels -->
+	
+	<!-- Necklace of Darkness -->
+	<item>
+	<ingredient id="57" count="136840"/>
+	<production id="914" count="1"/>
+	</item>
+	
+	<!-- Omen Beast's Eye Earing -->
+	<item>
+	<ingredient id="57" count="102630"/>
+	<production id="851" count="1"/>
+	</item>
+	
+	<!-- Mithril Ring -->
+	<item>
+	<ingredient id="57" count="68420"/>
+	<production id="882" count="1"/>
+	</item>
+	
+	<!-- Elven Necklace -->
+	<item>
+	<ingredient id="57" count="105380"/>
+	<production id="913" count="1"/>
+	</item>
+	
+	<!-- Elven Earring -->
+	<item>
+	<ingredient id="57" count="79090"/>
+	<production id="850" count="1"/>
+	</item>
+	
+	<!-- Elven Ring -->
+	<item>
+	<ingredient id="57" count="52690"/>
+	<production id="881" count="1"/>
+	</item>
+	
+	<!-- Near Forest Necklace -->
+	<item>
+	<ingredient id="57" count="72490"/>
+	<production id="912" count="1"/>
+	</item>
+	
+	<!-- Tiger's Eye Earring -->
+	<item>
+	<ingredient id="57" count="54340"/>
+	<production id="849" count="1"/>
+	</item>
+	
+	<!-- Black Pearl Ring -->
+	<item>
+	<ingredient id="57" count="36300"/>
+	<production id="880" count="1"/>
+	</item>
+	
+	<!-- Common Item - Necklace of Darkness -->
+	<item>
+	<ingredient id="57" count="6468"/>
+	<production id="12324" count="1"/>
+	</item>
+	
+	<!-- Common Item - Omen Beast's Eye Earing -->
+	<item>
+	<ingredient id="57" count="4851"/>
+	<production id="12325" count="1"/>
+	</item>
+	
+	<!-- Common Item - Mithril Ring -->
+	<item>
+	<ingredient id="57" count="3234"/>
+	<production id="12323" count="1"/>
+	</item>
+	
+	<!-- Common Item - Elven Necklace -->
+	<item>
+	<ingredient id="57" count="5104"/>
+	<production id="12320" count="1"/>
+	</item>
+	
+	<!-- Common Item - Elven Earring -->
+	<item>
+	<ingredient id="57" count="3828"/>
+	<production id="12322" count="1"/>
+	</item>
+	
+	<!-- Common Item - Elven Ring -->
+	<item>
+	<ingredient id="57" count="2552"/>
+	<production id="12321" count="1"/>
+	</item>
+	
+	<!-- Common Item - Near Forest Necklace -->
+	<item>
+	<ingredient id="57" count="3652"/>
+	<production id="12317" count="1"/>
+	</item>
+	
+	<!-- Common Item - Tiger's Eye Earring -->
+	<item>
+	<ingredient id="57" count="2739"/>
+	<production id="12318" count="1"/>
+	</item>
+	
+	<!-- Common Item - Black Pearl Ring -->
+	<item>
+	<ingredient id="57" count="1826"/>
+	<production id="12319" count="1"/>
+	</item>
+</list>

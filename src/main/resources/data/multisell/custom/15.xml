@@ -1,0 +1,289 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/multisell.xsd">
+	
+<!-- D-Grade Armors -->
+	
+	<!-- Half Plate Armor -->
+	<item>
+	<ingredient id="57" count="827200"/>
+	<production id="353" count="1"/>
+	<production id="380" count="1"/>
+	<production id="2428" count="1"/>
+	<production id="61" count="1"/>
+	<production id="2412" count="1"/>
+	</item>
+	
+	<!-- Salamander Skin Mail -->
+	<item>
+	<ingredient id="57" count="692780"/>
+	<production id="396" count="1"/>
+	<production id="2427" count="1"/>
+	<production id="607" count="1"/>
+	<production id="2412" count="1"/>
+	</item>
+	
+	<!-- Sage's Rag -->
+	<item>
+	<ingredient id="57" count="692780"/>
+	<production id="438" count="1"/>
+	<production id="1125" count="1"/>
+	<production id="2451" count="1"/>
+	<production id="2412" count="1"/>
+	</item>
+	
+	<!-- Brigandine Tunic -->
+	<item>
+	<ingredient id="57" count="631620"/>
+	<production id="352" count="1"/>
+	<production id="2378" count="1"/>
+	<production id="2425" count="1"/>
+	<production id="2449" count="1"/>
+	<production id="2411" count="1"/>
+	</item>
+	
+	<!-- Manticore Skin Shirt -->
+	<item>
+	<ingredient id="57" count="528660"/>
+	<production id="395" count="1"/>
+	<production id="417" count="1"/>
+	<production id="2424" count="1"/>
+	<production id="2448" count="1"/>
+	<production id="2411" count="1"/>
+	</item>
+	
+	<!-- Mithril Tunic -->
+	<item>
+	<ingredient id="57" count="528660"/>
+	<production id="437" count="1"/>
+	<production id="470" count="1"/>
+	<production id="2426" count="1"/>
+	<production id="2450" count="1"/>
+	<production id="2411" count="1"/>
+	</item>
+	
+	<!-- Mithril Breastplate -->
+	<item>
+	<ingredient id="57" count="413050"/>
+	<production id="58" count="1"/>
+	<production id="59" count="1"/>
+	<production id="2422" count="1"/>
+	<production id="2446" count="1"/>
+	<production id="47" count="1"/>
+	</item>
+	
+	<!-- Reinforced Leather Shirt -->
+	<item>
+	<ingredient id="57" count="359700"/>
+	<production id="394" count="1"/>
+	<production id="416" count="1"/>
+	<production id="2422" count="1"/>
+	<production id="2446" count="1"/>
+	<production id="47" count="1"/>
+	</item>
+	
+	<!-- Tunic of Knowledge -->
+	<item>
+	<ingredient id="57" count="359700"/>
+	<production id="436" count="1"/>
+	<production id="469" count="1"/>
+	<production id="2423" count="1"/>
+	<production id="2447" count="1"/>
+	<production id="47" count="1"/>
+	</item>
+	
+	<!-- Ring Mail Breastplate -->
+	<item>
+	<ingredient id="57" count="213301"/>
+	<production id="347" count="1"/>
+	<production id="376" count="1"/>
+	<production id="1123" count="1"/>
+	<production id="605" count="1"/>
+	<production id="46" count="1"/>
+	</item>
+	
+	<!-- Lion Skin Shirt -->
+	<item>
+	<ingredient id="57" count="235950"/>
+	<production id="392" count="1"/>
+	<production id="414" count="1"/>
+	<production id="1123" count="1"/>
+	<production id="605" count="1"/>
+	<production id="46" count="1"/>
+	</item>
+	
+	<!-- Mystic's Tunic -->
+	<item>
+	<ingredient id="57" count="235950"/>
+	<production id="435" count="1"/>
+	<production id="468" count="1"/>
+	<production id="1123" count="1"/>
+	<production id="605" count="1"/>
+	<production id="46" count="1"/>
+	</item>
+	
+	<!-- Plate Shield -->
+	<item>
+	<ingredient id="57" count="86900"/>
+	<production id="2494" count="1"/>
+	</item>
+	
+	<!-- Brigandine Shield -->
+	<item>
+	<ingredient id="57" count="66330"/>
+	<production id="2493" count="1"/>
+	</item>
+	
+	<!-- Hoplon -->
+	<item>
+	<ingredient id="57" count="45100"/>
+	<production id="628" count="1"/>
+	</item>
+	
+	<!-- Aspis -->
+	<item>
+	<ingredient id="57" count="29590"/>
+	<production id="627" count="1"/>
+	</item>
+	
+	<!-- Common Item - Half Plate Armor -->
+	<item>
+	<ingredient id="57" count="39105"/>
+	<production id="12081" count="1"/>
+	<production id="12080" count="1"/>
+	<production id="12077" count="1"/>
+	<production id="12072" count="1"/>
+	<production id="12079" count="1"/>
+	</item>
+	
+	<!-- Common Item - Salamander Skin Mail -->
+	<item>
+	<ingredient id="57" count="32736"/>
+	<production id="12074" count="1"/>
+	<production id="12075" count="1"/>
+	<production id="12076" count="1"/>
+	<production id="12079" count="1"/>
+	</item>
+	
+	<!-- Common Item - Sage's Rag -->
+	<item>
+	<ingredient id="57" count="32736"/>
+	<production id="12083" count="1"/>
+	<production id="12071" count="1"/>
+	<production id="12082" count="1"/>
+	<production id="12079" count="1"/>
+	</item>
+	
+	<!-- Common Item - Brigandine Tunic -->
+	<item>
+	<ingredient id="57" count="30569"/>
+	<production id="12059" count="1"/>
+	<production id="12060" count="1"/>
+	<production id="12062" count="1"/>
+	<production id="12061" count="1"/>
+	<production id="12064" count="1"/>
+	</item>
+	
+	<!-- Common Item - Manticore Skin Shirt -->
+	<item>
+	<ingredient id="57" count="25630"/>
+	<production id="12054" count="1"/>
+	<production id="12052" count="1"/>
+	<production id="12053" count="1"/>
+	<production id="12055" count="1"/>
+	<production id="12064" count="1"/>
+	</item>
+	
+	<!-- Common Item - Mithril Tunic -->
+	<item>
+	<ingredient id="57" count="25630"/>
+	<production id="12057" count="1"/>
+	<production id="12058" count="1"/>
+	<production id="12066" count="1"/>
+	<production id="12072" count="1"/>
+	<production id="12064" count="1"/>
+	</item>
+	
+	<!-- Common Item - Mithril Breastplate -->
+	<item>
+	<ingredient id="57" count="21604"/>
+	<production id="12031" count="1"/>
+	<production id="12041" count="1"/>
+	<production id="12035" count="1"/>
+	<production id="12037" count="1"/>
+	<production id="12050" count="1"/>
+	</item>
+	
+	<!-- Common Item - Reinforced Leather Shirt -->
+	<item>
+	<ingredient id="57" count="18084"/>
+	<production id="12036" count="1"/>
+	<production id="12034" count="1"/>
+	<production id="12035" count="1"/>
+	<production id="12037" count="1"/>
+	<production id="12050" count="1"/>
+	</item>
+	
+	<!-- Common Item - Tunic of Knowledge -->
+	<item>
+	<ingredient id="57" count="18084"/>
+	<production id="12047" count="1"/>
+	<production id="12048" count="1"/>
+	<production id="12045" count="1"/>
+	<production id="12046" count="1"/>
+	<production id="12050" count="1"/>
+	</item>
+	
+	<!-- Common Item - Ring Mail Breastplate -->
+	<item>
+	<ingredient id="57" count="11561"/>
+	<production id="12008" count="1"/>
+	<production id="12012" count="1"/>
+	<production id="12029" count="1"/>
+	<production id="12016" count="1"/>
+	<production id="12028" count="1"/>
+	</item>
+	
+	<!-- Common Item - Lion Skin Shirt -->
+	<item>
+	<ingredient id="57" count="12408"/>
+	<production id="12021" count="1"/>
+	<production id="12020" count="1"/>
+	<production id="12029" count="1"/>
+	<production id="12016" count="1"/>
+	<production id="12028" count="1"/>
+	</item>
+	
+	<!-- Common Item - Mystic's Tunic -->
+	<item>
+	<ingredient id="57" count="12408"/>
+	<production id="12018" count="1"/>
+	<production id="12019" count="1"/>
+	<production id="12029" count="1"/>
+	<production id="12016" count="1"/>
+	<production id="12028" count="1"/>
+	</item>
+	
+	<!-- Common Item - Plate Shield -->
+	<item>
+	<ingredient id="57" count="4103"/>
+	<production id="12078" count="1"/>
+	</item>
+	
+	<!-- Common Item - Brigandine Shield -->
+	<item>
+	<ingredient id="57" count="3212"/>
+	<production id="12063" count="1"/>
+	</item>
+	
+	<!-- Common Item - Hoplon -->
+	<item>
+	<ingredient id="57" count="2266"/>
+	<production id="12051" count="1"/>
+	</item>
+	
+	<!-- Common Item - Aspis -->
+	<item>
+	<ingredient id="57" count="1551"/>
+	<production id="12025" count="1"/>
+	</item>
+</list>

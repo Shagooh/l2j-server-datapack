@@ -1,0 +1,10 @@
+{
+	"folders": [
+		{
+			"path": "../../../../../../L2j Git Cisco/Dockerfiles-L2"
+		}
+	],
+	"settings": {
+		"git.ignoreLimitWarning": true
+	}
+}

@@ -1,0 +1,149 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/multisell.xsd">
+	
+<!-- Experience -->
+	
+	<!-- Multi-colored Honey Rice Cake -->
+	<item>
+	<ingredient id="57" count="1"/>
+	<production id="13420" count="1"/>
+	</item>
+	
+	<!-- 5th Anniversary Gift Box (6 Honey Rice Cake Set) -->
+	<item>
+	<ingredient id="57" count="1"/>
+	<production id="5912" count="1"/>
+	</item>
+	
+	<!-- 5th Anniversary Gift Box (10 Honey Rice Cake Set) -->
+	<item>
+	<ingredient id="57" count="1"/>
+	<production id="5906" count="1"/>
+	</item>
+	
+	<!-- Vitality Maintainig Potion -->
+	<item>
+	<ingredient id="57" count="1"/>
+	<production id="21251" count="1"/>
+	</item>
+	
+	<!-- Vitality Maintaining Potion -->
+	<item>
+	<ingredient id="57" count="1"/>
+	<production id="20391" count="1"/>
+	</item>
+	
+	<!-- Birthday Cake Pack -->
+	<item>
+	<ingredient id="57" count="1"/>
+	<production id="20314" count="1"/>
+	</item>
+	
+	<!-- Rune of Experience Points 30% 5-hour limited period -->
+	<item>
+	<ingredient id="57" count="1"/>
+	<production id="20335" count="1"/>
+	</item>
+	
+	<!-- Rune of Experience Points 30% 10-hour limited period -->
+	<item>
+	<ingredient id="57" count="1"/>
+	<production id="20337" count="1"/>
+	</item>
+	
+	<!-- Rune of Experience Points 30% 7-day limited period -->
+	<item>
+	<ingredient id="57" count="1"/>
+	<production id="20339" count="1"/>
+	</item>
+	
+	<!-- Rune of Experience Points 50% 5-hour limited period -->
+	<item>
+	<ingredient id="57" count="1"/>
+	<production id="20336" count="1"/>
+	</item>
+	
+	<!-- Rune of Experience Points 50% 10-hour limited period -->
+	<item>
+	<ingredient id="57" count="1"/>
+	<production id="20338" count="1"/>
+	</item>
+	
+	<!-- Rune of Experience Points 50% 7-day limited period -->
+	<item>
+	<ingredient id="57" count="1"/>
+	<production id="20340" count="1"/>
+	</item>
+	
+	<!-- Rune of SP 30% 5-hour limited period -->
+	<item>
+	<ingredient id="57" count="1"/>
+	<production id="20341" count="1"/>
+	</item>
+	
+	<!-- Rune of SP 30% 10-hour limited period -->
+	<item>
+	<ingredient id="57" count="1"/>
+	<production id="20343" count="1"/>
+	</item>
+	
+	<!-- Rune of SP 30% 7-day limited period -->
+	<item>
+	<ingredient id="57" count="1"/>
+	<production id="20345" count="1"/>
+	</item>
+	
+	<!-- Rune of SP 50% 5-hour limited period -->
+	<item>
+	<ingredient id="57" count="1"/>
+	<production id="20342" count="1"/>
+	</item>
+	
+	<!-- Rune of SP 50% 10-hour limited period -->
+	<item>
+	<ingredient id="57" count="1"/>
+	<production id="20344" count="1"/>
+	</item>
+	
+	<!-- Rune of SP 50% 7-day limited period -->
+	<item>
+	<ingredient id="57" count="1"/>
+	<production id="20346" count="1"/>
+	</item>
+	
+	<!-- Rune of Crystal Level 3 5-hour limited period -->
+	<item>
+	<ingredient id="57" count="1"/>
+	<production id="20347" count="1"/>
+	</item>
+	
+	<!-- Rune of Crystal Level 3 10-hour limited period -->
+	<item>
+	<ingredient id="57" count="1"/>
+	<production id="20349" count="1"/>
+	</item>
+	
+	<!-- Rune of Crystal Level 3 7-day limited period -->
+	<item>
+	<ingredient id="57" count="1"/>
+	<production id="20351" count="1"/>
+	</item>
+	
+	<!-- Rune of Crystal Level 5 5-hour limited period -->
+	<item>
+	<ingredient id="57" count="1"/>
+	<production id="20348" count="1"/>
+	</item>
+	
+	<!-- Rune of Crystal Level 5 10-hour limited period -->
+	<item>
+	<ingredient id="57" count="1"/>
+	<production id="20350" count="1"/>
+	</item>
+	
+	<!-- Rune of Crystal Level 5 7-day limited period -->
+	<item>
+	<ingredient id="57" count="1"/>
+	<production id="20352" count="1"/>
+	</item>
+</list>

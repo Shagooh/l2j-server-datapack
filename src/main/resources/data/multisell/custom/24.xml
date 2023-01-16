@@ -1,0 +1,605 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/multisell.xsd">
+	
+<!-- C-Grade Weapons -->
+	
+	<!-- Sword of Delusion [Focus] -->
+	<item>
+	<ingredient id="57" count="4304300"/>
+	<production id="4699" count="1"/>
+	</item>
+	
+	<!-- Sword of Delusion [Health] -->
+	<item>
+	<ingredient id="57" count="4304300"/>
+	<production id="4700" count="1"/>
+	</item>
+	
+	<!-- Sword of Delusion [Rsk. Haste] -->
+	<item>
+	<ingredient id="57" count="4304300"/>
+	<production id="4701" count="1"/>
+	</item>
+	
+	<!-- Blinzlasher [Focus] -->
+	<item>
+	<ingredient id="57" count="4304300"/>
+	<production id="9269" count="1"/>
+	</item>
+	
+	<!-- Blinzlasher [Health] -->
+	<item>
+	<ingredient id="57" count="4304300"/>
+	<production id="9270" count="1"/>
+	</item>
+	
+	<!-- Blinzlasher [Rsk. Haste] -->
+	<item>
+	<ingredient id="57" count="4304300"/>
+	<production id="9271" count="1"/>
+	</item>
+	
+	<!-- Dark Screamer [Evasion] -->
+	<item>
+	<ingredient id="57" count="4304300"/>
+	<production id="4771" count="1"/>
+	</item>
+	
+	<!-- Dark Screamer [Focus] -->
+	<item>
+	<ingredient id="57" count="4304300"/>
+	<production id="4772" count="1"/>
+	</item>
+	
+	<!-- Dark Screamer [Critical Bleed] -->
+	<item>
+	<ingredient id="57" count="4304300"/>
+	<production id="4773" count="1"/>
+	</item>
+	
+	<!-- War Axe [Anger] -->
+	<item>
+	<ingredient id="57" count="4304300"/>
+	<production id="4741" count="1"/>
+	</item>
+	
+	<!-- War Axe [Health] -->
+	<item>
+	<ingredient id="57" count="4304300"/>
+	<production id="4742" count="1"/>
+	</item>
+	
+	<!-- War Axe [Haste] -->
+	<item>
+	<ingredient id="57" count="4304300"/>
+	<production id="4743" count="1"/>
+	</item>
+	
+	<!-- Fisted Blade [Rsk. Evasion] -->
+	<item>
+	<ingredient id="57" count="4304300"/>
+	<production id="4792" count="1"/>
+	</item>
+	
+	<!-- Fisted Blade [Rsk. Haste] -->
+	<item>
+	<ingredient id="57" count="4304300"/>
+	<production id="4793" count="1"/>
+	</item>
+	
+	<!-- Fisted Blade [Haste] -->
+	<item>
+	<ingredient id="57" count="4304300"/>
+	<production id="4794" count="1"/>
+	</item>
+	
+	<!-- Poleaxe [Critical Stun] -->
+	<item>
+	<ingredient id="57" count="4304300"/>
+	<production id="7719" count="1"/>
+	</item>
+	
+	<!-- Poleaxe [Towering Blow] -->
+	<item>
+	<ingredient id="57" count="4304300"/>
+	<production id="7720" count="1"/>
+	</item>
+	
+	<!-- Poleaxe [Wide Blow] -->
+	<item>
+	<ingredient id="57" count="4304300"/>
+	<production id="7721" count="1"/>
+	</item>
+	
+	<!-- Pa'agrian Sword [Focus] -->
+	<item>
+	<ingredient id="57" count="4304300"/>
+	<production id="8102" count="1"/>
+	</item>
+	
+	<!-- Pa'agrian Sword [Health] -->
+	<item>
+	<ingredient id="57" count="4304300"/>
+	<production id="8103" count="1"/>
+	</item>
+	
+	<!-- Pa'agrian Sword [Critical Drain] -->
+	<item>
+	<ingredient id="57" count="4304300"/>
+	<production id="8104" count="1"/>
+	</item>
+	
+	<!-- Immortal Edge [Focus] -->
+	<item>
+	<ingredient id="57" count="4304300"/>
+	<production id="9285" count="1"/>
+	</item>
+	
+	<!-- Immortal Edge [Health] -->
+	<item>
+	<ingredient id="57" count="4304300"/>
+	<production id="9286" count="1"/>
+	</item>
+	
+	<!-- Immortal Edge [Critical Drain] -->
+	<item>
+	<ingredient id="57" count="4304300"/>
+	<production id="9287" count="1"/>
+	</item>
+	
+	<!-- Akat Long Bow [Guidance] -->
+	<item>
+	<ingredient id="57" count="4304300"/>
+	<production id="4819" count="1"/>
+	</item>
+	
+	<!-- Akat Long Bow [Evasion] -->
+	<item>
+	<ingredient id="57" count="4304300"/>
+	<production id="4820" count="1"/>
+	</item>
+	
+	<!-- Akat Long Bow [Miser] -->
+	<item>
+	<ingredient id="57" count="4304300"/>
+	<production id="4821" count="1"/>
+	</item>
+	
+	<!-- Tathlum [Guidance] -->
+	<item>
+	<ingredient id="57" count="4304300"/>
+	<production id="9289" count="1"/>
+	</item>
+	
+	<!-- Tathlum [Evasion] -->
+	<item>
+	<ingredient id="57" count="4304300"/>
+	<production id="9290" count="1"/>
+	</item>
+	
+	<!-- Tathlum [Miser] -->
+	<item>
+	<ingredient id="57" count="4304300"/>
+	<production id="9291" count="1"/>
+	</item>
+	
+	<!-- Homunkulus's Sword [Acumen] -->
+	<item>
+	<ingredient id="57" count="4304300"/>
+	<production id="6313" count="1"/>
+	</item>
+	
+	<!-- Homunkulus's Sword [Conversion] -->
+	<item>
+	<ingredient id="57" count="4304300"/>
+	<production id="6314" count="1"/>
+	</item>
+	
+	<!-- Homunkulus's Sowrd [Magic Paralyze] -->
+	<item>
+	<ingredient id="57" count="4304300"/>
+	<production id="6315" count="1"/>
+	</item>
+	
+	<!-- Inferno Staff [Acumen] -->
+	<item>
+	<ingredient id="57" count="4304300"/>
+	<production id="7716" count="1"/>
+	</item>
+	
+	<!-- Inferno Staff [Magic Silence] -->
+	<item>
+	<ingredient id="57" count="4304300"/>
+	<production id="7717" count="1"/>
+	</item>
+	
+	<!-- Inferno Staff [Magic Paralyze] -->
+	<item>
+	<ingredient id="57" count="4304300"/>
+	<production id="7718" count="1"/>
+	</item>
+	
+	<!-- Stormbringer*Stormbringer -->
+	<item>
+	<ingredient id="57" count="5045470"/>
+	<production id="2561" count="1"/>
+	</item>
+	
+	<!-- Stormbringer [Critical Anger] -->
+	<item>
+	<ingredient id="57" count="2762900"/>
+	<production id="4681" count="1"/>
+	</item>
+	
+	<!-- Stormbringer [Focus] -->
+	<item>
+	<ingredient id="57" count="2762900"/>
+	<production id="4682" count="1"/>
+	</item>
+	
+	<!-- Stormbringer [Light] -->
+	<item>
+	<ingredient id="57" count="2762900"/>
+	<production id="4683" count="1"/>
+	</item>
+	
+	<!-- Soldat Estoc [Critical Anger] -->
+	<item>
+	<ingredient id="57" count="2762900"/>
+	<production id="9229" count="1"/>
+	</item>
+	
+	<!-- Soldat Estoc [Focus] -->
+	<item>
+	<ingredient id="57" count="2762900"/>
+	<production id="9230" count="1"/>
+	</item>
+	
+	<!-- Soldat Estoc [Light] -->
+	<item>
+	<ingredient id="57" count="2762900"/>
+	<production id="9231" count="1"/>
+	</item>
+	
+	<!-- Dark Elven Dagger [Focus] -->
+	<item>
+	<ingredient id="57" count="2762900"/>
+	<production id="4762" count="1"/>
+	</item>
+	
+	<!-- Dark Elven Dagger [Back Blow] -->
+	<item>
+	<ingredient id="57" count="2762900"/>
+	<production id="4763" count="1"/>
+	</item>
+	
+	<!-- Dark Elven Dagger [Rsk. Haste] -->
+	<item>
+	<ingredient id="57" count="2762900"/>
+	<production id="6356" count="1"/>
+	</item>
+	
+	<!-- Battle Axe [Anger] -->
+	<item>
+	<ingredient id="57" count="2762900"/>
+	<production id="4729" count="1"/>
+	</item>
+	
+	<!-- Battle Axe [Rsk. Focus] -->
+	<item>
+	<ingredient id="57" count="2762900"/>
+	<production id="4730" count="1"/>
+	</item>
+	
+	<!-- Battle Axe [Haste] -->
+	<item>
+	<ingredient id="57" count="2762900"/>
+	<production id="4731" count="1"/>
+	</item>
+	
+	<!-- Chakram [Critical Drain] -->
+	<item>
+	<ingredient id="57" count="2762900"/>
+	<production id="4789" count="1"/>
+	</item>
+	
+	<!-- Chakram [Critical Poison] -->
+	<item>
+	<ingredient id="57" count="2762900"/>
+	<production id="4790" count="1"/>
+	</item>
+	
+	<!-- Chakram [Rsk. Haste] -->
+	<item>
+	<ingredient id="57" count="2762900"/>
+	<production id="4791" count="1"/>
+	</item>
+	
+	<!-- Orcish Glaive [Anger] -->
+	<item>
+	<ingredient id="57" count="2762900"/>
+	<production id="4837" count="1"/>
+	</item>
+	
+	<!-- Orcish Glaive [Critical Stun] -->
+	<item>
+	<ingredient id="57" count="2762900"/>
+	<production id="4838" count="1"/>
+	</item>
+	
+	<!-- Orcish Glaive [Towering Blow] -->
+	<item>
+	<ingredient id="57" count="2762900"/>
+	<production id="4839" count="1"/>
+	</item>
+	
+	<!-- Flamberge [Critical Damage] -->
+	<item>
+	<ingredient id="57" count="2762900"/>
+	<production id="4711" count="1"/>
+	</item>
+	
+	<!-- Flamberge [Focus] -->
+	<item>
+	<ingredient id="57" count="2762900"/>
+	<production id="4712" count="1"/>
+	</item>
+	
+	<!-- Flamberge [Light] -->
+	<item>
+	<ingredient id="57" count="2762900"/>
+	<production id="4713" count="1"/>
+	</item>
+	
+	<!-- Schlager [Critical Damage] -->
+	<item>
+	<ingredient id="57" count="2762900"/>
+	<production id="9233" count="1"/>
+	</item>
+	
+	<!-- Schlager [Focus] -->
+	<item>
+	<ingredient id="57" count="2762900"/>
+	<production id="9234" count="1"/>
+	</item>
+	
+	<!-- Schlager [Light] -->
+	<item>
+	<ingredient id="57" count="2762900"/>
+	<production id="9235" count="1"/>
+	</item>
+	
+	<!-- Crystallized Ice Bow [Guidance] -->
+	<item>
+	<ingredient id="57" count="2762900"/>
+	<production id="4810" count="1"/>
+	</item>
+	
+	<!-- Crystallized Ice Bow [Evasion] -->
+	<item>
+	<ingredient id="57" count="2762900"/>
+	<production id="4811" count="1"/>
+	</item>
+	
+	<!-- Crystallized Ice Bow [Quick Recovery] -->
+	<item>
+	<ingredient id="57" count="2762900"/>
+	<production id="4812" count="1"/>
+	</item>
+	
+	<!-- Arbalest [Guidance] -->
+	<item>
+	<ingredient id="57" count="2762900"/>
+	<production id="9237" count="1"/>
+	</item>
+	
+	<!-- Arbalest [Evasion] -->
+	<item>
+	<ingredient id="57" count="2762900"/>
+	<production id="9238" count="1"/>
+	</item>
+	
+	<!-- Arbalest [Quick Recovery] -->
+	<item>
+	<ingredient id="57" count="2762900"/>
+	<production id="9239" count="1"/>
+	</item>
+	
+	<!-- Mysterious Sword [Acumen] -->
+	<item>
+	<ingredient id="57" count="2762900"/>
+	<production id="8111" count="1"/>
+	</item>
+	
+	<!-- Mysterious Sword [M. Atk.] -->
+	<item>
+	<ingredient id="57" count="2762900"/>
+	<production id="8112" count="1"/>
+	</item>
+	
+	<!-- Mysterious Sword [Magic Weakness] -->
+	<item>
+	<ingredient id="57" count="2762900"/>
+	<production id="8113" count="1"/>
+	</item>
+	
+	<!-- Crystal Staff [Rsk. Evasion] -->
+	<item>
+	<ingredient id="57" count="2762900"/>
+	<production id="4867" count="1"/>
+	</item>
+	
+	<!-- Crystal Staff [Mana Up] -->
+	<item>
+	<ingredient id="57" count="2762900"/>
+	<production id="4868" count="1"/>
+	</item>
+	
+	<!-- Crystal Staff [Blessed Body] -->
+	<item>
+	<ingredient id="57" count="2762900"/>
+	<production id="4869" count="1"/>
+	</item>
+	
+	<!-- Artisan's Sword*Elven Long Sword -->
+	<item>
+	<ingredient id="57" count="3093850"/>
+	<production id="2545" count="1"/>
+	</item>
+	
+	<!-- Common Item - Sword of Delusion -->
+	<item>
+	<ingredient id="57" count="200420"/>
+	<production id="11807" count="1"/>
+	</item>
+	
+	<!-- Common Item - Blinzlasher -->
+	<item>
+	<ingredient id="57" count="200420"/>
+	<production id="11809" count="1"/>
+	</item>
+	
+	<!-- Common Item - Dark Screamer -->
+	<item>
+	<ingredient id="57" count="200420"/>
+	<production id="11803" count="1"/>
+	</item>
+	
+	<!-- Common Item - War Axe -->
+	<item>
+	<ingredient id="57" count="200420"/>
+	<production id="11816" count="1"/>
+	</item>
+	
+	<!-- Common Item - Fisted Blade -->
+	<item>
+	<ingredient id="57" count="200420"/>
+	<production id="11827" count="1"/>
+	</item>
+	
+	<!-- Common Item - Poleaxe -->
+	<item>
+	<ingredient id="57" count="200420"/>
+	<production id="11826" count="1"/>
+	</item>
+	
+	<!-- Common Item - Pa'agrian Sword -->
+	<item>
+	<ingredient id="57" count="200420"/>
+	<production id="11813" count="1"/>
+	</item>
+	
+	<!-- Common Item - Immortal Edge -->
+	<item>
+	<ingredient id="57" count="200420"/>
+	<production id="11818" count="1"/>
+	</item>
+	
+	<!-- Common Item - Akat Long Bow -->
+	<item>
+	<ingredient id="57" count="200420"/>
+	<production id="11814" count="1"/>
+	</item>
+	
+	<!-- Common Item - Tathlum -->
+	<item>
+	<ingredient id="57" count="200420"/>
+	<production id="11823" count="1"/>
+	</item>
+	
+	<!-- Common Item - Homunkulus's Sowrd -->
+	<item>
+	<ingredient id="57" count="200420"/>
+	<production id="11829" count="1"/>
+	</item>
+	
+	<!-- Common Item - Inferno Staff -->
+	<item>
+	<ingredient id="57" count="200420"/>
+	<production id="11819" count="1"/>
+	</item>
+	
+	<!-- Common Item - Stormbringer*Stormbringer -->
+	<item>
+	<ingredient id="57" count="213840"/>
+	<production id="11831" count="1"/>
+	</item>
+	
+	<!-- Common Item - Stormbringer -->
+	<item>
+	<ingredient id="57" count="89760"/>
+	<production id="11756" count="1"/>
+	</item>
+	
+	<!-- Common Item - Soldat Estoc -->
+	<item>
+	<ingredient id="57" count="89760"/>
+	<production id="11753" count="1"/>
+	</item>
+	
+	<!-- Common Item - Dark Elven Dagger -->
+	<item>
+	<ingredient id="57" count="89760"/>
+	<production id="11747" count="1"/>
+	</item>
+	
+	<!-- Common Item - Battle Axe -->
+	<item>
+	<ingredient id="57" count="89760"/>
+	<production id="11750" count="1"/>
+	</item>
+	
+	<!-- Common Item - Chakram -->
+	<item>
+	<ingredient id="57" count="89760"/>
+	<production id="11763" count="1"/>
+	</item>
+	
+	<!-- Common Item - Orcish Glaive -->
+	<item>
+	<ingredient id="57" count="89760"/>
+	<production id="11760" count="1"/>
+	</item>
+	
+	<!-- Common Item - Flamberge -->
+	<item>
+	<ingredient id="57" count="89760"/>
+	<production id="11766" count="1"/>
+	</item>
+	
+	<!-- Common Item - Schlager -->
+	<item>
+	<ingredient id="57" count="89760"/>
+	<production id="11754" count="1"/>
+	</item>
+	
+	<!-- Common Item - Crystallized Ice Bow -->
+	<item>
+	<ingredient id="57" count="89760"/>
+	<production id="11759" count="1"/>
+	</item>
+	
+	<!-- Common Item - Arbalest -->
+	<item>
+	<ingredient id="57" count="89760"/>
+	<production id="11758" count="1"/>
+	</item>
+	
+	<!-- Common Item - Mysterious Sword -->
+	<item>
+	<ingredient id="57" count="89760"/>
+	<production id="11748" count="1"/>
+	</item>
+	
+	<!-- Common Item - Crystal Staff -->
+	<item>
+	<ingredient id="57" count="89760"/>
+	<production id="11764" count="1"/>
+	</item>
+	
+	<!-- Common Item - Artisan's Sword*Elven Long Sword -->
+	<item>
+	<ingredient id="57" count="96162"/>
+	<production id="11773" count="1"/>
+	</item>
+</list>

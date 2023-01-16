@@ -1,0 +1,270 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/multisell.xsd">
+	
+<!-- Top S84 Weapons -->
+	
+	<!-- Eternal Core Sword [Focus] -->
+	<item>
+	<ingredient id="57" count="2056680000"/>
+	<production id="15871" count="1"/>
+	</item>
+	
+	<!-- Eternal Core Sword [Haste] -->
+	<item>
+	<ingredient id="57" count="2056680000"/>
+	<production id="15872" count="1"/>
+	</item>
+	
+	<!-- Eternal Core Sword [Health] -->
+	<item>
+	<ingredient id="57" count="2056680000"/>
+	<production id="15873" count="1"/>
+	</item>
+	
+	<!-- Heavenstare Rapier [Focus] -->
+	<item>
+	<ingredient id="57" count="2056680000"/>
+	<production id="15904" count="1"/>
+	</item>
+	
+	<!-- Heavenstare Rapier [Haste] -->
+	<item>
+	<ingredient id="57" count="2056680000"/>
+	<production id="15905" count="1"/>
+	</item>
+	
+	<!-- Heavenstare Rapier [Health] -->
+	<item>
+	<ingredient id="57" count="2056680000"/>
+	<production id="15906" count="1"/>
+	</item>
+	
+	<!-- Mamba Edge [Haste] -->
+	<item>
+	<ingredient id="57" count="2056680000"/>
+	<production id="15874" count="1"/>
+	</item>
+	
+	<!-- Mamba Edge [Critical Damage] -->
+	<item>
+	<ingredient id="57" count="2056680000"/>
+	<production id="15875" count="1"/>
+	</item>
+	
+	<!-- Mamba Edge [HP Drain] -->
+	<item>
+	<ingredient id="57" count="2056680000"/>
+	<production id="15876" count="1"/>
+	</item>
+	
+	<!-- Eversor Mace [HP Regeneration] -->
+	<item>
+	<ingredient id="57" count="2056680000"/>
+	<production id="15877" count="1"/>
+	</item>
+	
+	<!-- Eversor Mace [HP Drain] -->
+	<item>
+	<ingredient id="57" count="2056680000"/>
+	<production id="15878" count="1"/>
+	</item>
+	
+	<!-- Eversor Mace [Health] -->
+	<item>
+	<ingredient id="57" count="2056680000"/>
+	<production id="15879" count="1"/>
+	</item>
+	
+	<!-- Jade Claw [Critical Stun] -->
+	<item>
+	<ingredient id="57" count="2056680000"/>
+	<production id="15886" count="1"/>
+	</item>
+	
+	<!-- Jade Claw [Focus] -->
+	<item>
+	<ingredient id="57" count="2056680000"/>
+	<production id="15887" count="1"/>
+	</item>
+	
+	<!-- Jade Claw [Health] -->
+	<item>
+	<ingredient id="57" count="2056680000"/>
+	<production id="15888" count="1"/>
+	</item>
+	
+	<!-- Demitelum [Haste] -->
+	<item>
+	<ingredient id="57" count="2056680000"/>
+	<production id="15889" count="1"/>
+	</item>
+	
+	<!-- Demitelum [Health] -->
+	<item>
+	<ingredient id="57" count="2056680000"/>
+	<production id="15890" count="1"/>
+	</item>
+	
+	<!-- Demitelum [Guidance] -->
+	<item>
+	<ingredient id="57" count="2056680000"/>
+	<production id="15891" count="1"/>
+	</item>
+	
+	<!-- Lava Saw [Focus] -->
+	<item>
+	<ingredient id="57" count="2056680000"/>
+	<production id="15883" count="1"/>
+	</item>
+	
+	<!-- Lava Saw [Haste] -->
+	<item>
+	<ingredient id="57" count="2056680000"/>
+	<production id="15884" count="1"/>
+	</item>
+	
+	<!-- Lava Saw [Health] -->
+	<item>
+	<ingredient id="57" count="2056680000"/>
+	<production id="15885" count="1"/>
+	</item>
+	
+	<!-- Pyseal Blade [Focus] -->
+	<item>
+	<ingredient id="57" count="2056680000"/>
+	<production id="15907" count="1"/>
+	</item>
+	
+	<!-- Pyseal Blade [Haste] -->
+	<item>
+	<ingredient id="57" count="2056680000"/>
+	<production id="15908" count="1"/>
+	</item>
+	
+	<!-- Pyseal Blade [Health] -->
+	<item>
+	<ingredient id="57" count="2056680000"/>
+	<production id="15909" count="1"/>
+	</item>
+	
+	<!-- Contristo Hammer [HP Drain] -->
+	<item>
+	<ingredient id="57" count="2056680000"/>
+	<production id="15880" count="1"/>
+	</item>
+	
+	<!-- Contristo Hammer [HP Regeneration] -->
+	<item>
+	<ingredient id="57" count="2056680000"/>
+	<production id="15881" count="1"/>
+	</item>
+	
+	<!-- Contristo Hammer [Health] -->
+	<item>
+	<ingredient id="57" count="2056680000"/>
+	<production id="15882" count="1"/>
+	</item>
+	
+	<!-- Recurve Thorne Bow [Critical Slow] -->
+	<item>
+	<ingredient id="57" count="2056680000"/>
+	<production id="15901" count="1"/>
+	</item>
+	
+	<!-- Recurve Thorne Bow [Cheap Shot] -->
+	<item>
+	<ingredient id="57" count="2056680000"/>
+	<production id="15902" count="1"/>
+	</item>
+	
+	<!-- Recurve Thorne Bow [Focus] -->
+	<item>
+	<ingredient id="57" count="2056680000"/>
+	<production id="15903" count="1"/>
+	</item>
+	
+	<!-- Thorne Crossbow [Critical Slow] -->
+	<item>
+	<ingredient id="57" count="2056680000"/>
+	<production id="15910" count="1"/>
+	</item>
+	
+	<!-- Thorne Crossbow [Cheap Shot] -->
+	<item>
+	<ingredient id="57" count="2056680000"/>
+	<production id="15911" count="1"/>
+	</item>
+	
+	<!-- Thorne Crossbow [Focus] -->
+	<item>
+	<ingredient id="57" count="2056680000"/>
+	<production id="15912" count="1"/>
+	</item>
+	
+	<!-- Archangel Sword [Magic Hold] -->
+	<item>
+	<ingredient id="57" count="2056680000"/>
+	<production id="15898" count="1"/>
+	</item>
+	
+	<!-- Archangel Sword [Mana Up] -->
+	<item>
+	<ingredient id="57" count="2056680000"/>
+	<production id="15899" count="1"/>
+	</item>
+	
+	<!-- Archangel Sword [Acumen] -->
+	<item>
+	<ingredient id="57" count="2056680000"/>
+	<production id="15900" count="1"/>
+	</item>
+	
+	<!-- Sacredium [Mana Up] -->
+	<item>
+	<ingredient id="57" count="2056680000"/>
+	<production id="15892" count="1"/>
+	</item>
+	
+	<!-- Sacredium [Acumen] -->
+	<item>
+	<ingredient id="57" count="2056680000"/>
+	<production id="15893" count="1"/>
+	</item>
+	
+	<!-- Sacredium [MP Regeneration] -->
+	<item>
+	<ingredient id="57" count="2056680000"/>
+	<production id="15894" count="1"/>
+	</item>
+	
+	<!-- Cyclic Cane [Magic Hold] -->
+	<item>
+	<ingredient id="57" count="2056680000"/>
+	<production id="15895" count="1"/>
+	</item>
+	
+	<!-- Cyclic Cane [Empower] -->
+	<item>
+	<ingredient id="57" count="2056680000"/>
+	<production id="15896" count="1"/>
+	</item>
+	
+	<!-- Cyclic Cane [MP Regeneration] -->
+	<item>
+	<ingredient id="57" count="2056680000"/>
+	<production id="15897" count="1"/>
+	</item>
+	
+	<!-- Eternal Core Dual Sword] -->
+	<item>
+	<ingredient id="57" count="2056680000"/>
+	<production id="16158" count="1"/>
+	</item>
+	
+	<!-- Mamba Edge Dual Daggers] -->
+	<item>
+	<ingredient id="57" count="379300000"/>
+	<ingredient id="6673" count="1"/>
+	<production id="16156" count="1"/>
+	</item>
+</list>

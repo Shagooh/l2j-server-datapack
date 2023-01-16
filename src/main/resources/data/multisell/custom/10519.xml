@@ -1,0 +1,66 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/multisell.xsd">
+	
+<!-- Quest Itens -->
+	
+	<!-- Horn of Buffalo -->
+	<item>
+	<ingredient id="7233" count="100"/>
+	<production id="7186" count="20"/>
+	</item>
+	
+	<!-- Frozen Core -->
+	<item>
+	<ingredient id="57" count="5000000"/>
+	<production id="15469" count="1"/>
+	</item>
+	
+	<!-- Blooded Fabric -->
+	<item>
+	<ingredient id="57" count="5000000"/>
+	<production id="4295" count="1"/>
+	</item>
+	
+	<!-- Vacualite Floating Stone -->
+	<item>
+	<ingredient id="57" count="10000000"/>
+	<production id="7267" count="1"/>
+	</item>
+	
+	<!-- Portal Stone -->
+	<item>
+	<ingredient id="57" count="10000000"/>
+	<production id="3865" count="1"/>
+	</item>
+	
+	<!-- Frintezza's Magic Force Field Removal Scroll -->
+	<item>
+	<ingredient id="57" count="15000000"/>
+	<production id="8073" count="1"/>
+	</item>
+	
+	<!-- Star of Destiny -->
+	<item>
+	<ingredient id="57" count="25000000"/>
+	<production id="5011" count="1"/>
+	</item>
+	
+	<!-- Mark of Ketra's Alliance - Level 5 -->
+	<item>
+	<ingredient id="57" count="50000000"/>
+	<production id="7215" count="1"/>
+	</item>
+	
+	<!-- Mark of Varka's Alliance - Level 5 -->
+	<item>
+	<ingredient id="57" count="50000000"/>
+	<production id="7225" count="1"/>
+	</item>
+	
+	<!-- Map of Hellbound | Premium Caravan Certificate -->
+	<item>
+	<ingredient id="57" count="100000000"/>
+	<production id="9994" count="1"/>
+	<production id="9852" count="1"/>
+	</item>
+</list>

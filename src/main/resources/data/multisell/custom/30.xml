@@ -1,0 +1,23 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/multisell.xsd">
+	
+<!-- Dynasty Jewels -->
+	
+	<!-- Dynasty Necklace -->
+	<item>
+	<ingredient id="57" count="11913000"/>
+	<production id="9456" count="1"/>
+	</item>
+	
+	<!-- Dynasty Earrings -->
+	<item>
+	<ingredient id="57" count="8934000"/>
+	<production id="9455" count="1"/>
+	</item>
+	
+	<!-- Dynasty Ring -->
+	<item>
+	<ingredient id="57" count="5956500"/>
+	<production id="9457" count="1"/>
+	</item>
+</list>

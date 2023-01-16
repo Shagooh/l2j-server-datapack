@@ -1,0 +1,521 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/multisell.xsd">
+	
+<!-- Belts/Bracelets -->
+	
+	<!-- Steam Sledge Mount Bracelet -->
+	<item>
+	<ingredient id="57" count="150000000"/>
+	<production id="13546" count="1"/>
+	</item>
+	
+	<!-- Tawny-Maned Lion Mount Bracelet -->
+	<item>
+	<ingredient id="57" count="150000000"/>
+	<production id="13547" count="1"/>
+	</item>
+	
+	<!-- Light Purple-Maned Horse Mount Bracelet -->
+	<item>
+	<ingredient id="57" count="150000000"/>
+	<production id="20029" count="1"/>
+	</item>
+	
+	<!-- Jet Bike Mount Bracelet -->
+	<item>
+	<ingredient id="57" count="150000000"/>
+	<production id="21088" count="1"/>
+	</item>
+	
+	<!-- Iron Bracelet -->
+	<item>
+	<ingredient id="57" count="540000"/>
+	<production id="9589" count="1"/>
+	</item>
+	
+	<!-- Bronze Bracelet -->
+	<item>
+	<ingredient id="57" count="1200000"/>
+	<production id="9590" count="1"/>
+	</item>
+	
+	<!-- Steel Bracelet -->
+	<item>
+	<ingredient id="57" count="2860000"/>
+	<production id="9591" count="1"/>
+	</item>
+	
+	<!-- Mithril Bracelet -->
+	<item>
+	<ingredient id="57" count="8890000"/>
+	<production id="9592" count="1"/>
+	</item>
+	
+	<!-- Enhanced Steel Bracelet -->
+	<item>
+	<ingredient id="57" count="3432000"/>
+	<production id="10209" count="1"/>
+	</item>
+	
+	<!-- Enhanced Mithril Bracelet -->
+	<item>
+	<ingredient id="57" count="10668000"/>
+	<production id="10210" count="1"/>
+	</item>
+	
+	<!-- Cloth Belt -->
+	<item>
+	<ingredient id="57" count="67550"/>
+	<production id="13894" count="1"/>
+	</item>
+	
+	<!-- Leather Belt -->
+	<item>
+	<ingredient id="57" count="330000"/>
+	<production id="13895" count="1"/>
+	</item>
+	
+	<!-- Iron Belt -->
+	<item>
+	<ingredient id="57" count="928250"/>
+	<production id="13896" count="1"/>
+	</item>
+	
+	<!-- Mithril Belt -->
+	<item>
+	<ingredient id="57" count="5751000"/>
+	<production id="13897" count="1"/>
+	</item>
+	
+	<!-- Low-Grade Magic Pouch Cloth Belt -->
+	<item>
+	<ingredient id="57" count="84438"/>
+	<production id="13938" count="1"/>
+	</item>
+	
+	<!-- Regular Magic Pouch Cloth Belt -->
+	<item>
+	<ingredient id="57" count="101325"/>
+	<production id="13939" count="1"/>
+	</item>
+	
+	<!-- High-Grade Magic Pouch Cloth Belt -->
+	<item>
+	<ingredient id="57" count="118213"/>
+	<production id="13940" count="1"/>
+	</item>
+	
+	<!-- Top-Grade Magic Pouch Cloth Belt -->
+	<item>
+	<ingredient id="57" count="135100"/>
+	<production id="13941" count="1"/>
+	</item>
+	
+	<!-- Low-Grade Magic Pouch Leather Belt -->
+	<item>
+	<ingredient id="57" count="413000"/>
+	<production id="13942" count="1"/>
+	</item>
+	
+	<!-- Regular Magic Pouch Leather Belt -->
+	<item>
+	<ingredient id="57" count="495000"/>
+	<production id="13943" count="1"/>
+	</item>
+	
+	<!-- High-Grade Magic Pouch Leather Belt -->
+	<item>
+	<ingredient id="57" count="578000"/>
+	<production id="13944" count="1"/>
+	</item>
+	
+	<!-- Top-Grade Magic Pouch Leather Belt -->
+	<item>
+	<ingredient id="57" count="660000"/>
+	<production id="13945" count="1"/>
+	</item>
+	
+	<!-- Low-Grade Magic Pouch Iron Belt -->
+	<item>
+	<ingredient id="57" count="1160313"/>
+	<production id="13946" count="1"/>
+	</item>
+	
+	<!-- Regular Magic Pouch Iron Belt -->
+	<item>
+	<ingredient id="57" count="1392375"/>
+	<production id="13947" count="1"/>
+	</item>
+	
+	<!-- High-Grade Magic Pouch Iron Belt -->
+	<item>
+	<ingredient id="57" count="1624438"/>
+	<production id="13948" count="1"/>
+	</item>
+	
+	<!-- Top-Grade Magic Pouch Iron Belt -->
+	<item>
+	<ingredient id="57" count="1856500"/>
+	<production id="13949" count="1"/>
+	</item>
+	
+	<!-- Low-Grade Magic Pouch Mithril Belt -->
+	<item>
+	<ingredient id="57" count="7188750"/>
+	<production id="13950" count="1"/>
+	</item>
+	
+	<!-- Regular Magic Pouch Mithril Belt -->
+	<item>
+	<ingredient id="57" count="8626500"/>
+	<production id="13951" count="1"/>
+	</item>
+	
+	<!-- High-Grade Magic Pouch Mithril Belt -->
+	<item>
+	<ingredient id="57" count="10064250"/>
+	<production id="13952" count="1"/>
+	</item>
+	
+	<!-- Top-Grade Magic Pouch Mithril Belt -->
+	<item>
+	<ingredient id="57" count="11502000"/>
+	<production id="13953" count="1"/>
+	</item>
+	
+	<!-- Low-Grade Magic Pin Cloth Belt -->
+	<item>
+	<ingredient id="57" count="84438"/>
+	<production id="13954" count="1"/>
+	</item>
+	
+	<!-- Regular Magic Pin Cloth Belt -->
+	<item>
+	<ingredient id="57" count="101325"/>
+	<production id="13955" count="1"/>
+	</item>
+	
+	<!-- High-Grade Magic Pin Cloth Belt -->
+	<item>
+	<ingredient id="57" count="118213"/>
+	<production id="13956" count="1"/>
+	</item>
+	
+	<!-- Top-Grade Magic Pin Cloth Belt -->
+	<item>
+	<ingredient id="57" count="135100"/>
+	<production id="13957" count="1"/>
+	</item>
+	
+	<!-- Low-Grade Magic Pin Leather Belt -->
+	<item>
+	<ingredient id="57" count="413000"/>
+	<production id="13958" count="1"/>
+	</item>
+	
+	<!-- Regular Magic Pin Leather Belt -->
+	<item>
+	<ingredient id="57" count="495000"/>
+	<production id="13959" count="1"/>
+	</item>
+	
+	<!-- High-Grade Magic Pin Leather Belt -->
+	<item>
+	<ingredient id="57" count="578000"/>
+	<production id="13960" count="1"/>
+	</item>
+	
+	<!-- Top-Grade Magic Pin Leather Belt -->
+	<item>
+	<ingredient id="57" count="660000"/>
+	<production id="13961" count="1"/>
+	</item>
+	
+	<!-- Low-Grade Magic Pin Iron Belt -->
+	<item>
+	<ingredient id="57" count="1160313"/>
+	<production id="13962" count="1"/>
+	</item>
+	
+	<!-- Regular Magic Pin Iron Belt -->
+	<item>
+	<ingredient id="57" count="1392375"/>
+	<production id="13963" count="1"/>
+	</item>
+	
+	<!-- High-Grade Magic Pin Iron Belt -->
+	<item>
+	<ingredient id="57" count="1624438"/>
+	<production id="13964" count="1"/>
+	</item>
+	
+	<!-- Top-Grade Magic Pin Iron Belt -->
+	<item>
+	<ingredient id="57" count="1856500"/>
+	<production id="13965" count="1"/>
+	</item>
+	
+	<!-- Low-Grade Magic Pin Mithril Belt -->
+	<item>
+	<ingredient id="57" count="7188750"/>
+	<production id="13966" count="1"/>
+	</item>
+	
+	<!-- Regular Magic Pin Mithril Belt -->
+	<item>
+	<ingredient id="57" count="8626500"/>
+	<production id="13967" count="1"/>
+	</item>
+	
+	<!-- High-Grade Magic Pin Mithril Belt -->
+	<item>
+	<ingredient id="57" count="10064250"/>
+	<production id="13968" count="1"/>
+	</item>
+	
+	<!-- Top-Grade Magic Pin Mithril Belt -->
+	<item>
+	<ingredient id="57" count="11502000"/>
+	<production id="13969" count="1"/>
+	</item>
+	
+	<!-- Low-grade Magic Rune Clip Iron Belt [HP Recovery] -->
+	<item>
+	<ingredient id="57" count="1450391"/>
+	<production id="14922" count="1"/>
+	</item>
+	
+	<!-- Ordinary Magic Rune Clip Iron Belt [HP Recovery] -->
+	<item>
+	<ingredient id="57" count="2088562"/>
+	<production id="14923" count="1"/>
+	</item>
+	
+	<!-- High-grade Magic Rune Clip Iron Belt [HP Recovery] -->
+	<item>
+	<ingredient id="57" count="2842767"/>
+	<production id="14924" count="1"/>
+	</item>
+	
+	<!-- Top-grade Magic Rune Clip Iron Belt [HP Recovery] -->
+	<item>
+	<ingredient id="57" count="3713000"/>
+	<production id="14925" count="1"/>
+	</item>
+	
+	<!-- Low-grade Magic Rune Clip Mithril Belt [HP Recovery] -->
+	<item>
+	<ingredient id="57" count="8985938"/>
+	<production id="14926" count="1"/>
+	</item>
+	
+	<!-- Ordinary Magic Rune Clip Mithril Belt [HP Recovery] -->
+	<item>
+	<ingredient id="57" count="12939750"/>
+	<production id="14927" count="1"/>
+	</item>
+	
+	<!-- High-grade Magic Rune Clip Mithril Belt [HP Recovery] -->
+	<item>
+	<ingredient id="57" count="17612438"/>
+	<production id="14928" count="1"/>
+	</item>
+	
+	<!-- Top-grade Magic Rune Clip Mithril Belt [HP Recovery] -->
+	<item>
+	<ingredient id="57" count="23004000"/>
+	<production id="14929" count="1"/>
+	</item>
+	
+	<!-- Low-grade Magic Rune Clip Iron Belt [MP Recovery] -->
+	<item>
+	<ingredient id="57" count="1450391"/>
+	<production id="14930" count="1"/>
+	</item>
+	
+	<!-- Ordinary Magic Rune Clip Iron Belt [MP Recovery] -->
+	<item>
+	<ingredient id="57" count="2088562"/>
+	<production id="14931" count="1"/>
+	</item>
+	
+	<!-- High-grade Magic Rune Clip Iron Belt [MP Recovery] -->
+	<item>
+	<ingredient id="57" count="2842767"/>
+	<production id="14932" count="1"/>
+	</item>
+	
+	<!-- Top-grade Magic Rune Clip Iron Belt [MP Recovery] -->
+	<item>
+	<ingredient id="57" count="3713000"/>
+	<production id="14933" count="1"/>
+	</item>
+	
+	<!-- Low-grade Magic Rune Clip Mithril Belt [MP Recovery] -->
+	<item>
+	<ingredient id="57" count="8985938"/>
+	<production id="14934" count="1"/>
+	</item>
+	
+	<!-- Ordinary Magic Rune Clip Mithril Belt [MP Recovery] -->
+	<item>
+	<ingredient id="57" count="12939750"/>
+	<production id="14935" count="1"/>
+	</item>
+	
+	<!-- High-grade Magic Rune Clip Mithril Belt [MP Recovery] -->
+	<item>
+	<ingredient id="57" count="17612438"/>
+	<production id="14936" count="1"/>
+	</item>
+	
+	<!-- Top-grade Magic Rune Clip Mithril Belt [MP Recovery] -->
+	<item>
+	<ingredient id="57" count="23004000"/>
+	<production id="14937" count="1"/>
+	</item>
+	
+	<!-- Low-grade Magic Ornament Iron Belt [PvP Physical Attack] -->
+	<item>
+	<ingredient id="57" count="1812989"/>
+	<production id="14938" count="1"/>
+	</item>
+	
+	<!-- Regular Magic Ornament Iron Belt [PvP Physical Attack] -->
+	<item>
+	<ingredient id="57" count="3132843"/>
+	<production id="14939" count="1"/>
+	</item>
+	
+	<!-- High-grade Magic Ornament Iron Belt [PvP Physical Attack] -->
+	<item>
+	<ingredient id="57" count="4974842"/>
+	<production id="14940" count="1"/>
+	</item>
+	
+	<!-- Top-grade Magic Ornament Iron Belt [PvP Physical Attack] -->
+	<item>
+	<ingredient id="57" count="7426000"/>
+	<production id="14941" count="1"/>
+	</item>
+	
+	<!-- Low-grade Magic Ornament Mithril Belt [PvP Physical Attack] -->
+	<item>
+	<ingredient id="57" count="11232423"/>
+	<production id="14950" count="1"/>
+	</item>
+	
+	<!-- Regular Magic Ornament Mithril Belt [PvP Physical Attack] -->
+	<item>
+	<ingredient id="57" count="19409625"/>
+	<production id="14951" count="1"/>
+	</item>
+	
+	<!-- High-grade Magic Ornament Mithril Belt [PvP Physical Attack] -->
+	<item>
+	<ingredient id="57" count="30821767"/>
+	<production id="14952" count="1"/>
+	</item>
+	
+	<!-- Top-grade Magic Ornament Mithril Belt [PvP Physical Attack] -->
+	<item>
+	<ingredient id="57" count="46008000"/>
+	<production id="14953" count="1"/>
+	</item>
+	
+	<!-- Low-grade Magic Ornament Iron Belt [PvP Skill Attack] -->
+	<item>
+	<ingredient id="57" count="1812989"/>
+	<production id="14942" count="1"/>
+	</item>
+	
+	<!-- Regular Magic Ornament Iron Belt [PvP Skill Attack] -->
+	<item>
+	<ingredient id="57" count="3132843"/>
+	<production id="14943" count="1"/>
+	</item>
+	
+	<!-- High-grade Magic Ornament Iron Belt [PvP Skill Attack] -->
+	<item>
+	<ingredient id="57" count="4974842"/>
+	<production id="14944" count="1"/>
+	</item>
+	
+	<!-- Top-grade Magic Ornament Iron Belt [PvP Skill Attack] -->
+	<item>
+	<ingredient id="57" count="7426000"/>
+	<production id="14945" count="1"/>
+	</item>
+	
+	<!-- Low-grade Magic Ornament Mithril Belt [PvP Skill Attack] -->
+	<item>
+	<ingredient id="57" count="11232423"/>
+	<production id="14954" count="1"/>
+	</item>
+	
+	<!-- Regular Magic Ornament Mithril Belt [PvP Skill Attack] -->
+	<item>
+	<ingredient id="57" count="19409625"/>
+	<production id="14955" count="1"/>
+	</item>
+	
+	<!-- High-grade Magic Ornament Mithril Belt [PvP Skill Attack] -->
+	<item>
+	<ingredient id="57" count="30821767"/>
+	<production id="14956" count="1"/>
+	</item>
+	
+	<!-- Top-grade Magic Ornament Mithril Belt [PvP Skill Attack] -->
+	<item>
+	<ingredient id="57" count="46008000"/>
+	<production id="14957" count="1"/>
+	</item>
+	
+	<!-- Low-grade Magic Ornament Iron Belt [PVP Defense] -->
+	<item>
+	<ingredient id="57" count="1812989"/>
+	<production id="14946" count="1"/>
+	</item>
+	
+	<!-- Regular Magic Ornament Iron Belt [PVP Defense] -->
+	<item>
+	<ingredient id="57" count="3132843"/>
+	<production id="14947" count="1"/>
+	</item>
+	
+	<!-- High-grade Magic Ornament Iron Belt [PVP Defense] -->
+	<item>
+	<ingredient id="57" count="4974842"/>
+	<production id="14948" count="1"/>
+	</item>
+	
+	<!-- Top-grade Magic Ornament Iron Belt [PVP Defense] -->
+	<item>
+	<ingredient id="57" count="7426000"/>
+	<production id="14949" count="1"/>
+	</item>
+	
+	<!-- Low-grade Magic Ornament Mithril Belt [PVP Defense] -->
+	<item>
+	<ingredient id="57" count="11232423"/>
+	<production id="14958" count="1"/>
+	</item>
+	
+	<!-- Regular Magic Ornament Mithril Belt [PVP Defense] -->
+	<item>
+	<ingredient id="57" count="19409625"/>
+	<production id="14959" count="1"/>
+	</item>
+	
+	<!-- High-grade Magic Ornament Mithril Belt [PVP Defense] -->
+	<item>
+	<ingredient id="57" count="30821767"/>
+	<production id="14960" count="1"/>
+	</item>
+	
+	<!-- Top-grade Magic Ornament Mithril Belt [PVP Defense] -->
+	<item>
+	<ingredient id="57" count="46008000"/>
+	<production id="14961" count="1"/>
+	</item>
+</list>

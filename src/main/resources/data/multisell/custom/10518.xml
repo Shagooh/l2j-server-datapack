@@ -1,0 +1,149 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/multisell.xsd">
+	
+<!-- Talismans -->
+	
+	<!-- Blue Talisman - Explosion -->
+	<item>
+	<ingredient id="4355" count="20"/>
+	<production id="10416" count="1"/>
+	</item>
+	
+	<!-- Blue Talisman - Magic Explosion -->
+	<item>
+	<ingredient id="4355" count="20"/>
+	<production id="10417" count="1"/>
+	</item>
+	
+	<!-- Blue Talisman - Self-Destruction -->
+	<item>
+	<ingredient id="4355" count="20"/>
+	<production id="10423" count="1"/>
+	</item>
+	
+	<!-- Blue Talisman - Divine Protection -->
+	<item>
+	<ingredient id="4355" count="20"/>
+	<production id="9932" count="1"/>
+	</item>
+	
+	<!-- Red Talisman - Life Force -->
+	<item>
+	<ingredient id="4355" count="20"/>
+	<production id="10518" count="1"/>
+	</item>
+	
+	<!-- Blue Talisman of Magic Defense -->
+	<item>
+	<ingredient id="4355" count="8"/>
+	<production id="9927" count="1"/>
+	</item>
+	
+	<!-- Blue Talisman of Reflection -->
+	<item>
+	<ingredient id="4355" count="8"/>
+	<production id="9919" count="1"/>
+	</item>
+	
+	<!-- Blue Talisman of Wild Magic -->
+	<item>
+	<ingredient id="4355" count="8"/>
+	<production id="9915" count="1"/>
+	</item>
+	
+	<!-- Red Talisman - Max CP -->
+	<item>
+	<ingredient id="4355" count="8"/>
+	<production id="12815" count="1"/>
+	</item>
+	
+	<!-- Red Talisman of Maximum Clarity -->
+	<item>
+	<ingredient id="4355" count="8"/>
+	<production id="9918" count="1"/>
+	</item>
+	
+	<!-- White Talisman of Attention -->
+	<item>
+	<ingredient id="4355" count="3"/>
+	<production id="9963" count="1"/>
+	</item>
+	
+	<!-- White Talisman of Bandages -->
+	<item>
+	<ingredient id="4355" count="3"/>
+	<production id="9964" count="1"/>
+	</item>
+	
+	<!-- White Talisman of Bravery -->
+	<item>
+	<ingredient id="4355" count="3"/>
+	<production id="9960" count="1"/>
+	</item>
+	
+	<!-- White Talisman of Freedom -->
+	<item>
+	<ingredient id="4355" count="3"/>
+	<production id="9966" count="1"/>
+	</item>
+	
+	<!-- White Talisman of Grounding -->
+	<item>
+	<ingredient id="4355" count="3"/>
+	<production id="9962" count="1"/>
+	</item>
+	
+	<!-- White Talisman of Motion -->
+	<item>
+	<ingredient id="4355" count="3"/>
+	<production id="9961" count="1"/>
+	</item>
+	
+	<!-- White Talisman of Protection -->
+	<item>
+	<ingredient id="4355" count="3"/>
+	<production id="9965" count="1"/>
+	</item>
+	
+	<!-- Yellow Talisman of Speed -->
+	<item>
+	<ingredient id="4355" count="1"/>
+	<production id="9941" count="1"/>
+	</item>
+	
+	<!-- Talisman of Haste -->
+	<item>
+	<ingredient id="57" count="100000000"/>
+	<production id="30000" count="1"/>
+	</item>
+	
+	<!-- Talisman of Acumen -->
+	<item>
+	<ingredient id="57" count="100000000"/>
+	<production id="30001" count="1"/>
+	</item>
+	
+	<!-- Talisman of Might -->
+	<item>
+	<ingredient id="57" count="100000000"/>
+	<production id="30002" count="1"/>
+	</item>
+	
+	<!-- Talisman of Empower -->
+	<item>
+	<ingredient id="57" count="100000000"/>
+	<production id="30003" count="1"/>
+	</item>
+	
+	<!-- Talisman of Shield -->
+	<item>
+	<ingredient id="57" count="100000000"/>
+	<production id="30004" count="1"/>
+	</item>
+	
+	<!-- Talisman of Barrier -->
+	<item>
+	<ingredient id="57" count="100000000"/>
+	<production id="30005" count="1"/>
+	</item>
+</list>

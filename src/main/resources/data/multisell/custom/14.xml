@@ -1,0 +1,297 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/multisell.xsd">
+	
+<!-- C-Grade Armors -->
+	
+	<!-- Full Plate Heavy -->
+	<item>
+	<ingredient id="57" count="3025880"/>
+	<production id="356" count="1"/>
+	<production id="2438" count="1"/>
+	<production id="2462" count="1"/>
+	<production id="2414" count="1"/>
+	</item>
+	
+	<!-- Drake Leather Armor -->
+	<item>
+	<ingredient id="57" count="2534180"/>
+	<production id="401" count="1"/>
+	<production id="2437" count="1"/>
+	<production id="2461" count="1"/>
+	<production id="2414" count="1"/>
+	</item>
+	
+	<!-- Divine Tunic -->
+	<item>
+	<ingredient id="57" count="2533960"/>
+	<production id="442" count="1"/>
+	<production id="473" count="1"/>
+	<production id="603" count="1"/>
+	<production id="2463" count="1"/>
+	<production id="2414" count="1"/>
+	</item>
+	
+	<!-- Composite Armor -->
+	<item>
+	<ingredient id="57" count="2101660"/>
+	<production id="60" count="1"/>
+	<production id="64" count="1"/>
+	<production id="2460" count="1"/>
+	<production id="517" count="1"/>
+	</item>
+	
+	<!-- Theca Leather Light -->
+	<item>
+	<ingredient id="57" count="1911910"/>
+	<production id="400" count="1"/>
+	<production id="420" count="1"/>
+	<production id="2436" count="1"/>
+	<production id="2460" count="1"/>
+	<production id="517" count="1"/>
+	</item>
+	
+	<!-- Demon's Robe -->
+	<item>
+	<ingredient id="57" count="1738880"/>
+	<production id="441" count="1"/>
+	<production id="472" count="1"/>
+	<production id="2435" count="1"/>
+	<production id="2459" count="1"/>
+	<production id="517" count="1"/>
+	</item>
+	
+	<!-- Dwarven Chain Mail Shirt -->
+	<item>
+	<ingredient id="57" count="1434070"/>
+	<production id="355" count="1"/>
+	<production id="382" count="1"/>
+	<production id="64" count="1"/>
+	<production id="2456" count="1"/>
+	<production id="500" count="1"/>
+	</item>
+	
+	<!-- Plated Leather -->
+	<item>
+	<ingredient id="57" count="1050280"/>
+	<production id="398" count="1"/>
+	<production id="418" count="1"/>
+	<production id="2431" count="1"/>
+	<production id="2455" count="1"/>
+	<production id="500" count="1"/>
+	</item>
+	
+	<!-- Karmian Robe -->
+	<item>
+	<ingredient id="57" count="938410"/>
+	<production id="439" count="1"/>
+	<production id="471" count="1"/>
+	<production id="2430" count="1"/>
+	<production id="2454" count="1"/>
+	<production id="500" count="1"/>
+	</item>
+	
+	<!-- Chain Mail Heavy -->
+	<item>
+	<ingredient id="57" count="1058270"/>
+	<production id="354" count="1"/>
+	<production id="381" count="1"/>
+	<production id="2429" count="1"/>
+	<production id="2453" count="1"/>
+	<production id="2413" count="1"/>
+	</item>
+	
+	<!-- Mithril Shirt -->
+	<item>
+	<ingredient id="57" count="884030"/>
+	<production id="397" count="1"/>
+	<production id="2387" count="1"/>
+	<production id="62" count="1"/>
+	<production id="2452" count="1"/>
+	<production id="2413" count="1"/>
+	</item>
+	
+	<!-- Robe of Seal -->
+	<item>
+	<ingredient id="57" count="1086870"/>
+	<production id="440" count="1"/>
+	<production id="2434" count="1"/>
+	<production id="2458" count="1"/>
+	<production id="2413" count="1"/>
+	</item>
+	
+	<!-- Full Plate Shield -->
+	<item>
+	<ingredient id="57" count="317680"/>
+	<production id="2497" count="1"/>
+	</item>
+	
+	<!-- Composite Shield -->
+	<item>
+	<ingredient id="57" count="218130"/>
+	<production id="107" count="1"/>
+	</item>
+	
+	<!-- Knight's Shield -->
+	<item>
+	<ingredient id="57" count="143110"/>
+	<production id="632" count="1"/>
+	</item>
+	
+	<!-- Dwarven Chain Shield -->
+	<item>
+	<ingredient id="57" count="132110"/>
+	<production id="2496" count="1"/>
+	</item>
+	
+	<!-- Chain Shield -->
+	<item>
+	<ingredient id="57" count="112200"/>
+	<production id="2495" count="1"/>
+	</item>
+	
+	<!-- Common Item - Full Plate Heavy -->
+	<item>
+	<ingredient id="57" count="179410"/>
+	<production id="12144" count="1"/>
+	<production id="12142" count="1"/>
+	<production id="12141" count="1"/>
+	<production id="12145" count="1"/>
+	</item>
+	
+	<!-- Common Item - Drake Leather Armor -->
+	<item>
+	<ingredient id="57" count="150260"/>
+	<production id="12135" count="1"/>
+	<production id="12136" count="1"/>
+	<production id="12134" count="1"/>
+	<production id="12145" count="1"/>
+	</item>
+	
+	<!-- Common Item - Divine Tunic -->
+	<item>
+	<ingredient id="57" count="150260"/>
+	<production id="12138" count="1"/>
+	<production id="12139" count="1"/>
+	<production id="12136" count="1"/>
+	<production id="12137" count="1"/>
+	<production id="12145" count="1"/>
+	</item>
+	
+	<!-- Common Item - Composite Armor -->
+	<item>
+	<ingredient id="57" count="115390"/>
+	<production id="12128" count="1"/>
+	<production id="12125" count="1"/>
+	<production id="12131" count="1"/>
+	<production id="12127" count="1"/>
+	</item>
+	
+	<!-- Common Item - Theca Leather Light -->
+	<item>
+	<ingredient id="57" count="101860"/>
+	<production id="12133" count="1"/>
+	<production id="12130" count="1"/>
+	<production id="12132" count="1"/>
+	<production id="12131" count="1"/>
+	<production id="12127" count="1"/>
+	</item>
+	
+	<!-- Common Item - Demon's Robe -->
+	<item>
+	<ingredient id="57" count="95810"/>
+	<production id="12123" count="1"/>
+	<production id="12124" count="1"/>
+	<production id="12121" count="1"/>
+	<production id="12122" count="1"/>
+	<production id="12127" count="1"/>
+	</item>
+	
+	<!-- Common Item - Dwarven Chain Mail Shirt -->
+	<item>
+	<ingredient id="57" count="67034"/>
+	<production id="12110" count="1"/>
+	<production id="12109" count="1"/>
+	<production id="12088" count="1"/>
+	<production id="12108" count="1"/>
+	<production id="12106" count="1"/>
+	</item>
+	
+	<!-- Common Item - Rind Leather Armor -->
+	<item>
+	<ingredient id="57" count="51656"/>
+	<production id="12113" count="1"/>
+	<production id="12111" count="1"/>
+	<production id="12114" count="1"/>
+	<production id="12112" count="1"/>
+	<production id="12106" count="1"/>
+	</item>
+	
+	<!-- Common Item - Karmian Robe -->
+	<item>
+	<ingredient id="57" count="43285"/>
+	<production id="12099" count="1"/>
+	<production id="12100" count="1"/>
+	<production id="12098" count="1"/>
+	<production id="12097" count="1"/>
+	<production id="12106" count="1"/>
+	</item>
+	
+	<!-- Common Item - Chain Mail Shirt -->
+	<item>
+	<ingredient id="57" count="49434"/>
+	<production id="12095" count="1"/>
+	<production id="12094" count="1"/>
+	<production id="12093" count="1"/>
+	<production id="12092" count="1"/>
+	<production id="12090" count="1"/>
+	</item>
+	
+	<!-- Common Item - Mithril Shirt -->
+	<item>
+	<ingredient id="57" count="41437"/>
+	<production id="12086" count="1"/>
+	<production id="12084" count="1"/>
+	<production id="12085" count="1"/>
+	<production id="12087" count="1"/>
+	<production id="12090" count="1"/>
+	</item>
+	
+	<!-- Common Item - Robe of Seal -->
+	<item>
+	<ingredient id="57" count="47454"/>
+	<production id="12115" count="1"/>
+	<production id="12085" count="1"/>
+	<production id="12087" count="1"/>
+	<production id="12090" count="1"/>
+	</item>
+	
+	<!-- Common Item - Full Plate Shield -->
+	<item>
+	<ingredient id="57" count="18810"/>
+	<production id="12143" count="1"/>
+	</item>
+	
+	<!-- Common Item - Composite Shield -->
+	<item>
+	<ingredient id="57" count="11990"/>
+	<production id="12126" count="1"/>
+	</item>
+	
+	<!-- Common Item - Knight's Shield -->
+	<item>
+	<ingredient id="57" count="6490"/>
+	<production id="12107" count="1"/>
+	</item>
+	
+	<!-- Common Item - Dwarven Chain Shield -->
+	<item>
+	<ingredient id="57" count="6028"/>
+	<production id="12102" count="1"/>
+	</item>
+	
+	<!-- Common Item - Chain Shield -->
+	<item>
+	<ingredient id="57" count="5192"/>
+	<production id="12096" count="1"/>
+	</item>
+</list>
