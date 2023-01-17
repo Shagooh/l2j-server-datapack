@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/skills.xsd">
+	<skill id="30000" levels="6" name="Special Talisman">
+		<!-- Special Talisman Skill -->
+		<table name="#icons"> icon.skill1086 icon.skill1085 icon.skill1068 icon.skill1059 icon.skill1040 icon.skill1036 </table>
+		<table name="#pAtkSpd"> 1.03 1 1 1 1 1 </table>
+		<table name="#mAtkSpd"> 1 1.03 1 1 1 1 </table>
+		<table name="#pAtk"> 1 1 1.03 1 1 1 </table>
+		<table name="#mAtk"> 1 1 1 1.03 1 1 </table>
+		<table name="#pDef"> 1 1 1 1 1.03 1 </table>
+		<table name="#mDef"> 1 1 1 1 1 1.03 </table>
+		<set name="icon" val="#icons" />
+		<set name="magicLvl" val="1" />
+		<set name="operateType" val="P" />
+		<set name="targetType" val="SELF" />
+		<for>
+			<effect name="Buff">
+				<add stat="maxHp" val="1000" /> <!-- HP +1.000 -->
+				<add stat="maxMp" val="500" /> <!-- MP +500 -->
+				<mul stat="pAtkSpd" val="#pAtkSpd" /> <!-- Attack Speed +3% -->
+				<mul stat="mAtkSpd" val="#mAtkSpd" /> <!-- Casting Speed +3% -->
+				<mul stat="pAtk" val="#pAtk" /> <!-- P. Attack +3% -->
+				<mul stat="mAtk" val="#mAtk" /> <!-- M. Attack +3% -->
+				<mul stat="pDef" val="#pDef" /> <!-- P. Defense +3% -->
+				<mul stat="mDef" val="#mDef" /> <!-- M. Defense +3% -->
+			</effect>
+		</for>
+	</skill>
+</list>
