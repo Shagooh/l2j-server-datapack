@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/items.xsd">
+	<item id="30000" type="Armor" name="Talisman of Haste">
+		<set name="icon" val="icon.skill1086" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="deco1" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="GOLD" />
+		<set name="weight" val="2500" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="is_oly_restricted" val="true" />
+		<set name="item_skill" val="30000-1" /> <!-- Talisman of Haste -->
+		<set name="time" val="43200" />
+	</item>
+	<item id="30001" type="Armor" name="Talisman of Acumen">
+		<set name="icon" val="icon.skill1085" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="deco1" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="GOLD" />
+		<set name="weight" val="2500" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="is_oly_restricted" val="true" />
+		<set name="item_skill" val="30000-2" /> <!-- Talisman of Acumen -->
+		<set name="time" val="43200" />
+	</item>
+	<item id="30002" type="Armor" name="Talisman of Might">
+		<set name="icon" val="icon.skill1068" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="deco1" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="GOLD" />
+		<set name="weight" val="2500" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="is_oly_restricted" val="true" />
+		<set name="item_skill" val="30000-3" /> <!-- Talisman of Might -->
+		<set name="time" val="43200" />
+	</item>
+	<item id="30003" type="Armor" name="Talisman of Empower">
+		<set name="icon" val="icon.skill1059" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="deco1" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="GOLD" />
+		<set name="weight" val="2500" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="is_oly_restricted" val="true" />
+		<set name="item_skill" val="30000-4" /> <!-- Talisman of Empower -->
+		<set name="time" val="43200" />
+	</item>
+	<item id="30004" type="Armor" name="Talisman of Shield">
+		<set name="icon" val="icon.skill1040" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="deco1" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="GOLD" />
+		<set name="weight" val="2500" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="is_oly_restricted" val="true" />
+		<set name="item_skill" val="30000-5" /> <!-- Talisman of Shield -->
+		<set name="time" val="43200" />
+	</item>
+	<item id="30005" type="Armor" name="Talisman of Barrier">
+		<set name="icon" val="icon.skill1036" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="deco1" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="GOLD" />
+		<set name="weight" val="2500" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="is_oly_restricted" val="true" />
+		<set name="item_skill" val="30000-6" /> <!-- Talisman of Barrier -->
+		<set name="time" val="43200" />
+	</item>
+</list>
